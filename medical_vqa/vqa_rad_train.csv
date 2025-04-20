@@ -1,0 +1,1798 @@
+img_id,category,question,answer_type,answer,mode
+synpic54610.jpg,PRES,are regions of the brain infarcted,CLOSED,yes,train
+synpic29265.jpg,ABN,are the lungs normal appearing,CLOSED,no,train
+synpic29265.jpg,PRES,is there evidence of a pneumothorax,CLOSED,no,train
+synpic28602.jpg,MODALITY,what type of imaging does this not represent,OPEN,ultrasound,train
+synpic29265.jpg,MODALITY,is this a mri of the chest,CLOSED,no,train
+synpic28602.jpg,ORGAN,what is not pictured in this image,OPEN,the extremities,train
+synpic28602.jpg,PRES,is the trachea midline,CLOSED,yes,train
+synpic28602.jpg,PRES,is there evidence of an aortic aneurysm,CLOSED,no,train
+synpic39460.jpg,POS,where is the abnormality,OPEN,left temporal lobe,train
+synpic28602.jpg,PRES,is there blunting of the costovertebral angles,CLOSED,no,train
+synpic42202.jpg,ORGAN,which organ system is abnormal in this image,OPEN,cardiovascular,train
+synpic54610.jpg,POS,where is the pathology in this image,OPEN,vasculature,train
+synpic42202.jpg,PRES,is there a pneumothorax,CLOSED,no,train
+synpic54610.jpg,MODALITY,what type of imaging is this,OPEN,mri diffusion weighted,train
+synpic54610.jpg,ORGAN,what organ system is pictured,OPEN,the brain,train
+synpic29265.jpg,PRES,is there a fracture,CLOSED,no,train
+synpic39460.jpg,"SIZE, PRES",is there swelling of the grey matter,CLOSED,yes,train
+synpic28602.jpg,PLANE,is this an anterior posterior image,CLOSED,no,train
+synpic39460.jpg,ORGAN,is this the brain,CLOSED,yes,train
+synpic29265.jpg,PRES,is there air under the diaphragm,CLOSED,no,train
+synpic42202.jpg,MODALITY,what type of image is this,OPEN,chest x-ray,train
+synpic39460.jpg,MODALITY,is this a ct image,CLOSED,no,train
+synpic42202.jpg,PLANE,is this an anterior-posterior image,CLOSED,no,train
+synpic39460.jpg,PLANE,in what plane is this image oriented,OPEN,axial,train
+synpic39460.jpg,PRES,is there a skull fracture pictured,CLOSED,no,train
+synpic26158.jpg,MODALITY,was the arterial contrast phase selected,CLOSED,yes,train
+synpic26158.jpg,PLANE,does this plane of section include the gastric cardia,CLOSED,yes,train
+synpic21776.jpg,MODALITY,was this taken with good x ray penetration,CLOSED,yes,train
+synpic34713.jpg,PRES,are the common ileac arteries and veins patent in this section,CLOSED,yes,train
+synpic34713.jpg,PRES,are the common iliac vasculature open,CLOSED,yes,train
+synpic19605.jpg,SIZE,is the spleen normal size,CLOSED,yes,train
+synpic19605.jpg,SIZE,is the size of the spleen normal,CLOSED,yes,train
+synpic39086.jpg,PRES,are there air fluid levels present in the small bowel,CLOSED,yes,train
+synpic39086.jpg,PRES,is there contrast material showing air-fluid levels in the small bowel,CLOSED,yes,train
+synpic55245.jpg,POS,is/are the mass located near/in the mid brain,CLOSED,yes,train
+synpic55245.jpg,PRES,is the mass compressing the mid brain on this section,CLOSED,yes,train
+synpic55245.jpg,PRES,is the mass pushing on the midbrain structures,CLOSED,yes,train
+synpic50962.jpg,PRES,are brain structures shifted across the midline,CLOSED,no,train
+synpic50962.jpg,PRES,is there a midline shift of the cerebral parenchyma,CLOSED,no,train
+synpic22967.jpg,SIZE,is the gallbladder large in size,CLOSED,no,train
+synpic22967.jpg,SIZE,is the gallbladder distended,CLOSED,no,train
+synpic25821.jpg,COUNT,are there 8 ribs shown in this image,CLOSED,yes,train
+synpic25821.jpg,COUNT,are there at least 8 ribs visible for good inspiratory effort,CLOSED,yes,train
+synpic34947.jpg,ORGAN,is this an image of the cerebellum,CLOSED,yes,train
+synpic50962.jpg,PLANE,is this a transverse section,CLOSED,yes,train
+synpic34515.jpg,OTHER,is the patient vertebral body indicative of normal aging,CLOSED,yes,train
+synpic34515.jpg,PRES,any observed degenerative changes in the vertebral body,CLOSED,no,train
+synpic30324.jpg,PRES,is there evidence of herniation of the small bowel into the abdominal wall,CLOSED,no,train
+synpic30324.jpg,PRES,is there evidence of an abdominal hernia,CLOSED,no,train
+synpic39088.jpg,PRES,are there air-fluid levels present on this ct radiograph,CLOSED,yes,train
+synpic39088.jpg,PRES,is there evidence of air fluid levels in the patient bowel,CLOSED,yes,train
+synpic55245.jpg,PRES,have brain structures crossed the midline of the brain,CLOSED,yes,train
+synpic55245.jpg,PRES,is there evidence of midlight shift of structures on this mri,CLOSED,yes,train
+synpic21776.jpg,PLANE,was this taken in pa position,CLOSED,yes,train
+synpic34713.jpg,PRES,is there evidence of air in the peritoneum,CLOSED,yes,train
+synpic34713.jpg,PRES,is there air in the peritoneal cavity,CLOSED,yes,train
+synpic42245.jpg,ATTRIB,are the hilar soft tissue densities symmetric,CLOSED,no,train
+synpic42245.jpg,SIZE,are the soft tissue densities in the left hilum equivalent in size to the soft tissue densities in the right hilum,CLOSED,no,train
+synpic16174.jpg,ATTRIB,is the descending aortic silhouette of normal contour,CLOSED,yes,train
+synpic16174.jpg,"ATTRIB, SIZE",is the descending aortic silhouette of normal contour and size,CLOSED,yes,train
+synpic16174.jpg,PRES,is there tortuosity of the descending aorta,CLOSED,yes,train
+synpic16174.jpg,PRES,is the descending aortic silhouette of normal size,CLOSED,yes,train
+synpic16174.jpg,SIZE,is the descending aortic silhouette of normal size,CLOSED,yes,train
+synpic34947.jpg,PRES,are the vertebral arteries patent in this section,CLOSED,yes,train
+synpic34947.jpg,PRES,are the vertebral arteries in view,CLOSED,yes,train
+synpic26925.jpg,PRES,is the vertebro-basilar arterial network viewed in this section,CLOSED,yes,train
+synpic26925.jpg,PRES,is the vertebral artery/basilar artery located in this image,CLOSED,yes,train
+synpic39757.jpg,PRES,is there blurring of the grey-white matter junctions in the right temporal lobe,CLOSED,yes,train
+synpic39757.jpg,PRES,is there no definitive border between the grey matter and white matter in the right temporal lobe,CLOSED,yes,train
+synpic26158.jpg,PRES,is there evidence of portal venous congestion,CLOSED,no,train
+synpic26158.jpg,PRES,is the portal vein engorged,CLOSED,no,train
+synpic34947.jpg,PLANE,is the plane of section transverse,CLOSED,yes,train
+synpic19605.jpg,ABN,is the liver parenchyma normal,CLOSED,yes,train
+synpic19605.jpg,PRES,is the liver parenchyma homogenous,CLOSED,yes,train
+synpic19605.jpg,PRES,is there no evidence of any hypo- or hyperattenuations located in the liver,CLOSED,yes,train
+synpic19605.jpg,"PRES, ABN",is the liver parenchyma homogenous and normal,CLOSED,yes,train
+synpic40272.jpg,PLANE,was this chest x ray taken in pa format,CLOSED,yes,train
+synpic22967.jpg,ATTRIB,is the stomach thickening regular and uniform or ragged/asymmetrical,CLOSED,asymmetric,train
+synpic22967.jpg,ATTRIB,is the stomach wall thickening symmetric or asymmetric,CLOSED,asymmetric,train
+synpic26158.jpg,PRES,is there evidence of ectopic tissue present in surrounding organs,CLOSED,no,train
+synpic26158.jpg,PRES,is there evidence of metastatic tissue on organs surrounding the liver,CLOSED,no,train
+synpic21776.jpg,PRES,are lung opacities noted,CLOSED,no,train
+synpic21776.jpg,PRES,is there evidence of intraparenchymal lung nodules,CLOSED,no,train
+synpic39757.jpg,PRES,are there calcifications in the cerebral arteries,CLOSED,yes,train
+synpic39757.jpg,PRES,is there evidence of calcifications in the cerebral arteries,CLOSED,yes,train
+synpic52767.jpg,PRES,is there evidence of a right apical pneumothorax on this chest x-ray,CLOSED,yes,train
+synpic52767.jpg,PRES,is a pneumothorax present near the right lung field,CLOSED,yes,train
+synpic22286.jpg,COLOR,are the branches of the superior mesenteric arteries filled with contrast,CLOSED,yes,train
+synpic22286.jpg,COLOR,are the branches of the superior mesenteric arteries hyper attenuated,CLOSED,yes,train
+synpic42245.jpg,PRES,are there any fractures in any of the ribs,CLOSED,no,train
+synpic42245.jpg,PRES,are any of the patient ribs fractured,CLOSED,no,train
+synpic30324.jpg,PRES,is there evidence of fluid in the peritoneal cavity,CLOSED,no,train
+synpic30324.jpg,PRES,is there evidence of ascites,CLOSED,no,train
+synpic25534.jpg,PRES,has the small bowel perforated,CLOSED,no,train
+synpic25534.jpg,PRES,is there evidence of pneumoperitoneum,CLOSED,yes,train
+synpic39086.jpg,PRES,is this the small bowel on this image,CLOSED,yes,train
+synpic34515.jpg,PRES,are feces located in the colon,CLOSED,yes,train
+synpic34515.jpg,PRES,is there stool in the colon,CLOSED,yes,train
+synpic55245.jpg,PRES,do the left and right middle cerebral arteries appear patent on this section,CLOSED,yes,train
+synpic55245.jpg,PRES,is the left and right mca present,CLOSED,yes,train
+synpic50962.jpg,MODALITY,is this a t2 weighted image,CLOSED,yes,train
+synpic26925.jpg,PRES,is the lesion causing significant brainstem herniation,CLOSED,no,train
+synpic26925.jpg,PRES,is there herniation of the brainstem secondary to the lesion,CLOSED,no,train
+synpic40272.jpg,PRES,is it difficult to delineate the left costophrenic angle,CLOSED,yes,train
+synpic40272.jpg,PRES,is there blunting of the left costophrenic angle,CLOSED,yes,train
+synpic50962.jpg,PRES,are structures associated with the midbrain located in this image,CLOSED,yes,train
+synpic50962.jpg,PRES,is the midbrain identified in this section,CLOSED,yes,train
+synpic22967.jpg,COUNT,are there more than 5 enlarged 1 cm lymph nodes around the stomach,CLOSED,yes,train
+synpic22967.jpg,COUNT,are there 5 lymph nodes located near the stomach,CLOSED,yes,train
+synpic22286.jpg,SIZE,does the gallbladder appear distended,CLOSED,yes,train
+synpic22286.jpg,SIZE,is the gallbladder enlarged,CLOSED,yes,train
+synpic39086.jpg,PLANE,is this image plane taken inferior to the liver,CLOSED,yes,train
+synpic34947.jpg,PRES,is there any shift of midline structures visible in this section,CLOSED,no,train
+synpic34947.jpg,PRES,is there shifting of structures across the middle,CLOSED,no,train
+synpic39086.jpg,PRES,is there evidence of a small bowel obstruction with perforated viscus on this ct,CLOSED,yes,train
+synpic39086.jpg,PRES,is there evidence of a pneumoperitoneum secondary to a perforation,CLOSED,yes,train
+synpic39757.jpg,PRES,is there edema in the patient right temporal lobe,CLOSED,yes,train
+synpic39757.jpg,PRES,is there evidence of cytotoxic edema in the right temporal lobe,CLOSED,yes,train
+synpic26925.jpg,ATTRIB,does the mass have a smooth appearing border,CLOSED,yes,train
+synpic26925.jpg,ATTRIB,is the mass well-defined,CLOSED,yes,train
+synpic34713.jpg,PRES,is there contrast in the colonic lumen,CLOSED,yes,train
+synpic34713.jpg,PRES,was the patient given oral contrast,CLOSED,yes,train
+synpic19605.jpg,PRES,is the celiac trunk visualized and patent,CLOSED,yes,train
+synpic19605.jpg,PRES,is the celiac trunk visualized,CLOSED,yes,train
+synpic19605.jpg,PRES,is the celiac trunk patent,CLOSED,yes,train
+synpic19605.jpg,PRES,is the celiac trunk able to be visualized in this patient and is it open,CLOSED,yes,train
+synpic19605.jpg,PRES,is the celiac trunk able to be visualized in this patient,CLOSED,yes,train
+synpic19605.jpg,PRES,is the celiac trunk open,CLOSED,yes,train
+synpic34947.jpg,MODALITY,was this image taken without motion artifact,CLOSED,yes,train
+synpic39086.jpg,OTHER,was this image taken with patient in symmetrical supine position,CLOSED,yes,train
+synpic50962.jpg,PRES,is this an image of the right and left temporal lobes,CLOSED,yes,train
+synpic26158.jpg,PRES,are the liver splee n stomac h and esophagus all visualized in this image,CLOSED,yes,train
+synpic39088.jpg,COLOR,does the gi contrast hi-light the small bowel,CLOSED,yes,train
+synpic39088.jpg,PRES,is there oral contrast in the patient small bowel,CLOSED,yes,train
+synpic39088.jpg,SIZE,is there enlargement of the abdominal aorta on this image,CLOSED,no,train
+synpic39088.jpg,SIZE,is the abdominal aorta large in size,CLOSED,no,train
+synpic42245.jpg,PRES,are the costophrenic angles sharp,CLOSED,yes,train
+synpic42245.jpg,PRES,is there no evidence of blunting of the costophrenic angles,CLOSED,yes,train
+synpic21776.jpg,PRES,is the lung parenchyma well visualized,CLOSED,yes,train
+synpic34947.jpg,PRES,has the brainstem herniated,CLOSED,no,train
+synpic34947.jpg,PRES,is there evidence of brainstem herniation in this section,CLOSED,no,train
+synpic40272.jpg,ORGAN,are the heart and lungs displayed well in this film,CLOSED,yes,train
+synpic31400.jpg,ABN,any abnormal findings in the lower lung fields,CLOSED,no,train
+synpic31400.jpg,ABN,are the lower lung fields normal,CLOSED,yes,train
+synpic21734.jpg,PRES,is the mass loculated,CLOSED,yes,train
+synpic21734.jpg,PRES,is there a loculated pancreatic mass,CLOSED,yes,train
+synpic20260.jpg,ORGAN,what organ system is evaluated primarily,OPEN,gi,train
+synpic45162.jpg,PRES,are there gallstones,CLOSED,yes,train
+synpic45162.jpg,PRES,are gallstones present,CLOSED,yes,train
+synpic32933.jpg,ABN,is the left hemidiaphragm normal,CLOSED,yes,train
+synpic32933.jpg,ABN,is the left hemidiaphragm normal,CLOSED,yes,train
+synpic49914.jpg,MODALITY,is this a chest x-ray,CLOSED,yes,train
+synpic56799.jpg,ATTRIB,how would you describe the lesion,OPEN,ring-enhancing lesion,train
+synpic56799.jpg,ATTRIB,what are key characteristics of the lesion,OPEN,ring-enhancing lesion,train
+synpic57368.jpg,ABN,are there abnormal findings on this image,CLOSED,yes,train
+synpic57368.jpg,ABN,is this brain scan normal,CLOSED,no,train
+synpic46720.jpg,PRES,is the brain tissue ischemic,CLOSED,yes,train
+synpic46720.jpg,SIZE,is there atrophy of the brain,CLOSED,yes,train
+synpic55948.jpg,ATTRIB,how would you describe the abnormality,OPEN,diffuse,train
+synpic55948.jpg,ATTRIB,is the abnormality focal or diffuse,CLOSED,diffuse,train
+synpic20260.jpg,MODALITY,what kind of scan is this,OPEN,ct,train
+synpic21734.jpg,PRES,is there evidence of calcification in the mass,CLOSED,yes,train
+synpic21734.jpg,PRES,is the mass calcified,CLOSED,yes,train
+synpic18461.jpg,MODALITY,what kind of image is this,OPEN,chest x-ray,train
+synpic56799.jpg,ABN,is this a normal image,CLOSED,no,train
+synpic56799.jpg,ABN,is the brain scan normal,CLOSED,no,train
+synpic40314.jpg,"PRES, POS",what organ is enlarged,OPEN,pancreas,train
+synpic40314.jpg,"PRES, POS",which organ has the abnormality,OPEN,pancreas,train
+synpic31400.jpg,POS,where is the cavitary lesion,OPEN,right upper lobe,train
+synpic31400.jpg,POS,where is the abnormality,OPEN,right upper lobe,train
+synpic23130.jpg,COLOR,is the abnormality hyper dense or hypo dense,CLOSED,hypodense,train
+synpic23130.jpg,COLOR,what density is the abnormality,OPEN,hypodense,train
+synpic33889.jpg,POS,what part of the liver is the mass located in,OPEN,left hepatic lobe,train
+synpic33889.jpg,POS,where is the mass in the liver,OPEN,left hepatic lobe,train
+synpic18461.jpg,ORGAN,what organ is primarily evaluated in this image,OPEN,lungs,train
+synpic57368.jpg,POS,what hemisphere are the lesions located in,OPEN,bilateral,train
+synpic57368.jpg,POS,where are the abnormalities,OPEN,bilateral,train
+synpic20260.jpg,OTHER,what does nodular liver suggest,OPEN,cirrhosis,train
+synpic20260.jpg,OTHER,what does the shape of the liver suggest,OPEN,cirrhosis,train
+synpic20260.jpg,PRES,what is the brightness in the abdominal aorta,OPEN,atherosclerotic calcification,train
+synpic20260.jpg,PRES,what causes hyper intensity in aorta,OPEN,atherosclerotic calcification,train
+synpic18461.jpg,PLANE,is this a lateral film,CLOSED,no,train
+synpic51709.jpg,POS,where in the brain is the lesion,OPEN,right parietal lobe,train
+synpic51709.jpg,POS,where is the lesion,OPEN,right parietal lobe,train
+synpic31400.jpg,ORGAN,which organ system is imaged,OPEN,chest,train
+synpic59356.jpg,PRES,is there an abnormal lesion,CLOSED,yes,train
+synpic59356.jpg,PRES,is there a mass,CLOSED,yes,train
+synpic40464.jpg,OTHER,what does the hypodensity suggest,OPEN,metastasis,train
+synpic40464.jpg,OTHER,what caused the lesion,OPEN,metastasis,train
+synpic33889.jpg,PLANE,in what plane is this image taken,OPEN,axial,train
+synpic49914.jpg,ORGAN,is this a study of the chest,CLOSED,yes,train
+synpic21044.jpg,ATTRIB,what is abnormal about the hila,OPEN,enlarged,train
+synpic21044.jpg,ATTRIB,is the hila normal or enlarged,CLOSED,enlarged,train
+synpic49914.jpg,ABN,what is happening in the right lung,OPEN,volume loss,train
+synpic49914.jpg,ABN,what is finding in the right lung,OPEN,volume loss,train
+synpic45115.jpg,ABN,what is most alarming about the appendix,OPEN,extraluminal air and small fluid collection,train
+synpic23130.jpg,ABN,is the liver normal,CLOSED,no,train
+synpic23130.jpg,ABN,is this a normal image,CLOSED,no,train
+synpic18461.jpg,ABN,are the lungs normal,CLOSED,no,train
+synpic18461.jpg,ABN,is the chest x-ray normal,CLOSED,no,train
+synpic27013.jpg,POS,where is the mass,OPEN,extra-axial and at the right choroidal fissure,train
+synpic18319.jpg,OTHER,what can cause asymmetrical breasts,OPEN,prior surgery,train
+synpic18319.jpg,OTHER,why are the breasts asymmetrical,OPEN,prior surgery,train
+synpic27013.jpg,COLOR,is the mass enhancing,CLOSED,no,train
+synpic21734.jpg,POS,what organ is the mass in,OPEN,pancreas,train
+synpic21734.jpg,POS,where is the mass,OPEN,pancreas,train
+synpic45162.jpg,PRES,what abnormalities are in the right upper quadrant,OPEN,gallstones,train
+synpic45162.jpg,PRES,what is in the right upper quadrant,OPEN,gallstones,train
+synpic29219.jpg,POS,which kidney is abnormal,OPEN,right,train
+synpic29219.jpg,POS,which kidney has abnormalities,OPEN,right,train
+synpic54823.jpg,PRES,is there a pelvic fracture,CLOSED,no,train
+synpic33889.jpg,ORGAN,is this a study of the brain,CLOSED,no,train
+synpic51709.jpg,OTHER,what is the image suggestive of,OPEN,abscess,train
+synpic51709.jpg,OTHER,what is the lesion most likely to be,OPEN,abscess,train
+synpic29219.jpg,ATTRIB,describe the lesions in the right kidney,OPEN,cystic lesions,train
+synpic29219.jpg,PRES,what is seen in the right kidney,OPEN,cystic lesions,train
+synpic45162.jpg,PRES,did the patient have a cholecystectomy,CLOSED,yes,train
+synpic45162.jpg,PRES,has the gallbladder been removed,CLOSED,yes,train
+synpic51709.jpg,COLOR,is there evidence of enhancement,CLOSED,yes,train
+synpic51709.jpg,COLOR,is the lesion enhancing,CLOSED,yes,train
+synpic29219.jpg,MODALITY,is there contrast given,CLOSED,yes,train
+synpic33889.jpg,MODALITY,is this a ct scan,CLOSED,yes,train
+synpic45115.jpg,ATTRIB,describe the appendix,OPEN,enlarged fluid-filled,train
+synpic29219.jpg,COUNT,are there 2 kidneys,CLOSED,yes,train
+synpic29219.jpg,COUNT,are there normal number of kidneys,CLOSED,yes,train
+synpic28695.jpg,POS,where is the mass,OPEN,pancreatic body,train
+synpic23130.jpg,POS,where is the abnormality,OPEN,right lobe of the liver,train
+synpic23130.jpg,POS,where is the hypodensity located,OPEN,right lobe of the liver,train
+synpic46720.jpg,POS,which hemisphere is the ischemia located,OPEN,right hemisphere,train
+synpic46720.jpg,POS,where is the abnormality,OPEN,right pca,train
+synpic28695.jpg,ATTRIB,is the mass homogeneous,CLOSED,no,train
+synpic55948.jpg,POS,where is the abnormality in this image,OPEN,basal ganglia,train
+synpic18319.jpg,POS,where is the catheter tip located,OPEN,right superior cavoatrial junction,train
+synpic18319.jpg,POS,where does the catheter tip extend into,OPEN,right superior cavoatrial junction,train
+synpic59356.jpg,PRES,does the mass affect neighboring structure,CLOSED,yes,train
+synpic59356.jpg,PRES,is there mass effect,CLOSED,yes,train
+synpic27013.jpg,ABN,is this image normal,CLOSED,no,train
+synpic54823.jpg,PRES,is the small bowel filled with contrast,CLOSED,yes,train
+synpic54823.jpg,SIZE,is the cecum dilated,CLOSED,yes,train
+synpic46720.jpg,Other,what does the abnormality suggest,OPEN,ischemia,train
+synpic46720.jpg,Other,what causes the hyperintensity,OPEN,ischemia,train
+synpic45115.jpg,PRES,is there fat stranding,CLOSED,yes,train
+synpic21044.jpg,ABN,is the heart abnormal,CLOSED,yes,train
+synpic21044.jpg,SIZE,does the heart appear enlarged,CLOSED,yes,train
+synpic59356.jpg,POS,where is the mass,OPEN,suprasellar cistern,train
+synpic59356.jpg,POS,where is the mass located,OPEN,suprasellar cistern,train
+synpic29219.jpg,PLANE,which plane is the image taken,OPEN,axial,train
+synpic57520.jpg,PLANE,where is this plane relative to the eyes,OPEN,above,train
+synpic24390.jpg,PLANE,how was this x-ray taken,OPEN,pa,train
+synpic23803.jpg,POS,which ribs are located near the abnormality seen in this image,OPEN,4th and 5th,train
+synpic23803.jpg,POS,what level is the abnormality located at,OPEN,t5,train
+synpic17664.jpg,PRES,do the lung markings extend to the periphery,CLOSED,yes,train
+synpic17664.jpg,PRES,is a pneumothorax present in this image,CLOSED,no,train
+synpic47783.jpg,SIZE,does the width of the heart exceed more than half of the thorax,CLOSED,no,train
+synpic47783.jpg,SIZE,how wide is the cardiac shadow,OPEN,less than half the thorax,train
+synpic31955.jpg,PRES,is the diaphragm obscured,CLOSED,no,train
+synpic31955.jpg,PRES,is the diaphragm clearly visualized on both sides,CLOSED,yes,train
+synpic45557.jpg,PRES,are nodular calcifications present in the lungs,CLOSED,no,train
+synpic45557.jpg,PRES,what lesions are present in the lungs,OPEN,none,train
+synpic21604.jpg,SIZE,how big is the liver lesion,OPEN,5 cm,train
+synpic21604.jpg,SIZE,what is the size of the mass lesion,OPEN,5 cm,train
+synpic21604.jpg,MODALITY,what is the modality by which the image was taken,OPEN,ct,train
+synpic34449.jpg,POS,are the calcifications superior or inferior to the diaphragm,CLOSED,superior,train
+synpic34449.jpg,POS,where in the image are the calcifications located,OPEN,high on the image,train
+synpic31962.jpg,POS,where is the aortic arch,OPEN,right side,train
+synpic31962.jpg,POS,which side of the image is the aortic arch visualized,OPEN,right side,train
+synpic19477.jpg,POS,where is the lung lesion located,OPEN,right lung,train
+synpic19477.jpg,POS,which lobe of the lung is the lesion located in,OPEN,right upper lobe,train
+synpic45557.jpg,MODALITY,do bones appear lighter on this image modality,CLOSED,yes,train
+synpic24220.jpg,POS,are the bowel loops on the right or left side of the patient,CLOSED,left side,train
+synpic24220.jpg,POS,where in this image are the bowel loops,OPEN,left side,train
+synpic41050.jpg,PRES,is there evidence of periappendiceal fluid and fat stranding,CLOSED,yes,train
+synpic41050.jpg,PRES,what indicates that appendicitis is present,OPEN,periappendiceal fluid and fat stranding,train
+synpic41050.jpg,"COLOR, PRES",is the appendix visualized with contrast,CLOSED,no,train
+synpic41050.jpg,"COLOR, PRES",is there contrast in the appendix,CLOSED,no,train
+synpic27985.jpg,PRES,are any organs besides the intestines present in this image,CLOSED,yes,train
+synpic27985.jpg,PRES,besides the intestines what other organs are present,OPEN,kidneys,train
+synpic35914.jpg,PRES,is a cystic cavity present in the left kidney on this image,CLOSED,no,train
+synpic35914.jpg,PRES,is there a cyst in the left kidney,CLOSED,no,train
+synpic33689.jpg,PLANE,is this in the lumbar vertebral level,CLOSED,yes,train
+synpic27985.jpg,ABN,is the pathologic part of this image the small bowel or colon,CLOSED,small bowel,train
+synpic27985.jpg,POS,where is the intussesception located,OPEN,small bowel,train
+synpic39532.jpg,COUNT,how many lesions are present in the image,OPEN,one,train
+synpic39532.jpg,COUNT,is there more that one lesion present,CLOSED,no,train
+synpic27601.jpg,ABN,is the liver normal,CLOSED,yes,train
+synpic27601.jpg,PRES,is a ring enhancing lesion present in the right lobe of the liver,CLOSED,no,train
+synpic34836.jpg,POS,is the lesion on the patient right or left side,CLOSED,left side,train
+synpic34836.jpg,POS,where on the image is the lesion,OPEN,left temporal lobe,train
+synpic34449.jpg,ORGAN,what are the two major organs present in this image,OPEN,heart lungs,train
+synpic21995.jpg,ABN,is the liver abnormal,CLOSED,no,train
+synpic21995.jpg,PRES,are there any abnormal hypodense lesions in the liver,CLOSED,no,train
+synpic21995.jpg,POS,is the largest cyst in the left or right kidney,CLOSED,left kidney,train
+synpic21995.jpg,POS,where is the largest cystic lesion in the image,OPEN,left kidney,train
+synpic33689.jpg,MODALITY,was oral or iv contrast used,CLOSED,both,train
+synpic21995.jpg,COLOR,are the lesions in the image more or less dense than surrounding tissue,CLOSED,more dense,train
+synpic21995.jpg,COLOR,what is denser the cystic lesions or the kidney parenchyma,OPEN,cystic lesions,train
+synpic57520.jpg,COLOR,is the primary abnormality more or less dense than surrounding matter,CLOSED,less dense,train
+synpic57520.jpg,COLOR,what is denser the mass or the surrounding brain tissue,CLOSED,surrounding tissue,train
+synpic27601.jpg,COLOR,is the lesion in this image more or less dense than the surrounding tissue,CLOSED,less dense,train
+synpic27601.jpg,COLOR,what is denser the lesion or the surrounding tissue,CLOSED,the surrounding tissue,train
+synpic57520.jpg,MODALITY,was contrast applied,CLOSED,no,train
+synpic34449.jpg,PLANE,is this an ap image,CLOSED,no,train
+synpic19782.jpg,PRES,are calcified lesions present in the lung fields,CLOSED,no,train
+synpic19782.jpg,PRES,is there evidence of large calcified lesions in the lung fields,CLOSED,no,train
+synpic21604.jpg,ORGAN,what is the organ system visualized,OPEN,gastrointestinal,train
+synpic23053.jpg,ABN,is the air under the left hemidiaphragm pathologic,CLOSED,no,train
+synpic23053.jpg,PRES,is there free air under the left diaphragm,CLOSED,no,train
+synpic24390.jpg,ORGAN,is this image of the thorax,CLOSED,yes,train
+synpic39532.jpg,POS,where is the lesion,OPEN,right lower lobe,train
+synpic39532.jpg,POS,which lung lobe is the lesion present in,OPEN,right lower lobe,train
+synpic47783.jpg,POS,where is the aneurysm located,OPEN,in the thorasic aorta,train
+synpic47783.jpg,PRES,what is the most important abnormality found in this image,OPEN,width of aorta,train
+synpic19477.jpg,POS,at which rib is the lesion located,OPEN,7th rib,train
+synpic19477.jpg,POS,what rib is the lesion located inferior to,OPEN,7th rib,train
+synpic23803.jpg,POS,on which side is the cardiac border more obscured,OPEN,right,train
+synpic23803.jpg,POS,where is the cardiac border more obscured,OPEN,right,train
+synpic33689.jpg,ORGAN,what organ system is primarily present in this image,OPEN,gastrointestinal,train
+synpic19477.jpg,POS,which side of the cardiac border is more prominent,OPEN,left,train
+synpic19477.jpg,POS,which cardiac border is more prominently visualized,OPEN,left,train
+synpic24390.jpg,MODALITY,is this image a ct scan,CLOSED,no,train
+synpic57520.jpg,PRES,is there evidence of hematoma,CLOSED,no,train
+synpic57520.jpg,PRES,is there blood present,CLOSED,no,train
+synpic13385.jpg,POS,which lung has more extensive infiltration,OPEN,left,train
+synpic13385.jpg,POS,where are the most infiltrates located,OPEN,left lung,train
+synpic33689.jpg,ATTRIB,how would you describe the duodenum,OPEN,edematous,train
+synpic33689.jpg,"ATTRIB, PRES",is the duodenum edematous,CLOSED,yes,train
+synpic24390.jpg,POS,is the largest air collection on the patient left or the right side,CLOSED,right side,train
+synpic24390.jpg,POS,where is the largest air collection in this image,OPEN,right lung base,train
+synpic31955.jpg,POS,where is the lesion located,OPEN,anterior mediastinum,train
+synpic31955.jpg,POS,what is the location of the primary lesion,OPEN,right lung hilum,train
+synpic13385.jpg,ABN,is the air under the left hemidiaphragm pathologic,CLOSED,no,train
+synpic13385.jpg,PRES,is subdiaphragmatic air present on the left side,CLOSED,no,train
+synpic57520.jpg,POS,which side is the lateral ventricle visible on,OPEN,left,train
+synpic57520.jpg,POS,where is the lateral ventricle,OPEN,left hemisphere,train
+synpic21604.jpg,POS,where is the lesion located,OPEN,right lobe,train
+synpic21604.jpg,POS,which liver lobe is the lesion in,OPEN,right lobe,train
+synpic35914.jpg,PRES,is there an intussusception present,CLOSED,no,train
+synpic35914.jpg,PRES,is there evidence of intussusception on the right side,CLOSED,no,train
+synpic47783.jpg,PRES,is there a mass in the right hilum,CLOSED,no,train
+synpic47783.jpg,PRES,is there evidence of a mass lesion at the right hilum,CLOSED,no,train
+synpic31962.jpg,PRES,is there a fracture on the left 5th rib,CLOSED,no,train
+synpic31962.jpg,PRES,is the left fifth rib broken,CLOSED,no,train
+synpic24390.jpg,PRES,is subcutaneous air present,CLOSED,no,train
+synpic24390.jpg,PRES,is there evidence of subcutaneous air collection,CLOSED,no,train
+synpic45557.jpg,PRES,are any ribs in the image fractured,CLOSED,no,train
+synpic45557.jpg,PRES,are there any fractures present,CLOSED,no,train
+synpic23053.jpg,ABN,is the opacity near the left lung apex pathologic,CLOSED,no,train
+synpic23053.jpg,PRES,what is the opacity near the left lung apex,OPEN,pacemaker,train
+synpic34449.jpg,MODALITY,how was this image taken,OPEN,x-ray,train
+synpic23053.jpg,POS,where is the lesion,OPEN,in the right hilum,train
+synpic23053.jpg,POS,which lobe is the lesion located in,OPEN,upper right lobe,train
+synpic31962.jpg,PRES,is there any inappropriate air collection in subcutaneous tissue,CLOSED,no,train
+synpic31962.jpg,PRES,is subcutaneous air present,CLOSED,no,train
+synpic45557.jpg,POS,where on the image is most obscured,OPEN,right lung base,train
+synpic45557.jpg,"PRES, ATTRIB",is the costophrenic angle blunted,CLOSED,yes,train
+synpic33844.jpg,PRES,what are the opacities to the left,OPEN,contrast in the intestines,train
+synpic49381.jpg,PRES,is there any hemorrhage,CLOSED,no,train
+synpic21902.jpg,PRES,what are those densities in the wall of the aorta,OPEN,calcifications,train
+synpic58261.jpg,COLOR,what is the radiological description of the color of the edema,OPEN,hypodense,train
+synpic39240.jpg,PRES,is the cerebellum visible,CLOSED,no,train
+synpic50949.jpg,PLANE,is this an axial image,CLOSED,yes,train
+synpic21902.jpg,SIZE,is the liver normal in size,CLOSED,no,train
+synpic31916.jpg,MODALITY,is this film properly exposed,CLOSED,yes,train
+synpic60096.jpg,PRES,is it possible to see the cerebellum in this image,CLOSED,no,train
+synpic24538.jpg,SIZE,is the heart dilated,CLOSED,no,train
+synpic52951.jpg,POS,in which lobe is the nodule located,OPEN,left upper lobe,train
+synpic42182.jpg,PRES,is the patient kidney this large mass to the right,CLOSED,yes,train
+synpic19118.jpg,PRES,are these small opacities in the right lung calcifications,CLOSED,no,train
+synpic52951.jpg,PRES,is there any shifting on the path of the trachea,CLOSED,no,train
+synpic60096.jpg,SIZE,is there swelling of the choroid fissure,CLOSED,no,train
+synpic39240.jpg,MODALITY,is this a mri image,CLOSED,yes,train
+synpic47737.jpg,PRES,is there swelling around the lesion,CLOSED,no,train
+synpic52951.jpg,ORGAN,what is the organ principally shown in this image,OPEN,lung,train
+synpic34017.jpg,SIZE,are the basal ganglia enlarged,CLOSED,no,train
+synpic47356.jpg,ABN,is there any other alteration in the image,CLOSED,no,train
+synpic60096.jpg,PRES,what are those lines in the posterior brain,OPEN,imaging artifacts,train
+synpic53978.jpg,SIZE,is the medulla swollen,CLOSED,yes,train
+synpic24319.jpg,PRES,what are these densities inside the intestines,OPEN,contrast,train
+synpic31916.jpg,PLANE,what is the name of this image plane,OPEN,posteroanterior,train
+synpic41788.jpg,PRES,is the lesion infiltrating,CLOSED,no,train
+synpic41772.jpg,SIZE,is the abdomen distended,CLOSED,no,train
+synpic33844.jpg,PRES,is there leakage of contrast,CLOSED,no,train
+synpic39240.jpg,POS,in which lobe is the enhancement,OPEN,right frontal lobe,train
+synpic52951.jpg,PRES,is this a solitary nodule,CLOSED,yes,train
+synpic33844.jpg,PRES,is there ascites,CLOSED,no,train
+synpic34017.jpg,PRES,is there any hemorrhage,CLOSED,no,train
+synpic31916.jpg,SIZE,is the right lung normal in size,CLOSED,no,train
+synpic41772.jpg,PRES,is there a cyst in the right kidney,CLOSED,no,train
+synpic60096.jpg,PLANE,what is the plane of this image,OPEN,axial,train
+synpic34017.jpg,ABN,is there involvement of the temporal lobes,CLOSED,no,train
+synpic41788.jpg,PRES,are the brain ventricles visible,CLOSED,no,train
+synpic21410.jpg,PRES,is there fluid in the anterior abdominal wall,CLOSED,no,train
+synpic58261.jpg,PRES,are the lateral ventricles compressed,CLOSED,yes,train
+synpic19118.jpg,POS,is this a cyst in the left lung,CLOSED,no,train
+synpic31916.jpg,ABN,what is happening with the path of the trachea,OPEN,it is shifted to the right,train
+synpic31916.jpg,SIZE,is the stomach dilated,CLOSED,no,train
+synpic47356.jpg,POS,where are the enlarged feeding arteries located,OPEN,occipital lobe,train
+synpic50949.jpg,PRES,is the right kidney at its normal height in the abdomen,CLOSED,yes,train
+synpic60096.jpg,PRES,is this an infiltrating mass,CLOSED,yes,train
+synpic24319.jpg,PRES,is the renal mass distending the abdominal wall,OPEN,a bit,train
+synpic41772.jpg,OTHER,is it contrast these hyperintensities in the intestines,CLOSED,yes,train
+synpic58261.jpg,PRES,what is the hypodensity in the posterior left,OPEN,the posterior horn of the left lateral ventricle,train
+synpic21410.jpg,PRES,what is this mass to the left of the patient,OPEN,the liver,train
+synpic53978.jpg,OTHER,is there lesion to other structures besides the medulla,CLOSED,no,train
+synpic49381.jpg,PRES,what are these hyperintensities to the right,OPEN,infarcted areas,train
+synpic54795.jpg,PRES,are there any other cysts in the image,CLOSED,no,train
+synpic50949.jpg,PRES,is there any lesion in the left kidney,CLOSED,no,train
+synpic42182.jpg,COUNT,are there multiple masses or just a single big one,CLOSED,just one,train
+synpic50949.jpg,SIZE,are the kidneys atrophied,CLOSED,no,train
+synpic21902.jpg,PRES,what are these hypodensities in the liver,OPEN,fat accumulations,train
+synpic54795.jpg,POS,in which lobe is the cyst,OPEN,right frontal lobe,train
+synpic47737.jpg,PRES,is it possible to see the cerebellum,CLOSED,no,train
+synpic53978.jpg,MODALITY,is this a ct image,CLOSED,no,train
+synpic31916.jpg,OTHER,how do we call these wide undulations along the vertebral column,OPEN,scoliosis,train
+synpic24538.jpg,POS,to which side is the trachea deviated,OPEN,right,train
+synpic42182.jpg,PRES,is the left kidney affected,CLOSED,no,train
+synpic49381.jpg,SIZE,is the brain atrophied or shrunk,CLOSED,no,train
+synpic39240.jpg,PRES,are there fractures on the skull,CLOSED,no,train
+synpic53978.jpg,PRES,is there any lesion to bone structures,CLOSED,no,train
+synpic33226.jpg,SIZE,is the heart a normal size,CLOSED,yes,train
+synpic33226.jpg,SIZE,is the heart size normal,CLOSED,yes,train
+synpic50943.jpg,PRES,can a pulmonary mass be appreciated,CLOSED,no,train
+synpic50943.jpg,PRES,is a pulmonary mass present,CLOSED,no,train
+synpic44865.jpg,ATTRIB,is this a solid or cystic lesion,CLOSED,solid,train
+synpic44865.jpg,ATTRIB,is the lesion a solid or cystic lesion,CLOSED,solid,train
+synpic16810.jpg,PLANE,is this in the pa plane,CLOSED,yes,train
+synpic50943.jpg,SIZE,is there anything abnormal about the heart size,CLOSED,yes,train
+synpic50943.jpg,SIZE,is the heart enlarged,CLOSED,yes,train
+synpic28378.jpg,OTHER,is this patient male or female,CLOSED,female,train
+synpic28378.jpg,OTHER,what is the likely sex of this patient,OPEN,female,train
+synpic40096.jpg,PRES,is the cerebellum present in the image,CLOSED,no,train
+synpic33226.jpg,MODALITY,can this image highlight bone fractures if present,CLOSED,yes,train
+synpic60423.jpg,PRES,can you appreciate a pleural effusion,CLOSED,no,train
+synpic60423.jpg,PRES,is a pleural effusion present,CLOSED,no,train
+synpic46943.jpg,PRES,do you see a subdural hematoma,CLOSED,no,train
+synpic46943.jpg,PRES,is there a subdural hematoma,CLOSED,no,train
+synpic43648.jpg,OTHER,approximately how much time was required to obtain this image,OPEN,10-20 minutes,train
+synpic60423.jpg,SIZE,is the heart enlarged,CLOSED,no,train
+synpic60423.jpg,SIZE,is the heart size increased,CLOSED,no,train
+synpic48749.jpg,PRES,is this a ring enhancing lesion,CLOSED,no,train
+synpic48749.jpg,"PRES, ATTRIB",is there ring-enhancement,CLOSED,no,train
+synpic48749.jpg,PRES,are the dark areas grey or white matter,CLOSED,white matter,train
+synpic48749.jpg,PRES,the dark areas of the image show what type of brain matter,OPEN,white matter,train
+synpic46943.jpg,ORGAN,which ventricles are visible,OPEN,lateral ventricles,train
+synpic40096.jpg,PRES,is there a fracture,CLOSED,no,train
+synpic40096.jpg,PRES,is a fracture present,CLOSED,no,train
+synpic27402.jpg,OTHER,is this image sufficient for a diagnosis,CLOSED,no,train
+synpic27402.jpg,OTHER,is the image enough to diagnose,CLOSED,no,train
+synpic42307.jpg,OTHER,would you suspect abcess or cancer for this finding,OPEN,abscess,train
+synpic42307.jpg,OTHER,is this an abscess or cancer,CLOSED,abscess,train
+synpic43648.jpg,PRES,what are the dark areas at the top of the picture,OPEN,large bowel,train
+synpic43648.jpg,PRES,what is the dark space in the body cavity near the top of the image,OPEN,large bowel,train
+synpic50943.jpg,PRES,is there a right-sided pleural effusion,CLOSED,no,train
+synpic50943.jpg,PRES,is there an effusion present on the right-side,CLOSED,no,train
+synpic16810.jpg,PRES,do you see a pleural effusion,CLOSED,no,train
+synpic16810.jpg,PRES,is a pleural effusion present,CLOSED,no,train
+synpic25758.jpg,PRES,are sections of bowel recognizable,CLOSED,yes,train
+synpic33226.jpg,PRES,is a pleural effusion present,CLOSED,no,train
+synpic33226.jpg,PRES,is there a pleural effusion,CLOSED,no,train
+synpic31248.jpg,SIZE,is the heart size abnormal,CLOSED,no,train
+synpic31248.jpg,SIZE,is the heart enlarged,CLOSED,no,train
+synpic33226.jpg,OTHER,what can be typically visualized in this plane,OPEN,lungs bony thoracic cavit y mediastinum and great vessels,train
+synpic43648.jpg,POS,in what space/cavity is the abnormal organ located,OPEN,retroperitoneum retroperitoneal space,train
+synpic25758.jpg,OTHER,is the patient lying down,CLOSED,yes,train
+synpic46943.jpg,OTHER,how long does this imaging modality take to complete hours minutes,OPEN,15 minutes potentially faster with newer imaging systems,train
+synpic16810.jpg,PRES,can you evaluate the kidneys bladde r or ureters in this image,CLOSED,no,train
+synpic46943.jpg,PRES,can you appreciate a shift of the midline,CLOSED,yes,train
+synpic46943.jpg,PRES,is there a midline shift,CLOSED,yes,train
+synpic60423.jpg,OTHER,can you diagnose a pericardial effusion from this image,CLOSED,no,train
+synpic60423.jpg,OTHER,is this image sufficient to diagnose pericardial effusion,CLOSED,no,train
+synpic46943.jpg,OTHER,can a diagnosis or impression be made in this plane,CLOSED,yes,train
+synpic25758.jpg,OTHER,would perform this same modality in a patient with aki,CLOSED,no,train
+synpic25758.jpg,PRES,are abdominal fat pads prominently visualized,CLOSED,no,train
+synpic25758.jpg,PRES,can you see the abdominal fat pads,CLOSED,no,train
+synpic28378.jpg,PRES,is there a pleural effusion present,CLOSED,no,train
+synpic28378.jpg,PRES,is there a pleural effusion,CLOSED,no,train
+synpic27402.jpg,OTHER,did this patient sustain physical damage,CLOSED,no,train
+synpic27402.jpg,OTHER,do you suspect a physical injury,CLOSED,no,train
+synpic44865.jpg,PRES,can you see all of the ribs on the left side,CLOSED,no,train
+synpic44865.jpg,PRES,can the left ribs be evaluated,CLOSED,no,train
+synpic31248.jpg,PRES,can you appreciate a pleural effusion anywhere,CLOSED,no,train
+synpic31248.jpg,PRES,is pleural effusion present,CLOSED,no,train
+synpic30215.jpg,PRES,are adrenal glands present in this image,CLOSED,no,train
+synpic30215.jpg,PRES,can you see the adrenals,CLOSED,no,train
+synpic57935.jpg,OTHER,did the problem originate in the brain,CLOSED,no,train
+synpic57935.jpg,OTHER,do you suspect a primary brain process,CLOSED,no,train
+synpic33226.jpg,PRES,does the left humerus appear to be fractured,CLOSED,no,train
+synpic33226.jpg,PRES,is there a fracture of the left humerus,CLOSED,no,train
+synpic43648.jpg,OTHER,can this plane detect an aortic aneurysm if present,CLOSED,yes,train
+synpic47196.jpg,OTHER,can a diagnosis of appendicitis be made from this image,CLOSED,no,train
+synpic47196.jpg,OTHER,is this confirmed appendicitis,CLOSED,no,train
+synpic33226.jpg,ABN,are both lungs abnormally inflated,CLOSED,no,train
+synpic40096.jpg,PRES,can you visualize the 4th ventricle,CLOSED,no,train
+synpic40096.jpg,PRES,is the 4th ventricle present in this image,CLOSED,no,train
+synpic44865.jpg,PRES,can a pleural effusion be appreciated on the right side,CLOSED,no,train
+synpic44865.jpg,PRES,is there a right-sided pleural effusion,CLOSED,no,train
+synpic38263.jpg,OTHER,do you suspect a physical injury or a medical process,CLOSED,medical process,train
+synpic38263.jpg,OTHER,what is the cause of this finding medical process or physical injury,CLOSED,medical process,train
+synpic46943.jpg,PRES,does the skull appear fractured,CLOSED,no,train
+synpic46943.jpg,PRES,is there a skull fracture,CLOSED,no,train
+synpic49027.jpg,ABN,what is the secondary pathology,OPEN,moderate edema,train
+synpic49027.jpg,ABN,what is the secondary abnormality in this image,OPEN,moderate edema,train
+synpic41325.jpg,OTHER,is this an anoxic injury,CLOSED,yes,train
+synpic41325.jpg,OTHER,is there anoxic brain infarction,CLOSED,yes,train
+synpic18651.jpg,OTHER,does this image show heart failure,CLOSED,yes,train
+synpic18651.jpg,OTHER,is this heart failure,CLOSED,yes,train
+synpic46976.jpg,SIZE,is the heart enlarged,CLOSED,yes,train
+synpic46976.jpg,SIZE,is there cardiomegaly,CLOSED,yes,train
+synpic32962.jpg,PLANE,is this coronal plane,CLOSED,yes,train
+synpic51926.jpg,PRES,is the stomach wall thickened,CLOSED,yes,train
+synpic51926.jpg,PRES,is there thickening of the gastric wall,CLOSED,yes,train
+synpic24424.jpg,POS,what is the location of the mass,OPEN,anterior to the transverse colon,train
+synpic24424.jpg,POS,where is the mass located,OPEN,anterior to the transverse colon,train
+synpic51383.jpg,PLANE,is this an axial plane image,CLOSED,yes,train
+synpic51872.jpg,PRES,is there a lung mass,CLOSED,yes,train
+synpic51872.jpg,PRES,is there a mass in the lung,CLOSED,yes,train
+synpic43433.jpg,PRES,is there a bowel obstrution,CLOSED,yes,train
+synpic43433.jpg,PRES,is the bowel obstructed,CLOSED,yes,train
+synpic39301.jpg,PRES,is there hemorrhage,CLOSED,no,train
+synpic39301.jpg,PRES,is hemorrhage seen,CLOSED,no,train
+synpic49027.jpg,ABN,what is the primary abnormality in this image,OPEN,ring enhancing lesion in the left occipital lobe,train
+synpic49027.jpg,ABN,what is the primary pathology,OPEN,ring enhancing lesion in the left occipital lobe,train
+synpic24424.jpg,PRES,is the peritoneum thickened,CLOSED,yes,train
+synpic24424.jpg,PRES,is there thickening of the peritoneum,CLOSED,yes,train
+synpic40596.jpg,PRES,is this mass located in the liver,CLOSED,yes,train
+synpic40596.jpg,PRES,is this a hepatic mass,CLOSED,yes,train
+synpic44995.jpg,"POS, ABN",the pathology is located in which lobes of the brain,OPEN,parietal and occipital lobes,train
+synpic44995.jpg,"POS, ABN",which lobes demonstrate pathology,OPEN,parietal and occipital lobes,train
+synpic39301.jpg,OTHER,what is the likely pathology,OPEN,pres,train
+synpic39301.jpg,OTHER,what is the most likely cause of these abnormalities,OPEN,pres,train
+synpic23989.jpg,ORGAN,does this constitute a pulmonary pathology,CLOSED,yes,train
+synpic39301.jpg,ORGAN,what organ system is displayed,OPEN,cns,train
+synpic56388.jpg,"ATTRIB, PRES",are the sulci blunted,CLOSED,yes,train
+synpic56388.jpg,"ATTRIB, PRES",is there blunting of the sulci,CLOSED,yes,train
+synpic27597.jpg,ATTRIB,is the mass cystic,CLOSED,yes,train
+synpic27597.jpg,ATTRIB,would you describe the mass as cystic,CLOSED,yes,train
+synpic43433.jpg,POS,what is the location of the mass,OPEN,cecum,train
+synpic43433.jpg,POS,where is the mass,OPEN,cecum,train
+synpic46539.jpg,PRES,is this lesion loculated,CLOSED,no,train
+synpic46539.jpg,PRES,is there loculation of this lesion,CLOSED,no,train
+synpic22037.jpg,MODALITY,is this a standing cxr,CLOSED,no,train
+synpic51383.jpg,ORGAN,what organ system is this,OPEN,cns,train
+synpic55464.jpg,OTHER,what it causing the widening,OPEN,mass,train
+synpic55464.jpg,OTHER,what is the widened mediastinum caused by,OPEN,mass,train
+synpic23989.jpg,MODALITY,is this an ap cxr,CLOSED,yes,train
+synpic39301.jpg,PLANE,is this an axial image,CLOSED,yes,train
+synpic32962.jpg,MODALITY,what is the modality,OPEN,cxr,train
+synpic22037.jpg,ORGAN,is the pulmonary system shown,CLOSED,yes,train
+synpic51926.jpg,ORGAN,in what system is the pathology,OPEN,gi,train
+synpic51926.jpg,ORGAN,what system is this pathology in,OPEN,gi,train
+synpic40596.jpg,ATTRIB,is the structure cystic,CLOSED,yes,train
+synpic40596.jpg,ATTRIB,is the mass a cyst,CLOSED,yes,train
+synpic27597.jpg,PRES,do the masses contain calcification,CLOSED,yes,train
+synpic27597.jpg,PRES,is there calcification,CLOSED,yes,train
+synpic55464.jpg,SIZE,is the mediastinum widened,CLOSED,yes,train
+synpic55464.jpg,SIZE,is there a widened mediastium,CLOSED,yes,train
+synpic23989.jpg,PLANE,what plane is demonstrated,OPEN,coronal,train
+synpic21700.jpg,PRES,is the stomach filled,CLOSED,yes,train
+synpic21700.jpg,PRES,is there gastric fullness,CLOSED,yes,train
+synpic49027.jpg,ATTRIB,how would you characterize the lesion,OPEN,ring enhancing lesion,train
+synpic49027.jpg,ATTRIB,what is the characterization of the lesion,OPEN,ring enhancing lesion,train
+synpic40596.jpg,SIZE,is the renal system dilated,CLOSED,yes,train
+synpic40596.jpg,SIZE,is there hydronephrosis,CLOSED,yes,train
+synpic43433.jpg,SIZE,is the bowel dilated,CLOSED,yes,train
+synpic43433.jpg,SIZE,is there dilation of the bowel,CLOSED,yes,train
+synpic23989.jpg,ABN,what is the pathology,OPEN,left apical pneumothorax,train
+synpic23989.jpg,ABN,what pathology is shown,OPEN,left apical pneumothorax,train
+synpic27597.jpg,PRES,can you appreciate a mass in this image,CLOSED,yes,train
+synpic27597.jpg,PRES,is there a mass demonstrated,CLOSED,yes,train
+synpic32962.jpg,PRES,doe this image depict an interstitial lung process,CLOSED,yes,train
+synpic32962.jpg,PRES,is there an interstitial lung process,CLOSED,yes,train
+synpic41325.jpg,"ABN, POS",is the caudate nucleus involved,CLOSED,yes,train
+synpic41325.jpg,"ABN, POS",is there involvement of the caudate nucleus,CLOSED,yes,train
+synpic51383.jpg,OTHER,what is the lesion disease origin,OPEN,vascular,train
+synpic51383.jpg,OTHER,what disease origin is the lesioneg vascular vs . neoplastic,OPEN,vascular,train
+synpic55464.jpg,MODALITY,is this a pa film,CLOSED,yes,train
+synpic55464.jpg,ORGAN,does the pathology involve the cv system,CLOSED,yes,train
+synpic32108.jpg,ABN,does this image show a normal gallbladder,CLOSED,yes,train
+synpic32108.jpg,ABN,is the gb normal,CLOSED,yes,train
+synpic24424.jpg,ATTRIB,what is the composition of the mass,OPEN,fat,train
+synpic24424.jpg,ATTRIB,what is this mass primarily made of,OPEN,fat,train
+synpic32108.jpg,ABN,is there gall bladder pathology,CLOSED,no,train
+synpic32108.jpg,ABN,is there pathology of the gallbladder,CLOSED,no,train
+synpic46976.jpg,ABN,what is the pathology in this image,OPEN,cardiomegaly,train
+synpic46976.jpg,ABN,what pathology is demonstrated,OPEN,cardiomegaly,train
+synpic21700.jpg,PRES,can you appreciate inflammation,CLOSED,yes,train
+synpic21700.jpg,PRES,is there inflammation,CLOSED,yes,train
+synpic22037.jpg,OTHER,is the chest xray underexposed,CLOSED,yes,train
+synpic22037.jpg,OTHER,is this image underexposed,CLOSED,yes,train
+synpic56388.jpg,PRES,can you appreciate hemorrhage in this image,CLOSED,yes,train
+synpic56388.jpg,PRES,is there hemorrhage,CLOSED,yes,train
+synpic31259.jpg,PRES,this radiograph contains what foreign body,OPEN,sternotomy wires and surgical clips,train
+synpic31259.jpg,PRES,what is the foreign body,OPEN,sternotomy wires and surgical clips,train
+synpic22037.jpg,PLANE,what is the plane,OPEN,coronal,train
+synpic39301.jpg,MODALITY,what modality is shown,OPEN,flair mri,train
+synpic51872.jpg,PRES,do you see a cavitary lesion in this chest xray,CLOSED,yes,train
+synpic51872.jpg,PRES,is there a cavitary lesion,CLOSED,yes,train
+synpic27047.jpg,SIZE,does this patient have cardiomegaly,CLOSED,no,train
+synpic21042.jpg,PRES,is this patient intubated,CLOSED,no,train
+synpic20208.jpg,PRES,is there intraperitoneal hemorrhage present in this image,CLOSED,yes,train
+synpic31467.jpg,PRES,can the kidneys be visualized in this ct scan,CLOSED,yes,train
+synpic22310.jpg,POS,where can omental caking be seen in this image,OPEN,left lateral aspect of anterior peritoneum,train
+synpic16170.jpg,POS,where is the lesion located,OPEN,left mid lung,train
+synpic21042.jpg,PLANE,is this a pa image,CLOSED,yes,train
+synpic33378.jpg,PRES,does this patient have a pneumothorax,CLOSED,yes,train
+synpic55317.jpg,POS,in what ventricle is the enhancing intraventricular mass seen,OPEN,4th ventricle,train
+synpic35155.jpg,OTHER,what signs of appendicitis are seen in this image,OPEN,fat stranding around the appendix thickened appendiceal walls dilated appendix and an appendicolith is seen as well,train
+synpic100132.jpg,ORGAN,does this radiograph contain parts of the cardiovascular system,CLOSED,yes,train
+synpic55317.jpg,PRES,does this patient have a skull fracture,CLOSED,no,train
+synpic53635.jpg,ABN,does this image show a normal gallbladder,CLOSED,no,train
+synpic22982.jpg,PRES,is there fat stranding around the appendix,CLOSED,yes,train
+synpic100132.jpg,SIZE,is the heart enlarged,CLOSED,no,train
+synpic51282.jpg,ATTRIB,how would you describe this lesion,OPEN,ring enhancing lesion in the right frontal lobe,train
+synpic16520.jpg,PRES,is there acute blood present on this head ct,CLOSED,no,train
+synpic33378.jpg,PRES,does this patient have a pleural effusion,CLOSED,no,train
+synpic100132.jpg,PLANE,was this image taken in the ap or pa plane,CLOSED,pa,train
+synpic34854.jpg,POS,what region of the brain shows hyperintensity,OPEN,right lenticular nucleus,train
+synpic28355.jpg,PRES,does this xray show an intubated patient,CLOSED,no,train
+synpic53635.jpg,PLANE,is this an axial image,CLOSED,yes,train
+synpic33378.jpg,POS,which side is the pneumothorax on,OPEN,right side,train
+synpic55317.jpg,ORGAN,does this image display the cns,CLOSED,yes,train
+synpic31467.jpg,MODALITY,is this ct scan enhanced by iv contrast,CLOSED,yes,train
+synpic21042.jpg,PRES,does this image show a pneumothorax,CLOSED,no,train
+synpic48122.jpg,PRES,what is represented by the black parts of the image within the large intestine,OPEN,air,train
+synpic55317.jpg,PRES,does this image display hydrocephalus,CLOSED,yes,train
+synpic100132.jpg,POS,which rib is fractured,OPEN,3rd rib,train
+synpic55317.jpg,PLANE,in what plane is this mri taken,OPEN,axial,train
+synpic21042.jpg,MODALITY,what type of imaging modality is seen in this image,OPEN,x-ray plain film,train
+synpic53635.jpg,PRES,what organ is seen in the left posterior portion of this image to the left of the spinal column,OPEN,the left kidney,train
+synpic100132.jpg,MODALITY,is this a ct scan,CLOSED,no,train
+synpic20208.jpg,PRES,what solid organ is seen on the right side of this image,OPEN,the liver,train
+synpic21042.jpg,ORGAN,what is one organ system seen in this image,OPEN,respiratory system,train
+synpic28355.jpg,PRES,is this xray suggestive of aortic dissection,CLOSED,no,train
+synpic16170.jpg,PRES,does this patient have any fractured ribs,CLOSED,no,train
+synpic53635.jpg,PRES,is there fat stranding shown in this image,CLOSED,yes,train
+synpic35155.jpg,ORGAN,what part of the body is being imaged,OPEN,the abdomen,train
+synpic27047.jpg,MODALITY,what type of imaging modality is this,OPEN,xray - plain film,train
+synpic22310.jpg,PRES,what abnormality can be seen in the greater omentum,OPEN,omental caking,train
+synpic22310.jpg,MODALITY,is this a contrast enhanced image,CLOSED,yes,train
+synpic55317.jpg,MODALITY,is this an mri,CLOSED,yes,train
+synpic31467.jpg,SIZE,is the width of the abdominal aorta within normal limits,CLOSED,no,train
+synpic34854.jpg,MODALITY,what type of mri sequence is this,OPEN,diffusion weighted imaging dwi,train
+synpic21028.jpg,MODALITY,is this image enhanced by contrast,CLOSED,yes,train
+synpic51282.jpg,POS,what lobe of the brain is the lesion found in,OPEN,the right frontal lobe,train
+synpic21028.jpg,POS,there is a mass found in which organ,OPEN,the pancreas,train
+synpic22982.jpg,ABN,does the appendix appear normal,CLOSED,no,train
+synpic35155.jpg,MODALITY,was this a contrast ct or a non-contrast ct,CLOSED,contrast ct with gi and iv contrast,train
+synpic55286.jpg,PRES,do we see diffuse cerebral edema in this mri,CLOSED,no,train
+synpic100132.jpg,OTHER,what is the difference between the left and right costophrenic angles,OPEN,the left costophrenic angle is blunted,train
+synpic27047.jpg,PRES,is there a clavicle fracture shown in this radiograph,CLOSED,no,train
+synpic34854.jpg,POS,on which side of the brain is the infarction,OPEN,right side,train
+synpic22684.jpg,PRES,there is a large enhancing mass growing from what organ in this ct scan,OPEN,the left kidney,train
+synpic16520.jpg,MODALITY,is this a contrast ct or a non-contrast ct,CLOSED,non-contrast ct,train
+synpic21037.jpg,PRES,does this patient have an endotracheal tube placed,CLOSED,no,train
+synpic38858.jpg,POS,which lobe of the brain demonstrates a hyper-intense signal in this t2 weighted mri image,OPEN,the left occipital lobe,train
+synpic21037.jpg,PRES,does this cxr display pneumoperitoneum,CLOSED,no,train
+synpic35155.jpg,PRES,is the appendix seen in this image ruptured,CLOSED,no,train
+synpic22684.jpg,PRES,can the liver be seen in this image,CLOSED,yes,train
+synpic53635.jpg,MODALITY,what imaging modality is seen here,OPEN,ct with gi and iv contrast,train
+synpic48122.jpg,PRES,can you see intraperitoneal bleeding in this ct,CLOSED,no,train
+synpic22684.jpg,PRES,what vessel is seen just anterior to the spine enhancing with contrast,OPEN,the aorta,train
+synpic20208.jpg,PRES,what two large vessels are seen directly anterior to the spinal column,OPEN,the aorta and the inferior vena cava,train
+synpic35155.jpg,PRES,is the appendix seen in this image inflamed,CLOSED,yes,train
+synpic20208.jpg,ORGAN,does this image display the contents of the abdomen,CLOSED,yes,train
+synpic21037.jpg,POS,which side of the image is the thoracic mass located on,OPEN,left side,train
+synpic22982.jpg,MODALITY,was contrast used with this image,CLOSED,yes,train
+synpic21042.jpg,PRES,does this image show a pleural effusion,CLOSED,no,train
+synpic45914.jpg,POS,where is the bleed,OPEN,subarachnoid,train
+synpic45914.jpg,PRES,what kind of brain bleed is this,OPEN,subarachnoid,train
+synpic54004.jpg,POS,where is the enhancement in left rectus muscles,OPEN,medial rectus,train
+synpic54004.jpg,POS,which rectus muscles are enhanced on the left,OPEN,medial rectus,train
+synpic28180.jpg,OTHER,how do you tell which side is r vs l,OPEN,imagine the patient is laying down and you are looking from the feet,train
+synpic22156.jpg,OTHER,how can you tell contrast has been give orally,OPEN,bowel contents light up on image,train
+synpic22156.jpg,PLANE,is the saggital plane,CLOSED,no,train
+synpic17848.jpg,MODALITY,what type of image is this,OPEN,chest xray,train
+synpic17848.jpg,PRES,is there evidence of pneumothorax,CLOSED,no,train
+synpic17848.jpg,PRES,is there a pneumothorax,CLOSED,no,train
+synpic54802.jpg,POS,what side are the infarcts located,OPEN,bilateral,train
+synpic54802.jpg,POS,where are the infarcts seen,OPEN,bilateral,train
+synpic16407.jpg,SIZE,are the pulmonary arteries enlarged,CLOSED,yes,train
+synpic16407.jpg,SIZE,do the pulmonary arteries appear enlarged,CLOSED,yes,train
+synpic35191.jpg,MODALITY,is this an mri,CLOSED,yes,train
+synpic45634.jpg,ATTRIB,how would you describe the lesions,OPEN,loculated,train
+synpic45634.jpg,ATTRIB,what is one adjective to describe the lesions,OPEN,loculated,train
+synpic35191.jpg,POS,are the lesions in the cerebellum,CLOSED,yes,train
+synpic22097.jpg,MODALITY,what kind of image is this,OPEN,chest x ray,train
+synpic22097.jpg,MODALITY,what modality is this,OPEN,chest x ray,train
+synpic17848.jpg,ABN,are the findings normal,CLOSED,no,train
+synpic17848.jpg,ABN,is this a normal image,CLOSED,no,train
+synpic54004.jpg,POS,where is the enhancement in right rectus muscles,OPEN,medial and lateral rectus,train
+synpic54004.jpg,POS,which rectus muscles are enhanced on the right,OPEN,medial and lateral rectus,train
+synpic28180.jpg,ABN,is this normal gallbladder finding,CLOSED,no,train
+synpic49862.jpg,ATTRIB,does the lesion demonstrate ring enhancement,CLOSED,yes,train
+synpic49862.jpg,ATTRIB,is this lesion ring enhancing,CLOSED,yes,train
+synpic53097.jpg,PRES,is there evidence of calcification,CLOSED,no,train
+synpic53097.jpg,PRES,is the mass calcified,CLOSED,no,train
+synpic53097.jpg,SIZE,what is the location of the mass,OPEN,pineal gland,train
+synpic53097.jpg,SIZE,where is the mass located,OPEN,pineal gland,train
+synpic28180.jpg,OTHER,do you always recommend using both iv and oral contrast,CLOSED,no,train
+synpic16407.jpg,PRES,are the lungs hyperinflated,CLOSED,yes,train
+synpic16407.jpg,PRES,do the lungs appear hyperinflated,CLOSED,yes,train
+synpic26248.jpg,POS,the air fluid level is in which location,OPEN,cardiac region,train
+synpic26248.jpg,POS,where is there an air fluid level,OPEN,cardiac region,train
+synpic45914.jpg,PRES,do you see dependent layering in the occipital horns of the lateral ventricles,CLOSED,yes,train
+synpic45914.jpg,PRES,is there dependent layering in the occipital horns of the lateral ventricles,CLOSED,yes,train
+synpic54802.jpg,PRES,what do the hyperdensities represent,OPEN,infarct,train
+synpic54802.jpg,PRES,what are the hyperdensities indicative of,OPEN,infarct,train
+synpic22156.jpg,OTHER,what could cause this finding,OPEN,congenital developmental disorder history of surgery and past manipulation,train
+synpic57813.jpg,MODALITY,what type of image modality is this,OPEN,mr flair,train
+synpic57813.jpg,MODALITY,which image modality is this,OPEN,mr flair,train
+synpic17693.jpg,PLANE,how is the image oriented,OPEN,pa,train
+synpic17693.jpg,PLANE,what plane is this x-ray in,OPEN,pa,train
+synpic54004.jpg,SIZE,are the enhanced muscles also enlarged,CLOSED,yes,train
+synpic54004.jpg,SIZE,do the enhanced muscles appear enlarged,CLOSED,yes,train
+synpic41119.jpg,POS,what side of the abdomen is the aorta on,OPEN,left,train
+synpic41119.jpg,POS,where is the aorta located relative to the midline,OPEN,left,train
+synpic22097.jpg,POS,which side is abnormal,OPEN,left,train
+synpic22097.jpg,POS,which lung has a defect,OPEN,left,train
+synpic45634.jpg,POS,what area is abnormal,OPEN,right cerebellum,train
+synpic45634.jpg,POS,where is/are the abnormality located,OPEN,right cerebellum,train
+synpic57813.jpg,POS,in which area of the brain are the infarcts found,OPEN,right cerebellum,train
+synpic57813.jpg,POS,where are the infarcts located,OPEN,right cerebellum,train
+synpic17848.jpg,ORGAN,what organ systems can be evaluated with this image,OPEN,respiratory cardia c musculoskeletal,train
+synpic52732.jpg,POS,what side is the lesion located on,OPEN,right,train
+synpic52732.jpg,POS,where is the lesion,OPEN,right,train
+synpic52732.jpg,POS,is the lesion located in gray or white matter,CLOSED,white matter,train
+synpic52732.jpg,POS,is the lesion seen in the gray or white matter,CLOSED,white matter,train
+synpic45634.jpg,ABN,are the findings normal,CLOSED,no,train
+synpic45634.jpg,ABN,is this image normal,CLOSED,no,train
+synpic59131.jpg,OTHER,how can you tell this is a t2 weighted image,OPEN,csf is white,train
+synpic17848.jpg,PLANE,is this image best taken on expiration,CLOSED,no,train
+synpic59131.jpg,OTHER,what is the best mri weighting for ring enhancing lesions,OPEN,t2,train
+synpic59131.jpg,PRES,what is seen in the occipital lobe,OPEN,ring enhancing lesion,train
+synpic59131.jpg,PRES,what is abnormal about the occipital lobe,OPEN,ring enhancing lesion,train
+synpic57813.jpg,ABN,does the r vertebral artery appear normal,CLOSED,no,train
+synpic57813.jpg,ABN,is the right vertebral artery normal,CLOSED,no,train
+synpic41119.jpg,PLANE,what plane is this image in,OPEN,axial,train
+synpic41119.jpg,PLANE,which plane is the image shown in,OPEN,axial,train
+synpic35191.jpg,POS,where are the lesions located,OPEN,bilateral cerebellum,train
+synpic35191.jpg,POS,where are the lesions located,OPEN,bilateral cerebellum,train
+synpic22097.jpg,PRES,do you see fluid in the left lung,CLOSED,yes,train
+synpic22097.jpg,PRES,is there fluid in the left lung,CLOSED,yes,train
+synpic49862.jpg,POS,where is the lesion located,OPEN,left parietal lobe,train
+synpic49862.jpg,POS,which lobe is the lesion in,OPEN,left parietal lobe,train
+synpic40520.jpg,SIZE,does the heart appear normal size,CLOSED,no,train
+synpic40520.jpg,SIZE,is the width of the cardiac silhouette normal,CLOSED,no,train
+synpic16407.jpg,MODALITY,what type of image is this,OPEN,chest x-ray,train
+synpic16407.jpg,MODALITY,what image modality is this,OPEN,chest x-ray,train
+synpic26248.jpg,PRES,what are the hyperdense findings in the mediastinum,OPEN,sternal wires,train
+synpic26248.jpg,PRES,what are seen as hyperdense in the mediastinum of this image,OPEN,sternal wires,train
+synpic45914.jpg,PRES,any evidence of epidural or subdural hematoma,CLOSED,no,train
+synpic45914.jpg,PRES,are there epidural or subdural bleeds as well,CLOSED,no,train
+synpic53097.jpg,PRES,is there evidence of hemorrhage,CLOSED,no,train
+synpic53097.jpg,PRES,is the mass hemorrhagic,CLOSED,no,train
+synpic18896.jpg,PRES,what is the abnormality seen above the heart on the patient right side,OPEN,right sided aortic arch,train
+synpic18896.jpg,PRES,what is the bump seen above the heart on the patient right side,OPEN,right sided aortic arch,train
+synpic23631.jpg,PRES,brain structure shown in this image,OPEN,cerebellum,train
+synpic23631.jpg,PRES,what part of the brain is seen in this image,OPEN,cerebellum,train
+synpic37605.jpg,POS,what lobe of the brain is the lesion located in,OPEN,right frontal lobe,train
+synpic37605.jpg,POS,where is the brain lesion located,OPEN,right frontal lobe,train
+synpic31394.jpg,PLANE,in what plane is the above taken,OPEN,pa,train
+synpic60254.jpg,PLANE,is the image above oriented in the axial plane,CLOSED,yes,train
+synpic52828.jpg,MODALITY,is this image taken with or without contrast,OPEN,with contrast,train
+synpic52828.jpg,MODALITY,was contrast used to take this image,OPEN,with contrast,train
+synpic32970.jpg,PRES,are there any bone fractures present,CLOSED,no,train
+synpic32970.jpg,PRES,does the patient have any bone fractures,CLOSED,no,train
+synpic27277.jpg,"PRES, ATTRIB",are the patients ribs symmetric on both sides,CLOSED,no,train
+synpic27277.jpg,"PRES, ATTRIB",is there symmetry of the patient ribs on both sides,CLOSED,no,train
+synpic46062.jpg,POS,what is the location of the mass,OPEN,sella and suprasellar cistern,train
+synpic46062.jpg,POS,where is the mass located,OPEN,sella and suprasellar cistern,train
+synpic17153.jpg,MODALITY,mri imaging modality used for this image,OPEN,t2 weighted,train
+synpic17153.jpg,MODALITY,what type of mri is used to acquire this image,OPEN,t2 weighted,train
+synpic30273.jpg,PRES,the patient left contains a bright round organ what is it,OPEN,left kidney,train
+synpic30273.jpg,PRES,what is the bright round organ seen on the patient left,OPEN,left kidney,train
+synpic46062.jpg,ORGAN,what organ system is shown in the above image,OPEN,brain,train
+synpic46062.jpg,ORGAN,what is the organ system in this image,OPEN,brain,train
+synpic17153.jpg,PRES,does this image show edema,CLOSED,yes,train
+synpic17153.jpg,PRES,is there edema,CLOSED,yes,train
+synpic60254.jpg,ABN,what cranial nerves may be affected by the lesion seen in the above image,OPEN,oculomotor nerve cn iii and trigeminal nerves cn v,train
+synpic60254.jpg,ABN,which cranial nerves are possibly affected by this lesion,OPEN,oculomotor nerve cn iii and trigeminal nerves cn v,train
+synpic57317.jpg,PLANE,is this taken in the axial plane,CLOSED,yes,train
+synpic24248.jpg,PRES,are the colon walls thickened,CLOSED,yes,train
+synpic24248.jpg,PRES,are the walls of the colon thickened,CLOSED,yes,train
+synpic51426.jpg,MODALITY,what type of mri is this,OPEN,t2,train
+synpic51426.jpg,MODALITY,what is the modality of this mri,OPEN,t2,train
+synpic18896.jpg,MODALITY,imaging modality used to take this image,OPEN,pa xray,train
+synpic18896.jpg,MODALITY,what imaging modality is used to acquire this picture,OPEN,pa xray,train
+synpic37605.jpg,MODALITY,what mri imaging sequence is shown above,OPEN,t2 weighted,train
+synpic37605.jpg,MODALITY,what type of mri is shown in the above image,OPEN,t2 weighted,train
+synpic31394.jpg,MODALITY,is the image an ct scan,CLOSED,no,train
+synpic30273.jpg,MODALITY,was this image taken with or without contrast,CLOSED,with contrast,train
+synpic30273.jpg,MODALITY,was contrast used to take this image,CLOSED,yes,train
+synpic27576.jpg,MODALITY,did the patient ingest contrast prior to taking this image,CLOSED,yes,train
+synpic27576.jpg,MODALITY,was contrast used in this image,CLOSED,yes,train
+synpic37605.jpg,COLOR,does the lesion above enhance,CLOSED,no,train
+synpic37605.jpg,COLOR,is there enhancement of the lesion,CLOSED,no,train
+synpic52828.jpg,ATTRIB,is the consistency of the abscess located in the left upper quadrant homogeneous or heterogeneous,CLOSED,heterogeneous,train
+synpic52828.jpg,ATTRIB,is the abscess in the left upper quadrant homogenous or heterogenous,CLOSED,heterogeneous,train
+synpic17145.jpg,PRES,is there a pneumothorax seen in the above image,CLOSED,no,train
+synpic17145.jpg,PRES,is there a pneumothorax present,CLOSED,no,train
+synpic53287.jpg,ABN,what ventricle is the lesion compressing,OPEN,4th ventricle,train
+synpic53287.jpg,ABN,which ventricle is compressed by the lesion,OPEN,4th ventricle,train
+synpic23631.jpg,MODALITY,is this a noncontrast ct,CLOSED,yes,train
+synpic57317.jpg,POS,where do you see a large hematoma,OPEN,right lateral ventricle,train
+synpic57317.jpg,POS,where is the large hematoma located,OPEN,right lateral ventricle,train
+synpic56422.jpg,ORGAN,what organ system is shown in the above image,OPEN,brain,train
+synpic56422.jpg,ORGAN,which organ system is shown in the image,OPEN,brain,train
+synpic59536.jpg,MODALITY,mri imaging modality used,OPEN,dwi,train
+synpic59536.jpg,MODALITY,what type of mri is the above image,OPEN,dwi,train
+synpic17153.jpg,PRES,does the image show midline shift,CLOSED,yes,train
+synpic17153.jpg,PRES,is there midline shift,CLOSED,yes,train
+synpic31394.jpg,SIZE,does the heart look enlarged,CLOSED,no,train
+synpic31394.jpg,SIZE,is the heart enlarged,CLOSED,no,train
+synpic51426.jpg,PLANE,in what plane is the image above captured,OPEN,axial,train
+synpic27576.jpg,PRES,what organ contains multiple lesions in the above image,OPEN,kidneys,train
+synpic27576.jpg,PRES,which organ has multiple lesions,OPEN,kidneys,train
+synpic42805.jpg,SIZE,is the heart larger than normal,CLOSED,no,train
+synpic42805.jpg,SIZE,is the heart enlarged,CLOSED,no,train
+synpic31256.jpg,MODALITY,how was this image taken,OPEN,x-ray,train
+synpic31256.jpg,MODALITY,what imaging modality is seen,OPEN,x-ray,train
+synpic51426.jpg,PRES,does this image show midline shift,CLOSED,yes,train
+synpic51426.jpg,PRES,is there midline shift in this image,CLOSED,yes,train
+synpic17738.jpg,ORGAN,what organ system is being imaged,OPEN,chest,train
+synpic56422.jpg,MODALITY,how was this mri taken,OPEN,dwi,train
+synpic56422.jpg,MODALITY,what type of mri is this,OPEN,dwi,train
+synpic42805.jpg,POS,in which lobes do you see a higher density of masses,OPEN,upper lobes,train
+synpic42805.jpg,POS,which lobes of the lung contain a higher density of masses,OPEN,upper lobes,train
+synpic57317.jpg,PRES,is there mass shift pathology,CLOSED,no,train
+synpic57317.jpg,PRES,is there any mass shift,CLOSED,no,train
+synpic23631.jpg,PLANE,in what plane is this image taken,OPEN,axial,train
+synpic57317.jpg,MODALITY,what imaging modality is used,OPEN,mri - t1 weighted,train
+synpic17738.jpg,PLANE,is this a pa film,CLOSED,yes,train
+synpic32970.jpg,PRES,are there multiple lesions in the chest of the above patient,CLOSED,no,train
+synpic32970.jpg,PRES,does this patient have multiple lesions in their chest,CLOSED,no,train
+synpic31256.jpg,POS,the azygoesophageal recess is deviated in which direction,OPEN,right,train
+synpic31256.jpg,POS,which direction is the azygoesophageal recess deviated,OPEN,right,train
+synpic17145.jpg,POS,in which side is the hemidiaphragm elevated,OPEN,right,train
+synpic17145.jpg,POS,which diaphragm is elevated,OPEN,right,train
+synpic24248.jpg,PRES,does the image show pericolonic fat stranding,CLOSED,yes,train
+synpic24248.jpg,PRES,is there pericolic fat stranding,CLOSED,yes,train
+synpic51426.jpg,ORGAN,is this an image of the brain,CLOSED,yes,train
+synpic53287.jpg,MODALITY,is this mri with contrast or without contrast,CLOSED,with contrast,train
+synpic53287.jpg,MODALITY,was this mri taken with or without contrast,CLOSED,with contrast,train
+synpic31394.jpg,POS,are the pulmonary nodules diffuse in the chest or lateralized to one side,CLOSED,diffuse,train
+synpic31394.jpg,POS,is the location of the pulmonary nodules diffuse or lateralized to one side,CLOSED,diffuse,train
+synpic33481.jpg,POS,are the lesions only in one lobe,CLOSED,no,train
+synpic33481.jpg,POS,are the opacities confined to one lung lobe,CLOSED,no,train
+synpic29771.jpg,COLOR,is the lesion in the image enhancing,CLOSED,no,train
+synpic29771.jpg,COLOR,is the mass contrast-enhancing,CLOSED,no,train
+synpic20626.jpg,POS,where is the lesion located,OPEN,left cerebellum,train
+synpic20626.jpg,POS,where is the abnormality in this image,OPEN,left cerebellum,train
+synpic46764.jpg,SIZE,is the cortex atrophied,CLOSED,no,train
+synpic46764.jpg,SIZE,is there cortical atrophy,CLOSED,no,train
+synpic47974.jpg,POS,are these masses encompassing the aorta,CLOSED,no,train
+synpic47974.jpg,POS,are the liver masses growing around the aorta,CLOSED,no,train
+synpic33331.jpg,PLANE,is this a mid-sagittal film,CLOSED,no,train
+synpic33429.jpg,PRES,is there free air under the diaphragm,CLOSED,no,train
+synpic33429.jpg,PRES,is there air in the abdominal cavity,CLOSED,no,train
+synpic16221.jpg,PLANE,is this an axial image,CLOSED,no,train
+synpic38069.jpg,PRES,is a skull fracture present,CLOSED,no,train
+synpic38069.jpg,PRES,is the skull fractured,CLOSED,no,train
+synpic22791.jpg,PRES,what are the hyperdensities on the periphery of the left side,OPEN,ribs,train
+synpic22791.jpg,PRES,what are the foci of hyperdensities on the left,OPEN,ribs,train
+synpic38069.jpg,POS,where is the abnormality in this image,OPEN,choroid plexus,train
+synpic38069.jpg,POS,where is the mass located,OPEN,lateral ventricles,train
+synpic17675.jpg,PRES,is there free air under the diaphragm,CLOSED,no,train
+synpic17675.jpg,PRES,is subdiaphragmatic free air present,CLOSED,no,train
+synpic33302.jpg,PRES,are there any consolidations present in the lungs,CLOSED,no,train
+synpic33302.jpg,PRES,are there any pulmonary consolidations,CLOSED,no,train
+synpic29795.jpg,PRES,is the vertebrae fractured,CLOSED,no,train
+synpic29795.jpg,PRES,is there a vertebral fracture,CLOSED,no,train
+synpic33331.jpg,OTHER,why are the chostrochondral junctions not seen on this film,OPEN,cartilage is not well viewed by x rays,train
+synpic33331.jpg,SIZE,is the heart shadow abnormally large,CLOSED,no,train
+synpic33331.jpg,SIZE,is the cardiac silhouette enlarged,CLOSED,no,train
+synpic24350.jpg,PRES,is there a pneumothorax,CLOSED,no,train
+synpic24350.jpg,PRES,is a pneumothorax present,CLOSED,no,train
+synpic16221.jpg,OTHER,is there pneumothorax,CLOSED,no,train
+synpic16221.jpg,OTHER,how can you tell there is no pneumothorax present,OPEN,lung markings present all the way laterally to the ribs,train
+synpic37275.jpg,SIZE,is the pelvis of the left kidney dilated,CLOSED,no,train
+synpic37275.jpg,SIZE,is the left renal pelvis dilated,CLOSED,no,train
+synpic16221.jpg,OTHER,why is the right lung most common location for aspirations,OPEN,the right mainstem bronchus is more in line with the trachea than the left,train
+synpic29771.jpg,PRES,is the bowel perforated,CLOSED,no,train
+synpic29771.jpg,PRES,is there bowel perforation present,CLOSED,no,train
+synpic46764.jpg,COLOR,can the white and gray matter be differentiated,CLOSED,yes,train
+synpic46764.jpg,COLOR,is there good gray-white matter differentiation,CLOSED,yes,train
+synpic17675.jpg,PRES,are there cilia present at the level of alveoli,CLOSED,no,train
+synpic33331.jpg,PRES,are any of the ribs fractured,CLOSED,no,train
+synpic33331.jpg,PRES,are there rib fractures present,CLOSED,no,train
+synpic33481.jpg,OTHER,does a blocked alveoli cause a v/q mismatch,CLOSED,yes,train
+synpic50958.jpg,PRES,what radiographic sign is seen in the intestines,OPEN,air fluid level,train
+synpic50958.jpg,PRES,what is the finding in lumen of the intestine called,OPEN,air fluid level,train
+synpic28277.jpg,PRES,what are the multiple round hyperdensities located immediately inferior to the musculature,OPEN,intestine,train
+synpic28277.jpg,PRES,what are the anterior circular hyperdensities,OPEN,intestine,train
+synpic20375.jpg,SIZE,are the ventricles enlarged,CLOSED,no,train
+synpic20375.jpg,SIZE,is there ventricular enlargement,CLOSED,no,train
+synpic33302.jpg,PRES,what is the air under the left hemidiaphragm,OPEN,stomach bubble,train
+synpic33302.jpg,PRES,what is hyperdensity under the diaphragm on the left,OPEN,stomach bubble,train
+synpic59935.jpg,POS,where is the infarct,OPEN,left cerebellum,train
+synpic59935.jpg,POS,which vessel is infarcted in this image,OPEN,right pica,train
+synpic34922.jpg,PRES,what signs of cerebral edema are present,OPEN,sulcal effacement,train
+synpic34922.jpg,PRES,which signs of edema are visualized here,OPEN,sulcal effacement,train
+synpic29795.jpg,POS,is the mass surrounding the aorta,CLOSED,no,train
+synpic29795.jpg,POS,is the aorta encompassed by the mass,CLOSED,no,train
+synpic59935.jpg,PRES,what area of cerebrum is visible,OPEN,temporal lobe,train
+synpic59935.jpg,PRES,which lobe of the cerebrum is visible,OPEN,temporal lobe,train
+synpic37275.jpg,PRES,which vertebral level is this image,OPEN,l2,train
+synpic37275.jpg,PRES,what level of the spine is most likely seen here,OPEN,l2-3,train
+synpic33481.jpg,OTHER,what else do you need in order to localize lesions on a cxr,OPEN,lateral film as well as pa,train
+synpic16221.jpg,PRES,is the trachea deviated from midline,CLOSED,no,train
+synpic16221.jpg,PRES,is there tracheal deviation,CLOSED,no,train
+synpic46764.jpg,POS,where is the lesion located,OPEN,left occipital lobe,train
+synpic46764.jpg,POS,which lobe is the lesion in,OPEN,left occipital lobe,train
+synpic17675.jpg,OTHER,can x rays be used to identify liver lesions,CLOSED,no,train
+synpic34922.jpg,POS,where is the lesion located,OPEN,right temporal lobe,train
+synpic34922.jpg,POS,where is the cortical lesion,OPEN,right temporal lobe,train
+synpic50958.jpg,COLOR,is the pancreatic mass enhancing,CLOSED,no,train
+synpic50958.jpg,COLOR,is the mass in the pancreas enhancing,CLOSED,no,train
+synpic16221.jpg,OTHER,what does the black on an x ray indicate,OPEN,air,train
+synpic50958.jpg,MODALITY,can ct be used to assess soft tissues,CLOSED,yes,train
+synpic33481.jpg,ATTRIB,are the hemidiaphragms flattened,CLOSED,no,train
+synpic33481.jpg,ATTRIB,is the diaphragm flattened on either side,CLOSED,no,train
+synpic29795.jpg,PRES,is the bowel perforated,CLOSED,no,train
+synpic29795.jpg,PRES,is there sign of perforated bowel,CLOSED,no,train
+synpic28569.jpg,POS,where is the abnormality in this image,OPEN,left kidney,train
+synpic28569.jpg,POS,where is the lesion located,OPEN,left kidney,train
+synpic20626.jpg,PRES,are any fractures present,CLOSED,no,train
+synpic20626.jpg,PRES,is there a skull fracture,CLOSED,no,train
+synpic59935.jpg,PRES,is there a skull fracture present,CLOSED,no,train
+synpic59935.jpg,PRES,is the skull fractured,CLOSED,no,train
+synpic45610.jpg,SIZE,is the cardiac silhouette enlarged,CLOSED,no,train
+synpic45610.jpg,SIZE,is the heart size abnormal,CLOSED,no,train
+synpic45544.jpg,PRES,is there a subarachnoid bleed in the image,CLOSED,no,train
+synpic45544.jpg,PRES,is a subarachnoid bleed present,CLOSED,no,train
+synpic28277.jpg,PRES,what material is the peripheral hypodensity,OPEN,fat,train
+synpic28277.jpg,PRES,what is the the dark gray surrounding the periphery of the image,OPEN,fat,train
+synpic28569.jpg,PRES,does the right kidney show signs of hydronephrosis,CLOSED,no,train
+synpic28569.jpg,PRES,is the right kidney abnormal here,CLOSED,no,train
+synpic33481.jpg,SIZE,is the aorta abnormally wide,CLOSED,no,train
+synpic33481.jpg,SIZE,is the aortic knob widened,CLOSED,no,train
+synpic24350.jpg,PRES,is the trachea normal,CLOSED,yes,train
+synpic24350.jpg,PRES,is the trachea midline,CLOSED,yes,train
+synpic45544.jpg,SIZE,are the cortexes atrophied here,CLOSED,no,train
+synpic45544.jpg,SIZE,is cortical atrophy present,CLOSED,no,train
+synpic17675.jpg,PRES,is there a pneumothorax,CLOSED,no,train
+synpic17675.jpg,PRES,is a pneuomothorax present,CLOSED,no,train
+synpic57237.jpg,PRES,is the skull fractured,CLOSED,no,train
+synpic57237.jpg,PRES,is there a skull fracture,CLOSED,no,train
+synpic37275.jpg,OTHER,if the mass compressed the left renal vein in a male what else might you expect to see,OPEN,varicocele,train
+synpic26413.jpg,PRES,are the clavicles fractured,CLOSED,no,train
+synpic26413.jpg,PRES,is a clavicular fracture present,CLOSED,no,train
+synpic28569.jpg,PRES,is the liver lacerated,CLOSED,no,train
+synpic28569.jpg,PRES,is there damage to the liver,CLOSED,no,train
+synpic50958.jpg,PRES,what does the small white lesions in the aorta mean,OPEN,calcification,train
+synpic50958.jpg,PRES,what do the hyperdensities in the aorta suggest,OPEN,calcification,train
+synpic24350.jpg,PRES,is a pleural effusion present,CLOSED,no,train
+synpic24350.jpg,PRES,is there a pleural effusion,CLOSED,no,train
+synpic40426.jpg,PLANE,is this in the coronal plane,CLOSED,no,train
+synpic27646.jpg,PRES,is there lymphadenopathy,CLOSED,no,train
+synpic27646.jpg,PRES,is lymphadenopathy present,CLOSED,no,train
+synpic53207.jpg,ABN,are the ventricles unaltered,CLOSED,no,train
+synpic53207.jpg,ABN,are the ventricles normal,CLOSED,no,train
+synpic40426.jpg,ATTRIB,what is the shape of the mass,OPEN,elliptical,train
+synpic40426.jpg,ATTRIB,what is the form of the mass,OPEN,elliptical,train
+synpic19232.jpg,ATTRIB,describe the borders of the lesion .,OPEN,smooth,train
+synpic19232.jpg,ATTRIB,how are the borders of the lesion,OPEN,smooth,train
+synpic48091.jpg,POS,what is the location of the mass,OPEN,left temporal horn,train
+synpic48091.jpg,POS,where is the mass,OPEN,left temporal horn,train
+synpic45364.jpg,ATTRIB,is the mass heterogenous,CLOSED,yes,train
+synpic45364.jpg,ATTRIB,is the mass varied,CLOSED,yes,train
+synpic55583.jpg,PRES,is there mass effect seen on this image,CLOSED,yes,train
+synpic55583.jpg,SIZE,is there bulging of structures in this image,CLOSED,yes,train
+synpic51212.jpg,ORGAN,can you name the organ captured by this image,OPEN,brain,train
+synpic51212.jpg,ATTRIB,how would you describe the lesion,OPEN,ring-enhancing,train
+synpic51212.jpg,PRES,what is this type of lesion called,OPEN,ring-enhancing,train
+synpic31217.jpg,POS,what is the location of the abnormality,OPEN,right lung,train
+synpic31217.jpg,POS,where is the abnormality,OPEN,right lung,train
+synpic32081.jpg,POS,what is the location of the abnormality,OPEN,right side of the trachea,train
+synpic32081.jpg,POS,where is the abnormality,OPEN,right side of the trachea,train
+synpic53207.jpg,ORGAN,the bottom of the image indicates what area of the brain,OPEN,posterior brain,train
+synpic51212.jpg,PRES,is there edema present near the lesion,CLOSED,yes,train
+synpic51212.jpg,PRES,is there fluid accumulation near the lesion,CLOSED,yes,train
+synpic24878.jpg,ABN,are there abnormal findings,CLOSED,yes,train
+synpic24878.jpg,ABN,is anything irregular in this image,CLOSED,yes,train
+synpic53207.jpg,OTHER,what injury does this brain image suggest,OPEN,hypoxic ischemic injury,train
+synpic53207.jpg,OTHER,what is evinced by this brain image,OPEN,loss of normal gray-white matter junction,train
+synpic31217.jpg,ABN,is this an image of normal physiology,CLOSED,no,train
+synpic31217.jpg,ABN,is this patient healthy,CLOSED,no,train
+synpic45364.jpg,POS,what is the location of the lesion,OPEN,abdomen and pelvis,train
+synpic45364.jpg,POS,where is the lesion,OPEN,abdomen and pelvis,train
+synpic18250.jpg,PRES,are the airway walls thickened in the bases,CLOSED,yes,train
+synpic18250.jpg,PRES,is there increased airway wall thickening of the bilateral bases,CLOSED,yes,train
+synpic29263.jpg,SIZE,is the heart enlarged,CLOSED,no,train
+synpic29263.jpg,SIZE,is there cardiomegaly,CLOSED,no,train
+synpic31217.jpg,ABN,are there abnormalities seen in the lungs,CLOSED,yes,train
+synpic19232.jpg,POS,how would you describe the location of the lesion,OPEN,retrocardiac,train
+synpic19232.jpg,POS,where is the lesion located,OPEN,retrocardiac,train
+synpic31217.jpg,ABN,where is the nodule,OPEN,below the 7th rib in the right lung .,train
+synpic31217.jpg,ABN,what is the abnormality,OPEN,single lung nodule,train
+synpic18250.jpg,ABN,are there abnormalities,CLOSED,yes,train
+synpic18250.jpg,ABN,is anything wrong in this image,CLOSED,yes,train
+synpic32081.jpg,ABN,is anything wrong in the image,CLOSED,yes,train
+synpic32081.jpg,ABN,is there an abnormality,CLOSED,yes,train
+synpic48091.jpg,OTHER,are there other abnormalities besides the mass in the temporal horn,CLOSED,yes,train
+synpic48091.jpg,OTHER,besides the mass in the temporal horn are there other enhancements in the image,CLOSED,yes,train
+synpic51212.jpg,MODALITY,how was this image taken,OPEN,mri,train
+synpic34054.jpg,ABN,what is the condition of the patient,OPEN,blind loop syndrome,train
+synpic34054.jpg,ABN,what abnormality is seen,OPEN,blind-ending loop of bowel arising from the cecum,train
+synpic47020.jpg,POS,what is the location of the mass,OPEN,pineal region,train
+synpic47020.jpg,POS,where is the mass,OPEN,pineal region,train
+synpic51212.jpg,PLANE,is this image in the transverse plane,CLOSED,yes,train
+synpic29263.jpg,PRES,are there any pulmonary findings,CLOSED,no,train
+synpic29263.jpg,PRES,are the lungs affected,CLOSED,no,train
+synpic55583.jpg,POS,in which lobe are the lesions,CLOSED,bilateral frontal lobes,train
+synpic55583.jpg,POS,where are the lesions,OPEN,bilateral frontal lobes,train
+synpic53207.jpg,MODALITY,what type of image is this,OPEN,mri-dwi,train
+synpic55583.jpg,PRES,is the gyral enhancement,CLOSED,yes,train
+synpic24878.jpg,POS,what is the location of the abnormality,OPEN,right colon,train
+synpic24878.jpg,POS,where is the abnormal finding,OPEN,right colon,train
+synpic27646.jpg,PLANE,what plane is seen,OPEN,pa,train
+synpic48091.jpg,ATTRIB,how would you describe the mass,OPEN,isointense,train
+synpic48091.jpg,ATTRIB,what are the characteristics of the mass,OPEN,isointense,train
+synpic31217.jpg,PLANE,which plane is this image taken in,OPEN,pa,train
+synpic47020.jpg,COLOR,is the mass hyperintense or hypointense,CLOSED,hyperintense,train
+synpic47020.jpg,COLOR,what is the radiological description of the mass,OPEN,hyperintense,train
+synpic40426.jpg,PRES,what allows for the bright areas seen in this image,OPEN,iv contrast,train
+synpic27646.jpg,MODALITY,is this an mri,CLOSED,no,train
+synpic40426.jpg,ATTRIB,is the mass heterogenous,CLOSED,yes,train
+synpic40426.jpg,ATTRIB,is the mass heterogenous in consistency,CLOSED,yes,train
+synpic53207.jpg,ABN,are there abnormalities with in the contrast between white and grey matter,CLOSED,yes,train
+synpic53207.jpg,ABN,is the gray-white matter junction altered,CLOSED,yes,train
+synpic34054.jpg,PRES,is there evidence of inflammation,CLOSED,yes,train
+synpic34054.jpg,PRES,is any structure inflamed,CLOSED,yes,train
+synpic53207.jpg,PLANE,is the image in the axial plane,CLOSED,yes,train
+synpic27646.jpg,ATTRIB,how can the distribution in this image be described,OPEN,micronodular,train
+synpic27646.jpg,ATTRIB,what type of distributions is seen on this image,OPEN,micronodular,train
+synpic40426.jpg,POS,what is the location of the mass,OPEN,left rectus abdominus,train
+synpic40426.jpg,POS,where is the mass,OPEN,left rectus abdominus,train
+synpic55583.jpg,MODALITY,is this a t1 weighted image,CLOSED,no,train
+synpic31757.jpg,PRES,is the right renal vein visualized,CLOSED,no,train
+synpic31757.jpg,PRES,is it possible to identify the right renal vein,CLOSED,no,train
+synpic25105.jpg,PRES,are the kidneys visible in this image,CLOSED,yes,train
+synpic22794.jpg,PRES,is air visible in the bowels,CLOSED,yes,train
+synpic22794.jpg,PRES,is there air in the bowel,CLOSED,yes,train
+synpic42210.jpg,PRES,what do the two bright dots represent,OPEN,nipple location,train
+synpic42210.jpg,PRES,what are the two hyperlucent inferior dots,OPEN,nipple location,train
+synpic54391.jpg,POS,what are the locations of the hyperintensities,OPEN,bilateral frontal lobes and body of corpus callosum,train
+synpic54391.jpg,POS,where are the hyperintensities located,OPEN,bilateral frontal lobes and body of corpus callosum,train
+synpic28210.jpg,PRES,are the kidneys visualized,CLOSED,yes,train
+synpic28210.jpg,PRES,can you see the kidneys,CLOSED,yes,train
+synpic100176.jpg,MODALITY,is this a pa or ap film,CLOSED,pa,train
+synpic100176.jpg,MODALITY,what laterality is this film,OPEN,pa,train
+synpic56344.jpg,OTHER,what artery is the embolus from,OPEN,distal basilar artery,train
+synpic56344.jpg,POS,where is the embolus located,OPEN,distal basilar artery,train
+synpic53867.jpg,POS,the mass is located in what region,OPEN,suprasellar,train
+synpic53867.jpg,POS,where is the mass located,OPEN,suprasellar,train
+synpic54391.jpg,MODALITY,the imaging modality is . . .,OPEN,mri/flair,train
+synpic54391.jpg,MODALITY,what is the image modality,OPEN,mri/flair,train
+synpic28987.jpg,PRES,is there fluid in the lungs,CLOSED,no,train
+synpic28987.jpg,PRES,is a pleural effusion present,CLOSED,no,train
+synpic25105.jpg,PLANE,is this an axial cut,CLOSED,yes,train
+synpic42210.jpg,PRES,is the trachea deviated,CLOSED,yes,train
+synpic42210.jpg,PRES,is tracheal deviation present,CLOSED,yes,train
+synpic33892.jpg,MODALITY,what image modality is this,OPEN,ct,train
+synpic33892.jpg,MODALITY,what imaging modality was used,OPEN,ct,train
+synpic52988.jpg,PRES,are patchy infiltrates depicted,CLOSED,yes,train
+synpic52988.jpg,PRES,are there patchy infiltrates present,CLOSED,yes,train
+synpic100176.jpg,ABN,are the margins of the cardiac silhouette normal,CLOSED,no,train
+synpic100176.jpg,ABN,is the heart border normal,CLOSED,no,train
+synpic23008.jpg,PLANE,is this an axial plane,CLOSED,yes,train
+synpic32981.jpg,SIZE,is there intrahepatic ductal dilatation,CLOSED,yes,train
+synpic32981.jpg,SIZE,is intrahepatic ductal dilatation present,CLOSED,yes,train
+synpic12210.jpg,MODALITY,what imaging modality was used,OPEN,x-ray,train
+synpic12210.jpg,MODALITY,what type of image is this,OPEN,x-ray,train
+synpic28718.jpg,PRES,are air fluid levels depicted in this image,CLOSED,yes,train
+synpic28718.jpg,PRES,is there an air fluid level present,CLOSED,yes,train
+synpic56061.jpg,POS,where is the pathology located,OPEN,anterior cerebrum,train
+synpic56061.jpg,POS,which region of the brain is impacted,OPEN,anterior surface,train
+synpic25105.jpg,PRES,is there air in the bowel,CLOSED,yes,train
+synpic25105.jpg,PRES,is air present in the bowel,CLOSED,yes,train
+synpic23648.jpg,PRES,what is behind the liver,OPEN,ascites,train
+synpic23648.jpg,PRES,what finding is associated with liver,OPEN,ascites,train
+synpic56061.jpg,MODALITY,what type of image is this,OPEN,mri-flair,train
+synpic56061.jpg,MODALITY,what imaging modality was used,OPEN,mri-flair,train
+synpic52248.jpg,PLANE,what imaging plane is depicted here,OPEN,axial,train
+synpic52248.jpg,PLANE,what is the plane,OPEN,axial,train
+synpic28987.jpg,SIZE,is cardiomegaly shown,CLOSED,yes,train
+synpic28987.jpg,SIZE,is the heart enlarged,CLOSED,yes,train
+synpic31757.jpg,POS,what is the location of the mass,OPEN,right kidney,train
+synpic31757.jpg,POS,where is the mass located,OPEN,right kidney,train
+synpic28718.jpg,MODALITY,how was this image taken,OPEN,with contrast,train
+synpic54391.jpg,PRES,what do the hyperintensities likely represent,OPEN,hemorrhage,train
+synpic54391.jpg,PRES,what are the hyperintensities signaling,OPEN,hemorrhage,train
+synpic24967.jpg,PRES,can you see kidneys in this image,CLOSED,yes,train
+synpic23008.jpg,MODALITY,how was this image taken,OPEN,with contrast,train
+synpic24967.jpg,MODALITY,is there contrast in this image,CLOSED,yes,train
+synpic24967.jpg,PRES,is pericholecystic inflammation present,CLOSED,yes,train
+synpic24967.jpg,PRES,what is the lighter substance around the gallbladder,OPEN,pericholecystic fluid,train
+synpic27142.jpg,MODALITY,what type of imaging was used,OPEN,mr - t2 weighted,train
+synpic27142.jpg,MODALITY,which image modality is this,OPEN,mr - t2 weighted,train
+synpic45699.jpg,PLANE,what is the plane,OPEN,axial,train
+synpic45699.jpg,PLANE,what plane was used,OPEN,axial,train
+synpic53867.jpg,MODALITY,does this image use contrast or not,CLOSED,contrast,train
+synpic53867.jpg,MODALITY,does this ct have contrast or no contrast,CLOSED,contrast,train
+synpic25105.jpg,ABN,what is wrong with the pancreas,OPEN,fatty infiltration,train
+synpic25105.jpg,ABN,what pathology does the pancreas deominstrate,OPEN,fatty infiltration,train
+synpic23648.jpg,PRES,is the liver cirrhotic,CLOSED,yes,train
+synpic28210.jpg,ABN,what organ exhibits pathology,OPEN,jejunum,train
+synpic28210.jpg,ABN,which part of the bowel is involved by the mass,OPEN,jejunum,train
+synpic24967.jpg,PLANE,what plane are we in,OPEN,axial,train
+synpic45699.jpg,MODALITY,what is the modality used,OPEN,mr - adc map,train
+synpic45699.jpg,MODALITY,what imaging method was used,OPEN,mr - adc map,train
+synpic12210.jpg,PRES,what is at the base of the right lung,OPEN,nodules,train
+synpic12210.jpg,PRES,what pathology is shown at the lung bases,OPEN,nodules,train
+synpic42210.jpg,PLANE,is this a pa film,CLOSED,yes,train
+synpic42210.jpg,MODALITY,what image modality is this,OPEN,x-ray,train
+synpic28718.jpg,PLANE,is this an axial plane,CLOSED,yes,train
+synpic23648.jpg,MODALITY,is this a ct image,CLOSED,yes,train
+synpic28718.jpg,POS,the abscess is located in what structure,OPEN,descending colon,train
+synpic28718.jpg,POS,where is the abscess located,OPEN,descending colon,train
+synpic56344.jpg,POS,where are the hyperlucencies located,OPEN,thalami left occipital lobe brainstem and left cerebellum,train
+synpic56344.jpg,POS,which areas are lighting up,OPEN,thalami left occipital lobe brainstem and left cerebellum,train
+synpic33892.jpg,PRES,are there multiple septations within the cyst,CLOSED,yes,train
+synpic33892.jpg,PRES,is the cyst complex,CLOSED,yes,train
+synpic33892.jpg,ABN,what organ is involved,OPEN,pancreas,train
+synpic33892.jpg,ABN,which organ is affected,OPEN,pancreas,train
+synpic28718.jpg,POS,where are the kidneys located,OPEN,adjacent to vertebrae,train
+synpic25105.jpg,MODALITY,is there contrast in this image,CLOSED,yes,train
+synpic32981.jpg,PRES,is there evidence of mesenteric lymphadenopathy,CLOSED,yes,train
+synpic32981.jpg,PRES,is mesenteric lymphadenopathy present,CLOSED,yes,train
+synpic52248.jpg,MODALITY,what imaging modality was used,OPEN,mr - flair,train
+synpic52248.jpg,MODALITY,what type of image modality is this,OPEN,mr - flair,train
+synpic24967.jpg,PRES,is the right conal fascia inflammed,CLOSED,yes,train
+synpic24967.jpg,PRES,is inflammation present at the right conal fascia,CLOSED,yes,train
+synpic23648.jpg,PRES,what organ is enlarged,OPEN,spleen,train
+synpic23648.jpg,PRES,which organ is abnormally large,OPEN,spleen,train
+synpic53867.jpg,PRES,what does the enhancing periphery of the mass represent,OPEN,calcification,train
+synpic53867.jpg,PRES,what is the outer rim of the mass,OPEN,calcification,train
+synpic52988.jpg,OTHER,blunting of the costophrenic angles indicate what condition,OPEN,pleural effusion,train
+synpic52988.jpg,OTHER,what does the blunting of the costophrenic angles indicate,OPEN,pleural effusion,train
+synpic23008.jpg,PRES,what are the two bright images on either side,OPEN,hip bones,train
+synpic31248.jpg,PRES,is there hilar adenopathy,CLOSED,yes,train
+synpic52988.jpg,OTHER,is the et tube properly placed,CLOSED,yes,train
+synpic32136.jpg,PRES,is there perinephric fat stranding,CLOSED,yes,train
+synpic19853.jpg,PLANE,which plane is the image in,OPEN,axial,train
+synpic60254.jpg,ATTRIB,is this a singular or multilobulated lesion,CLOSED,multilobulated,train
+synpic15006.jpg,SIZE,is there cardiomegaly,CLOSED,yes,train
+synpic46062.jpg,PRES,are the sulci visible in this image,CLOSED,no,train
+synpic32981.jpg,MODALITY,what imaging modality was used,OPEN,ct,train
+synpic17664.jpg,PRES,is the trachea midline,CLOSED,yes,train
+synpic17675.jpg,PRES,are there any fractures in this image,CLOSED,no,train
+synpic22967.jpg,MODALITY,was the patient given iv contrast,CLOSED,yes,train
+synpic22967.jpg,PRES,is there contrast in the patient vasculature,CLOSED,yes,train
+synpic49914.jpg,SIZE,is there pleural thickening in the r lung,CLOSED,yes,train
+synpic22874.jpg,MODALITY,is iv contrast used,CLOSED,yes,train
+synpic54391.jpg,PRES,is this process bilateral,CLOSED,yes,train
+synpic42157.jpg,PRES,is the sigmoid colon visualized at this axial section,CLOSED,yes,train
+synpic33102.jpg,PRES,is there a pneumothorax,CLOSED,yes,train
+synpic46720.jpg,COLOR,is the abnormality hyper intense,CLOSED,yes,train
+synpic42307.jpg,PRES,is there ring-enhancement,CLOSED,yes,train
+synpic45364.jpg,PRES,is there air in the lesion,CLOSED,no,train
+synpic59536.jpg,POS,what part of the posterior brain contains the lesions,OPEN,temporal and lateral occipital lobes,train
+synpic18319.jpg,POS,which lung are the nodules located in,OPEN,bilateral,train
+synpic45634.jpg,COLOR,what is the signal intensity of the lesion,OPEN,mixed intensity,train
+synpic9872.jpg,PRES,is there a shift of midline structures,CLOSED,no,train
+synpic51383.jpg,POS,in what lobe of the brain is the lesion located,OPEN,right temporal lobe,train
+synpic34947.jpg,COLOR,are the cerebellar infarcts hyper attenuated,CLOSED,yes,train
+synpic51872.jpg,PRES,is this patient intubated,CLOSED,no,train
+synpic27601.jpg,POS,where is the spleen located,OPEN,on the left,train
+synpic27601.jpg,PRES,is the spleen present,CLOSED,yes,train
+synpic45162.jpg,COUNT,how many gallstones are identified,OPEN,4,train
+synpic60543.jpg,OTHER,what would be the most probably diagnosis for this patient,OPEN,acute stroke,train
+synpic27277.jpg,OTHER,why is the left hemithorax more lucent,OPEN,decreased muscle bulk,train
+synpic31757.jpg,SIZE,how big is the mass,OPEN,6 .5 x 6 .2 x 8 .8cm,train
+synpic22037.jpg,PRES,is there a rib fracture,CLOSED,no,train
+synpic52767.jpg,PRES,are there decreased lung markings in the right upper lung field,CLOSED,yes,train
+synpic57368.jpg,PRES,is there an brain bleed,CLOSED,no,train
+synpic23631.jpg,PRES,what is the term for the sign in this image,OPEN,right vertebral artery sign,train
+synpic40520.jpg,PRES,are there increased interstitial markings,CLOSED,yes,train
+synpic40426.jpg,POS,is the mass in the left or right side,CLOSED,left,train
+synpic46943.jpg,ABN,is the corpus callosum involved,CLOSED,yes,train
+synpic33331.jpg,"PRES, POS",which side is the diaphragm more depressed,OPEN,left,train
+synpic46976.jpg,PRES,is there pneumoperitoneum,CLOSED,no,train
+synpic53287.jpg,SIZE,how large is the mass,OPEN,5cm,train
+synpic48714.jpg,PRES,is there grey-white matter differentiation,CLOSED,yes,train
+synpic34922.jpg,PRES,is there any lesion in the ventricles,CLOSED,yes,train
+synpic56799.jpg,POS,is the lesion on the right or left side of the brain,CLOSED,right,train
+synpic24350.jpg,SIZE,is there cardiac enlargement,CLOSED,yes,train
+synpic21044.jpg,SIZE,is there bilateral hilar enlargement,CLOSED,yes,train
+synpic39757.jpg,PRES,are the orbits in view of this image,CLOSED,yes,train
+synpic32933.jpg,POS,where is the abnormality located,OPEN,r hemidiaphragm,train
+synpic39141.jpg,SIZE,is there ectatic or aneurysmal enlargement of the abdominal aorta,CLOSED,no,train
+synpic22286.jpg,COLOR,are the kidneys hyper attenuated,CLOSED,yes,train
+synpic45039.jpg,PRES,is there a fracture in the vertebrae seen,CLOSED,no,train
+synpic28210.jpg,PRES,is the aorta visualized,CLOSED,yes,train
+synpic20375.jpg,SIZE,what is the size of the lesion,OPEN,almost entire right side,train
+synpic29048.jpg,ORGAN,what part of the body does this radiograph show,OPEN,chest,train
+synpic31400.jpg,ABN,is this an abnormal film,CLOSED,yes,train
+synpic31400.jpg,PRES,is there a cavitary lesion,CLOSED,yes,train
+synpic17153.jpg,PRES,the increased signal is a result of what material,OPEN,fluid,train
+synpic59935.jpg,ABN,what does the abnormality in this image represent,OPEN,infarct,train
+synpic31256.jpg,PRES,is there a pneumothorax present,CLOSED,no,train
+synpic33689.jpg,POS,is the contrast in the bowels or the vasculature,CLOSED,in the vasculature,train
+synpic19232.jpg,SIZE,is the heart enlarged,CLOSED,yes,train
+synpic50962.jpg,PRES,what structures is identified in the middle of this image,OPEN,pons,train
+synpic51212.jpg,PRES,is there bleeding in the brain,CLOSED,no,train
+synpic100228.jpg,PRES,is there evidence of a pleural effusion,CLOSED,no,train
+synpic60831.jpg,MODALITY,what type of image modality is used,OPEN,mri,train
+synpic59131.jpg,PRES,is there restricted diffusion,CLOSED,no,train
+synpic34836.jpg,PRES,is there an acute bleed present,OPEN,necrotic tissue,train
+synpic17145.jpg,MODALITY,what type of imaging is this,OPEN,xray,train
+synpic60703.jpg,PRES,are the lateral ventricles viewed in this section,CLOSED,yes,train
+synpic22791.jpg,COUNT,how many kidneys are visualizable in this image,OPEN,2,train
+synpic13385.jpg,PRES,is the trachea midline,OPEN,midline,train
+synpic24729.jpg,PRES,is there evidence of free peritoneal fluid,CLOSED,no,train
+synpic40464.jpg,ABN,is the liver abnormal,CLOSED,no,train
+synpic56841.jpg,PRES,is the cerebellum seen on this axial section,CLOSED,no,train
+synpic27576.jpg,PRES,what do the masses contain,OPEN,fat,train
+synpic29795.jpg,POS,is there bone in the top of the image,CLOSED,no,train
+synpic21776.jpg,ORGAN,what organ is superimposed on the lung fields,OPEN,breasts,train
+synpic17693.jpg,ABN,is the image normal,CLOSED,no,train
+synpic22828.jpg,ATTRIB,is the left renal cyst uniform,CLOSED,yes,train
+synpic16221.jpg,POS,which side is the abnormality on,OPEN,right,train
+synpic40500.jpg,PRES,is there blurring of the grey-white matter junction,CLOSED,no,train
+synpic33302.jpg,PRES,is there a calcification on the upper left lobe,CLOSED,no,train
+synpic53033.jpg,ABN,is this image abnormal,CLOSED,yes,train
+synpic18461.jpg,POS,which lung has diffuse opacification,OPEN,right,train
+synpic32727.jpg,PRES,is there evidence of pneumoperitoneum,CLOSED,no,train
+synpic43609.jpg,MODALITY,what modality is used in this image,OPEN,ct,train
+synpic49862.jpg,ABN,is this image abnormal,CLOSED,yes,train
+synpic18896.jpg,OTHER,what does the abnormal contour of the left hilum suggest in terms of pathology,OPEN,double arch,train
+synpic31955.jpg,PRES,are the clavicles broken,CLOSED,no,train
+synpic17738.jpg,OTHER,the cystic findings in the bilateral apices are consistent with what pathology,OPEN,emphysema,train
+synpic27402.jpg,ABN,is there anything wrong with the lungs,CLOSED,no,train
+synpic57317.jpg,ATTRIB,how would you describe the sulci in this image,OPEN,reduced sulci,train
+synpic50848.jpg,ABN,is this picture abnormal,CLOSED,yes,train
+synpic21604.jpg,COLOR,what does the black area signify,OPEN,black,train
+synpic51709.jpg,POS,what side of the brain is the lesion on,OPEN,right,train
+synpic31116.jpg,ABN,is this image abnormal,CLOSED,yes,train
+synpic53207.jpg,SIZE,are the ventricles smaller than normal,CLOSED,yes,train
+synpic23648.jpg,MODALITY,was contrast used,CLOSED,yes,train
+synpic26158.jpg,ATTRIB,is the mass heterogeneous or homogeneous in appearance,CLOSED,heterogeneous,train
+synpic48091.jpg,PRES,is there a fracture of the skull,CLOSED,no,train
+synpic32081.jpg,OTHER,what is the gender of this patient,OPEN,man,train
+synpic18651.jpg,SIZE,is the heart greater than 50 of the chest diameter,CLOSED,yes,train
+synpic59356.jpg,ABN,is this image normal,CLOSED,no,train
+synpic49027.jpg,COUNT,how many ring enhancing lesions can be found in this image,OPEN,one,train
+synpic18250.jpg,PRES,is there consolidation in the lungs,CLOSED,no,train
+synpic26248.jpg,PLANE,which orientation is the image acquired,OPEN,pa,train
+synpic24967.jpg,SIZE,is the gallbladder wall thickened,CLOSED,yes,train
+synpic54004.jpg,ABN,is the finding normal,CLOSED,no,train
+synpic27655.jpg,MODALITY,what imaging modality is used,OPEN,xray,train
+synpic32108.jpg,ABN,is the liver normal,CLOSED,yes,train
+synpic48749.jpg,PRES,is there mass effect,CLOSED,yes,train
+synpic31217.jpg,PRES,is there a nodule in the left lung,CLOSED,no,train
+synpic45544.jpg,PRES,what is the hyperdensity in the image,OPEN,infarct,train
+synpic55245.jpg,PRES,is there contrast in the vasculature,CLOSED,no,train
+synpic25534.jpg,MODALITY,was this patient given iv contrast,CLOSED,yes,train
+synpic50958.jpg,ABN,are any intestinal abnormalities present,CLOSED,no,train
+synpic23803.jpg,PRES,is there a pneumothorax present,CLOSED,yes,train
+synpic26413.jpg,PRES,is the stomach visualized here,CLOSED,no,train
+synpic20626.jpg,COLOR,is the lesion uniform in density,CLOSED,no,train
+synpic23053.jpg,PRES,are the ribs broken,CLOSED,no,train
+synpic33422.jpg,PRES,is there adequate inspiration,CLOSED,yes,train
+synpic45699.jpg,POS,which side was affected,OPEN,left,train
+synpic38531.jpg,PRES,are there rib fractures present,CLOSED,no,train
+synpic39301.jpg,POS,in what lobes are the lesions located,OPEN,bilateral parietal lobes,train
+synpic50943.jpg,PRES,is there an ng tube present,CLOSED,yes,train
+synpic45914.jpg,PRES,is there a blood clot,CLOSED,yes,train
+synpic40096.jpg,OTHER,what is on the differential,OPEN,chronic sinusitis vs . hemorrhage,train
+synpic41667.jpg,PRES,is the trachea midline,CLOSED,yes,train
+synpic46764.jpg,ATTRIB,is the lesion ring enhancing,CLOSED,yes,train
+synpic39532.jpg,PRES,is there free air under the diaphragm,CLOSED,no,train
+synpic39086.jpg,OTHER,is this patient lying supine,CLOSED,yes,train
+synpic42245.jpg,ATTRIB,is the cardiac contour normal in shape,CLOSED,yes,train
+synpic40314.jpg,SIZE,is the pancreas edematous,CLOSED,yes,train
+synpic34449.jpg,PRES,are there rib fractures present,CLOSED,yes,train
+synpic30324.jpg,PRES,is there air-fluid levels,CLOSED,yes,train
+synpic30215.jpg,PLANE,what is the image plane,OPEN,axial,train
+synpic54802.jpg,ABN,is the image normal,CLOSED,no,train
+synpic53574.jpg,PLANE,in what plane is the above image,OPEN,axial,train
+synpic52732.jpg,ABN,what is abnormal about the image,OPEN,white matter plaques,train
+synpic44865.jpg,PRES,is there a mediastinal shift,CLOSED,yes,train
+synpic27985.jpg,POS,is the contrast in the bowels or the vasculature,CLOSED,in the bowels,train
+synpic28987.jpg,MODALITY,what imaging modality is used,OPEN,plain film xray,train
+synpic22156.jpg,PLANE,what plane is the image in,OPEN,axial,train
+synpic42805.jpg,ABN,is there abnormal air present under the diaphragm,CLOSED,no,train
+synpic57520.jpg,PRES,is the skull fractured,CLOSED,no,train
+synpic41050.jpg,PRES,is there contrast in the bowels,OPEN,in the bowels,train
+synpic57813.jpg,ATTRIB,how would you describe the r vertebral artery shape,OPEN,short section irregular contour,train
+synpic31394.jpg,PRES,is there a pneumothorax present,CLOSED,no,train
+synpic43433.jpg,PRES,are there air fluid levels,CLOSED,yes,train
+synpic21700.jpg,COUNT,how many masses are there,OPEN,one,train
+synpic53816.jpg,PRES,is there evidence of grey matter edema,CLOSED,yes,train
+synpic31928.jpg,MODALITY,what type of mr image modality is seen,OPEN,t2 weighted,train
+synpic27597.jpg,PRES,is there fat in these masses,CLOSED,yes,train
+synpic28569.jpg,COUNT,how many kidneys are in this image,OPEN,2,train
+synpic46539.jpg,PRES,is there a fracture of the clavicle,CLOSED,no,train
+synpic47191.jpg,PLANE,in what plane is the ct scan,OPEN,axial,train
+synpic37605.jpg,PRES,is there mass effect from the lesion,CLOSED,no,train
+synpic52828.jpg,OTHER,the enhancing soft tissue mass and fluid seen in the left upper quadrant is consistent with what pathology,OPEN,abscess,train
+synpic28277.jpg,ABN,are the kidneys in this image abnormal,CLOSED,yes,train
+synpic53097.jpg,COLOR,is the mass enhancing,CLOSED,no,train
+synpic47964.jpg,PRES,is there a shift of midline structures,CLOSED,yes,train
+synpic22097.jpg,ABN,what does this represent,OPEN,hydropneumothorax,train
+synpic40272.jpg,PRES,does the patient have a central line placed,CLOSED,yes,train
+synpic35191.jpg,COLOR,does the l sided lesion enhance,CLOSED,yes,train
+synpic37275.jpg,POS,which organ contains the air-fluid level,OPEN,stomach,train
+synpic31259.jpg,COUNT,how many masses are there,OPEN,one,train
+synpic41119.jpg,ABN,are the findings normal,CLOSED,yes,train
+synpic56422.jpg,PRES,what type of thrombosis is shown,OPEN,basilar artery thrombosis,train
+synpic33429.jpg,SIZE,is the heart too big,CLOSED,no,train
+synpic24220.jpg,POS,where is the liver,OPEN,right,train
+synpic56388.jpg,PRES,do the ventricles have blood in them,CLOSED,yes,train
+synpic28180.jpg,SIZE,are the cystic and common bile ducts dilated,CLOSED,yes,train
+synpic26925.jpg,PRES,is the cerebellum in view,CLOSED,yes,train
+synpic32012.jpg,MODALITY,is there contrast used in the above image,CLOSED,yes,train
+synpic35914.jpg,PRES,is there contrast present in the bowel,OPEN,in the bowel,train
+synpic55464.jpg,SIZE,is there cardiomegaly,CLOSED,no,train
+synpic24424.jpg,COUNT,how many masses are there,OPEN,one,train
+synpic60423.jpg,ABN,anything abnormal in this image,CLOSED,no,train
+synpic22020.jpg,SIZE,is the gall bladder enlarged,CLOSED,no,train
+synpic42951.jpg,MODALITY,is there contrast used,CLOSED,no,train
+synpic58547.jpg,MODALITY,what type of contrast agent is used in this mri,OPEN,gadolinium,train
+synpic44995.jpg,PRES,is there restricted diffusion,CLOSED,no,train
+synpic47020.jpg,PRES,is there mass effect,CLOSED,no,train
+synpic51774.jpg,PRES,is a pneumothorax present,CLOSED,yes,train
+synpic27142.jpg,ABN,does this scan represent an abnormality,CLOSED,no,train
+synpic33226.jpg,PRES,is the heart clearly visible,CLOSED,no,train
+synpic33892.jpg,PRES,are calcifications present,CLOSED,yes,train
+synpic28718.jpg,MODALITY,was contrast used,CLOSED,yes,train
+synpic45557.jpg,PRES,is the trachea midline,OPEN,in the midline,train
+synpic22794.jpg,MODALITY,what imaging modality was used,OPEN,ct,train
+synpic19114.jpg,ABN,are the findings normal,CLOSED,no,train
+synpic45610.jpg,PRES,are there rib fractures present,CLOSED,no,train
+synpic25758.jpg,PLANE,what plane is this image,OPEN,axial,train
+synpic24390.jpg,PRES,is the trachea midline,CLOSED,yes,train
+synpic31232.jpg,MODALITY,did this patient receive iv contrast,CLOSED,yes,train
+synpic31232.jpg,MODALITY,was iv contrast given to the patient,CLOSED,yes,train
+synpic53816.jpg,COLOR,is the csf radiolucent or radioopaque,CLOSED,radiolucent,train
+synpic53816.jpg,COLOR,what is the intensity signal of csf,OPEN,hypointense,train
+synpic9872.jpg,SIZE,are the ventricles larger than normal,CLOSED,yes,train
+synpic9872.jpg,SIZE,is there enlargement of the ventricles,CLOSED,yes,train
+synpic32084.jpg,"POS, PRES",are there multiple circumferential opacities located throughout all lung fields,CLOSED,yes,train
+synpic32084.jpg,"POS, PRES",does this chest x-ray show signs of diffuse opacities in both right and left lung fields,CLOSED,yes,train
+synpic31232.jpg,MODALITY,was this image taken via mri,CLOSED,no,train
+synpic53816.jpg,MODALITY,what modality is this image taken,OPEN,mri,train
+synpic40500.jpg,PLANE,is this image taken from the top slice of the brain,CLOSED,no,train
+synpic40500.jpg,PLANE,was this image taken from a superior-most section of the brain,CLOSED,no,train
+synpic39141.jpg,MODALITY,what imaging modality is seen here,OPEN,ct,train
+synpic39141.jpg,MODALITY,was this image taken with an mri or ct scanner,CLOSED,ct,train
+synpic47964.jpg,PLANE,what plane of section is the brain taken in,OPEN,axial,train
+synpic47964.jpg,PLANE,what cut of the brain is this image taken,OPEN,axial,train
+synpic41667.jpg,PRES,can you view the colon in this image,CLOSED,yes,train
+synpic22828.jpg,PRES,is the transverse colon in view,CLOSED,yes,train
+synpic58902.jpg,COLOR,is the csf enhanced or non enhanced,CLOSED,non-enhanced,train
+synpic58902.jpg,COLOR,how is the csf enhancement characterized,OPEN,non-enhanced,train
+synpic31232.jpg,PRES,are the air fluid levels located in colon,CLOSED,yes,train
+synpic100228.jpg,PLANE,what plane was this chest film taken in,OPEN,ap,train
+synpic100228.jpg,PLANE,is this an ap or pa film,CLOSED,ap,train
+synpic39141.jpg,PLANE,what is the section level of this image,OPEN,mid abdomen,train
+synpic39141.jpg,PLANE,where is this slice located in the human body,OPEN,mid abdomen,train
+synpic32084.jpg,ORGAN,what type of radiograph is this,OPEN,chest radiograph,train
+synpic53228.jpg,OTHER,is this patient rotated,CLOSED,no,train
+synpic53228.jpg,OTHER,was the patient positioned inappropriately,CLOSED,no,train
+synpic60703.jpg,MODALITY,is this a t1 weighted t2 weighted or flair image,CLOSED,flair,train
+synpic60703.jpg,MODALITY,is this mri taken with flair protocol,CLOSED,yes,train
+synpic53816.jpg,PLANE,is this image of a saggital plane,CLOSED,no,train
+synpic41667.jpg,PRES,what structure is seen in the left hemidiaphragmatic area,OPEN,sigmoid flexture of the colon,train
+synpic41667.jpg,PRES,what structure is superimposed on the left hemidiaphragm,OPEN,sigmoid flexture of the colon,train
+synpic32084.jpg,PRES,is there right hemidiaphragm elevation,CLOSED,yes,train
+synpic32084.jpg,PRES,is the right hemidiaphragm higher than the left,CLOSED,yes,train
+synpic42290.jpg,SIZE,is the jejunal wall enlarged,CLOSED,yes,train
+synpic42290.jpg,SIZE,is there thickening of the jejunum,CLOSED,yes,train
+synpic59126.jpg,POS,where is the gastric bubble located,OPEN,underneath the right hemidiaphragm,train
+synpic59126.jpg,POS,where is the gastric bubble placed,OPEN,underneath the right hemidiaphragm,train
+synpic32084.jpg,MODALITY,what was this image taken with,OPEN,x-ray,train
+synpic9872.jpg,POS,what is the location of the brain mass,OPEN,posterior fossa,train
+synpic9872.jpg,POS,where is the mass located,OPEN,posterior fossa,train
+synpic59126.jpg,OTHER,is the heart contour backwards,CLOSED,yes,train
+synpic59126.jpg,OTHER,is the heart contour a mirror image of normal,CLOSED,yes,train
+synpic40500.jpg,ORGAN,what organ is this image of,OPEN,brain,train
+synpic56841.jpg,ABN,does the left temporal lobe appear normal,CLOSED,no,train
+synpic56841.jpg,POS,is there a lesion in the left temporal lobe,CLOSED,yes,train
+synpic48714.jpg,POS,what brain territory is the hemorrhage located,OPEN,right sylvian fissure,train
+synpic48714.jpg,POS,which fissure is the hemorrhage located,OPEN,right sylvian fissure,train
+synpic58902.jpg,PLANE,is this a saggital brain section,CLOSED,no,train
+synpic58902.jpg,PLANE,is this a saggital view of the brain,CLOSED,no,train
+synpic41667.jpg,POS,what vein is the central venous catheter located in the patient,OPEN,right subclavian vein,train
+synpic41667.jpg,POS,where is the central venous catheter placed,OPEN,right subclavian vein,train
+synpic32727.jpg,PRES,is the aorta visible in this section,CLOSED,yes,train
+synpic32727.jpg,PRES,is the aorta in view,CLOSED,yes,train
+synpic42290.jpg,COLOR,are the kidneys hyper attenuated,CLOSED,yes,train
+synpic42290.jpg,COLOR,do the kidneys show a high level of contrast enhancement,CLOSED,yes,train
+synpic22020.jpg,PRES,are both kidneys in view,CLOSED,yes,train
+synpic22020.jpg,PRES,are both kidneys visible,CLOSED,yes,train
+synpic24729.jpg,ABN,does the appendix appear normal or abnormal,CLOSED,normal,train
+synpic24729.jpg,ABN,is there appendix normal or abnormal in appearance,CLOSED,normal,train
+synpic22828.jpg,PLANE,what plane of the abdomen is this image,OPEN,axial,train
+synpic41667.jpg,MODALITY,is this a chest radiograph,CLOSED,yes,train
+synpic53228.jpg,ABN,does the heart border appear normal,CLOSED,yes,train
+synpic53228.jpg,ABN,is there a normal contour of the heart,CLOSED,yes,train
+synpic41667.jpg,PLANE,is this an ap or pa film,CLOSED,pa,train
+synpic42157.jpg,MODALITY,what form of contrast did the patient receive,OPEN,oral and iv,train
+synpic42157.jpg,MODALITY,what types of contrast did this patient have,OPEN,oral and iv,train
+synpic32084.jpg,SIZE,is the heart enlarged,CLOSED,no,train
+synpic32084.jpg,SIZE,is there evidence of cardiomegaly,CLOSED,no,train
+synpic31232.jpg,PLANE,what cut of the body is this image,OPEN,axial,train
+synpic59126.jpg,PLANE,is this an ap or pa film,CLOSED,pa,train
+synpic59126.jpg,PLANE,how was this film taken,OPEN,pa,train
+synpic41667.jpg,POS,are the ground glass opacities located more in the apex or base of the lung,CLOSED,base,train
+synpic41667.jpg,POS,what parts of the lung fields contain the most prominent ground glass opacities,OPEN,lower lung fields,train
+synpic42157.jpg,PRES,what is located in the sigmoid colon,OPEN,diverticuli,train
+synpic42157.jpg,PRES,what are the findings in the sigmoid colon,OPEN,diverticuli,train
+synpic60703.jpg,"POS, PRES",what brain region demonstrates edema,OPEN,basal ganglia,train
+synpic60703.jpg,"POS, PRES",what area of the brain is edematous,OPEN,basal ganglia,train
+synpic24729.jpg,PLANE,what type of plane is this image of,OPEN,axial,train
+synpic24729.jpg,PLANE,what plane was this image taken in,OPEN,axial,train
+synpic22020.jpg,PRES,what is the muscle adjacent to the vertebrae,OPEN,psoas major muscle,train
+synpic22020.jpg,PRES,what muscle surrounds the vertebrae,OPEN,psoas major muscle,train
+synpic53816.jpg,PLANE,what section is this image,OPEN,axial,train
+synpic53816.jpg,PLANE,what plane is this image taken,OPEN,axial,train
+synpic22020.jpg,POS,is there oral contrast located in the colon,CLOSED,yes,train
+synpic22020.jpg,POS,is there oral contrast in the colon,CLOSED,yes,train
+synpic48714.jpg,PRES,what category is the hemmorhage,OPEN,subarachnoid,train
+synpic48714.jpg,PRES,what type of hemorrhage is shown,OPEN,subarachnoid,train
+synpic22828.jpg,MODALITY,did this patient receive iv contrast,CLOSED,yes,train
+synpic22828.jpg,MODALITY,was iv contrast given to the patient,CLOSED,yes,train
+synpic40500.jpg,COLOR,does the csf have high signal intensity,CLOSED,yes,train
+synpic40500.jpg,COLOR,is there high signal intensity in the csf,CLOSED,yes,train
+synpic40500.jpg,MODALITY,what modality is this image taken,OPEN,mri,train
+synpic58902.jpg,MODALITY,is this a t1 weighted t2 weighted or flair image,CLOSED,flair,train
+synpic58902.jpg,MODALITY,what is the mri modality depicted in this image,OPEN,flair,train
+synpic24729.jpg,MODALITY,what contrast was administered to this patient,OPEN,oral and iv,train
+synpic24729.jpg,MODALITY,what types of contrast does this patient have,OPEN,oral and iv,train
+synpic47964.jpg,POS,which half the cerebellum is the largest mass located,OPEN,right,train
+synpic47964.jpg,POS,which side of the cerebellum contains the largest mass,OPEN,right,train
+synpic53816.jpg,ORGAN,what organ is this image of,OPEN,brain,train
+synpic42290.jpg,MODALITY,does this image use gi contrast,CLOSED,yes,train
+synpic42290.jpg,MODALITY,is this a contrast enhanced image,CLOSED,yes,train
+synpic47964.jpg,MODALITY,what type of modality was this image taken,OPEN,mri - t2 weighted,train
+synpic47964.jpg,MODALITY,what is the mr weighting in this image,OPEN,mri - t2 weighted,train
+synpic32727.jpg,POS,where are the densities identified in the patient,OPEN,posterior to the gastric antrum,train
+synpic32727.jpg,PRES,what are the hyperattenuations located around the patient,OPEN,ribs,train
+synpic100228.jpg,SIZE,is there cardiomegaly,CLOSED,no,train
+synpic100228.jpg,SIZE,is the heart enlarged,CLOSED,no,train
+synpic42157.jpg,ATTRIB,what are the internal morphologic features of this mass,OPEN,cystic,train
+synpic42157.jpg,ATTRIB,is this a cystic or solid mass,CLOSED,cystic,train
+synpic48714.jpg,MODALITY,does this ct use iv contrast material,CLOSED,no,train
+synpic48714.jpg,MODALITY,is this a contrast or non contrast ct,CLOSED,non-contrast,train
+synpic32084.jpg,PLANE,is this a pa film,CLOSED,yes,train
+synpic27655.jpg,PRES,is there any costophrenic angle blunting present,CLOSED,no,train
+synpic27655.jpg,PRES,is there presence of any costophrenic angle blunting,CLOSED,no,train
+synpic31928.jpg,ORGAN,what part of the cns is this image showing,OPEN,brain,train
+synpic33102.jpg,PRES,do you see a pleural effusion,CLOSED,no,train
+synpic33102.jpg,PRES,is there a pleural effusion present,CLOSED,no,train
+synpic60831.jpg,PRES,are the ventricles visualized in this image,CLOSED,no,train
+synpic60831.jpg,PRES,are you able to see the ventricles in this image,CLOSED,no,train
+synpic27198.jpg,POS,the lesion is located where in this image,OPEN,right lobe of the liver,train
+synpic27198.jpg,POS,where is the lesion located in this image,OPEN,right lobe of the liver,train
+synpic22874.jpg,POS,in which vessel is calcification present,OPEN,aorta,train
+synpic22874.jpg,POS,the calcification is located in what vessel,OPEN,aorta,train
+synpic31928.jpg,ABN,what condition is found in the above image,OPEN,right subdural hematoma,train
+synpic31928.jpg,ABN,what pathology is seen in this image,OPEN,right subdural hematoma,train
+synpic43609.jpg,PRES,in what organ do you see swelling,OPEN,appendix,train
+synpic43609.jpg,PRES,what organ is edematous in this image,OPEN,appendix,train
+synpic32012.jpg,OTHER,this image is suspicious of what cancerous pathology,OPEN,hepatocellular carcioma,train
+synpic32012.jpg,OTHER,what cancer does this patient have,OPEN,hepatocellular carcioma,train
+synpic42951.jpg,MODALITY,is this a noncontrast ct,CLOSED,yes,train
+synpic53574.jpg,ATTRIB,the infarcts seen are most likely what type,OPEN,punctate,train
+synpic53574.jpg,ATTRIB,what types of infarcts are these most likely,OPEN,punctate,train
+synpic25587.jpg,PRES,is this a pneumonia vs . pleural effusion,CLOSED,pleural effusion,train
+synpic25587.jpg,PRES,is a pneumonia or pleural effusion seen in this image,CLOSED,pleural effusion,train
+synpic33102.jpg,PLANE,how was this film taken,OPEN,pa,train
+synpic25587.jpg,ABN,on what side of the body is there pathology and what is it,OPEN,right sided pleural effusion,train
+synpic25587.jpg,ABN,what is the pathology,OPEN,right sided pleural effusion,train
+synpic25587.jpg,ABN,what pathology is seen int his image,OPEN,right sided pleural effusion,train
+synpic25587.jpg,"ABN, POS",what pathology is seen int his image what side,OPEN,right sided pleural effusion,train
+synpic25587.jpg,POS,on what side of the body is there pathology,OPEN,right sided pleural effusion,train
+synpic25587.jpg,POS,what side is the pathology,OPEN,right sided pleural effusion,train
+synpic15006.jpg,PRES,is there deviation in the trachea,CLOSED,no,train
+synpic15006.jpg,PRES,is there tracheal deviation,CLOSED,no,train
+synpic26697.jpg,ORGAN,what organ system is highlighted by contrast,OPEN,gi,train
+synpic31116.jpg,COLOR,describe the intensity of the abnormality seen in this image central vs . surrounding,OPEN,central hyperintensity and surrounding hypointensity,train
+synpic31116.jpg,COLOR,how would you describe the central and surrounding intesities of the abnormality seen,OPEN,central hyperintensity and surrounding hypointensity,train
+synpic60831.jpg,COLOR,is the pathology seen hyperintense or hypointense in nature,CLOSED,hyperintense,train
+synpic60831.jpg,COLOR,is the abnormality hyperintense or hypointense,CLOSED,hyperintense,train
+synpic27198.jpg,PRES,the contrast is enhancing what inside the lesion,OPEN,calcifications,train
+synpic27198.jpg,PRES,what is enhanced by contrast in the lesion,OPEN,calcifications,train
+synpic27198.jpg,COLOR,describe the density of this lesion,OPEN,5 .6cm focal predominantly hypodense,train
+synpic27198.jpg,COLOR,what is the density of the lesion,OPEN,5 .6cm focal predominantly hypodense,train
+synpic27198.jpg,SIZE,describe the size of this lesion,OPEN,5 .6cm focal predominantly hypodense,train
+synpic27198.jpg,SIZE,what is the size of the lesion,OPEN,5 .6cm focal predominantly hypodense,train
+synpic27198.jpg,"SIZE, COLOR",describe the size and density of this lesion,OPEN,5 .6cm focal predominantly hypodense,train
+synpic27198.jpg,"SIZE, COLOR",what is the size and density of the lesion,OPEN,5 .6cm focal predominantly hypodense,train
+synpic32012.jpg,ABN,what vascular problem is seen above,OPEN,portal vein occlusion,train
+synpic32012.jpg,PRES,what vein is occluded,OPEN,portal vein,train
+synpic33102.jpg,SIZE,do you see cardiomegaly,CLOSED,no,train
+synpic33102.jpg,SIZE,is cardiomegaly present,CLOSED,no,train
+synpic26697.jpg,PLANE,is this an axial plane image,CLOSED,yes,train
+synpic42951.jpg,OTHER,why are there no sulci seen in this image,OPEN,there is massive cerebral hemisphere edema,train
+synpic42951.jpg,OTHER,why do you not see sulci in the image,OPEN,there is massive cerebral hemisphere edema,train
+synpic33102.jpg,MODALITY,is this a kub film,CLOSED,no,train
+synpic42951.jpg,OTHER,is a noncontrast ct the first imaging test for a suspected brain bleed,CLOSED,yes,train
+synpic47191.jpg,PLANE,what plane is this image in,OPEN,axial,train
+synpic15006.jpg,SIZE,is the heart size abnormal,CLOSED,yes,train
+synpic31116.jpg,PLANE,in what plane was this image taken,OPEN,axial,train
+synpic31116.jpg,PLANE,what plane was this image taken in,OPEN,axial,train
+synpic29048.jpg,POS,the image has an abnormality located where,OPEN,retrocardiac,train
+synpic29048.jpg,POS,where is the abnormality located in this image,OPEN,retrocardiac,train
+synpic32012.jpg,ABN,are there any abnormalities seen in the spleen,CLOSED,no,train
+synpic32012.jpg,ABN,what is the pathology seen in the spleen,OPEN,nothing,train
+synpic52282.jpg,ABN,what structure in the left basal ganglia is spared,OPEN,left thalamus,train
+synpic52282.jpg,ABN,what is spared in the left basal ganglia,OPEN,left thalamus,train
+synpic42951.jpg,ABN,pathology seen in this image,OPEN,small subdural hematoma with cerebral edema,train
+synpic42951.jpg,ABN,what is the condition seen in this image,OPEN,small subdural hematoma with cerebral edema,train
+synpic15006.jpg,PRES,are there pleural effusions present,CLOSED,no,train
+synpic15006.jpg,PRES,is there presence of pleural effusions in this patient,CLOSED,no,train
+synpic26697.jpg,POS,free air is seen where in this image,OPEN,adjacent to the appendix,train
+synpic26697.jpg,POS,where is the free-air seen in this image,OPEN,adjacent to the appendix,train
+synpic47191.jpg,MODALITY,is this an mri image,CLOSED,no,train
+synpic52282.jpg,OTHER,the infarction is likely caused by what vessel,OPEN,left mca,train
+synpic52282.jpg,OTHER,what vessel is likely the cause of this infarction,OPEN,left mca,train
+synpic15006.jpg,PLANE,is this film taken ap,CLOSED,no,train
+synpic45039.jpg,ABN,are there any abnormalities in the kidneys,CLOSED,no,train
+synpic45039.jpg,ABN,notice any abnormality in the kidneys,CLOSED,no,train
+synpic58547.jpg,PRES,what would you call the lesions seen,OPEN,ms plaques,train
+synpic58547.jpg,PRES,what is the name of the lesions seen in this image,OPEN,ms plaques,train
+synpic33102.jpg,MODALITY,is this a plain film xray,CLOSED,yes,train
+synpic676.jpg,PRES,are the costophrenic angles blunted,CLOSED,no,train
+synpic676.jpg,PRES,is there any blunting of the costophrenic angles,CLOSED,no,train
+synpic47191.jpg,PRES,there is mesenteric lymphadenopathy present what additional region is seeded,OPEN,peritoneum,train
+synpic47191.jpg,PRES,we see mesenteric lymphadenopathy in the above image where else is there cancer,OPEN,peritoneum,train
+synpic53574.jpg,POS,what is the vascular distribution of these infarcts,OPEN,all three vascular distributions,train
+synpic53574.jpg,POS,where are the infarcts located,OPEN,diffuse,train
+synpic58547.jpg,OTHER,the pathology seen in this image is typical of what disease,OPEN,multiple sclerosis,train
+synpic58547.jpg,OTHER,what disease does the pathology suggest,OPEN,multiple sclerosis,train
+synpic58547.jpg,POS,in what parts of the brain are the lesions located,OPEN,cerebrum and lateral ventricles,train
+synpic58547.jpg,POS,where do you see the lesions,OPEN,cerebrum and lateral ventricles,train
+synpic27655.jpg,PRES,any tracheal deviation present,CLOSED,no,train
+synpic27655.jpg,PRES,is there any presence of tracheal deviation,CLOSED,no,train
+synpic42951.jpg,POS,where is the abnormality located,OPEN,right convexity,train
+synpic42951.jpg,POS,where is the pathology located,OPEN,right convexity,train
+synpic60831.jpg,ABN,the image shows what abnormality,OPEN,abnormal hyperintensity in the right occipital lobe,train
+synpic60831.jpg,ABN,what is abnormal in this image,OPEN,abnormal hyperintensity in the right occipital lobe,train
+synpic26697.jpg,MODALITY,is this image a ct or mri image,CLOSED,ct,train
+synpic15006.jpg,MODALITY,is this a special kind of x-ray,CLOSED,no,train
+synpic52932.jpg,ABN,this image is concerning for what lung pathology,OPEN,pneumonia,train
+synpic52932.jpg,ABN,what lung pathology is this image concerning for,OPEN,pneumonia,train
+synpic29048.jpg,PRES,the soft-tissue density seen in this image contains what,OPEN,air,train
+synpic29048.jpg,PRES,what is filling the soft-tissue density seen in this image,OPEN,air,train
+synpic31928.jpg,PLANE,is this a sagittal plane image,CLOSED,no,train
+synpic43609.jpg,PRES,from what do you see stranding,OPEN,fat,train
+synpic43609.jpg,PRES,what is stranding in this image,OPEN,fat,train
+synpic60543.jpg,POS,the image above shows an abnormality where,OPEN,hyperintensity of the left basal ganglia,train
+synpic60543.jpg,POS,where is the abnormality in this image,OPEN,hyperintensity of the left basal ganglia,train
+synpic16174.jpg,PRES,is there evidence of left lung field hyperinflation,CLOSED,yes,train
+synpic16174.jpg,PRES,has the left lung collapsed,CLOSED,yes,train
+synpic50962.jpg,PRES,is the grey/white matter border well differentiated,CLOSED,yes,train
+synpic51212.jpg,PRES,is there blurring of the grey-white matter junction,CLOSED,no,train
+synpic22286.jpg,SIZE,does the pancreatic head appear enlarged,CLOSED,yes,train
+synpic22286.jpg,SIZE,is the size of the pancreatic head large,CLOSED,yes,train
+synpic52767.jpg,PRES,is there evidence of mediastinal shift,CLOSED,no,train
+synpic52767.jpg,PRES,is there a midline shift,CLOSED,no,train
+synpic33422.jpg,SIZE,is there evidence of hilar enlargement,CLOSED,no,train
+synpic33422.jpg,SIZE,is there increased lung markings near the hilum,CLOSED,no,train
+synpic26158.jpg,PRES,is the mass compressing the inferior vena cava,CLOSED,no,train
+synpic26158.jpg,PRES,is the inferior vena cava compressed by the tumor,CLOSED,no,train
+synpic33889.jpg,ABN,are the kidneys normal,CLOSED,yes,train
+synpic33889.jpg,ABN,are these normal looking kidneys,CLOSED,yes,train
+synpic18461.jpg,ATRIB,what is happening to the right heart border,OPEN,partial silhouetting,train
+synpic18461.jpg,ATTRIB,how would you describe the r heart border,OPEN,partial silhouetting,train
+synpic20260.jpg,PRES,what is the small mass near the left kidney,OPEN,splenule,train
+synpic20260.jpg,PRES,what is located near the left kidney,OPEN,splenule,train
+synpic18461.jpg,ATTRIB,is the right costophrenic angle sharp,CLOSED,no,train
+synpic18461.jpg,PRES,is the right costophrenic angle easily visualized,CLOSED,no,train
+synpic55948.jpg,ATTRIB,are the ventricles symmetrical,CLOSED,no,train
+synpic55948.jpg,SIZE,are the ventricles the same size,CLOSED,no,train
+synpic34836.jpg,PRES,what does the brighter outer ring of the lesion represent,OPEN,necrosis,train
+synpic34836.jpg,PRES,what is indicated by the bright ring around the lesion,OPEN,necrosis,train
+synpic27601.jpg,POS,where in relation to the mass is the left kidney located in this image,OPEN,posteriorly,train
+synpic27601.jpg,POS,where is the mass located in relation to the left kidney,OPEN,posteriorly,train
+synpic19782.jpg,POS,on which side is air under the diaphragm,OPEN,right,train
+synpic19782.jpg,POS,is free air present under the patient left or right hemidiaphragm,CLOSED,right,train
+synpic34836.jpg,PRES,are any ventricles visualized on this image,CLOSED,yes,train
+synpic34836.jpg,PRES,can you see ventricles,CLOSED,yes,train
+synpic21604.jpg,PRES,are there any other organs visualized in this image,CLOSED,yes,train
+synpic21604.jpg,PRES,what other organs are present,OPEN,the lungs,train
+synpic17664.jpg,POS,which lung are more markings present in,OPEN,right lung,train
+synpic17664.jpg,POS,where are the most lung markings,OPEN,right lung,train
+synpic33689.jpg,PRES,are both kidneys visualized,CLOSED,yes,train
+synpic33689.jpg,PRES,can you see both kidneys in this image,CLOSED,yes,train
+synpic33689.jpg,PRES,is there evidence of calcification in the pancreas,CLOSED,no,train
+synpic33689.jpg,ATTRIB,is the pancreas calcified,CLOSED,no,train
+synpic27402.jpg,OTHER,what test or procedure might reveal the diagnosis,OPEN,head/neck ct,train
+synpic27402.jpg,OTHER,what can be done to get to a diagnosis,OPEN,biopsy,train
+synpic57935.jpg,OTHER,what is your differential diagnoses,OPEN,metastases infection/abcess glioblastoma,train
+synpic57935.jpg,OTHER,what are the possible diagnoses,OPEN,toxoplasma lymphoma abscesses other brain tumors,train
+synpic48749.jpg,OTHER,which is more likely cancer or hemorrhage,OPEN,hemorrhage,train
+synpic48749.jpg,OTHER,is this cancer or hemorrhage,OPEN,cancer,train
+synpic32136.jpg,OTHER,what is the most likely explanation for a enlarged kidney in this image,OPEN,ureteral obstruction,train
+synpic32136.jpg,OTHER,why is the right kidney enlarged,OPEN,ureteral obstruction,train
+synpic50848.jpg,OTHER,what is the alternate name for lens-shaped,OPEN,lentiform,train
+synpic50848.jpg,OTHER,what term is synonymous with lens-shaped,OPEN,biconvex,train
+synpic47196.jpg,PRES,what are the hypoattenuated round structures surrounding the veterbral column,OPEN,psoas muscles,train
+synpic47196.jpg,PRES,what are the structures near the vertebral column,OPEN,psoas muscles,train
+synpic50848.jpg,OTHER,what is the most likely diagnosis,OPEN,epidural hematoma,train
+synpic50848.jpg,OTHER,what is going on with this patient,OPEN,sinusitis,train
+synpic42307.jpg,OTHER,do you favor a viral process or parasitic process or other,OPEN,viral,train
+synpic42307.jpg,OTHER,is this a viral or parasitic process,OPEN,parasitic,train
+synpic51774.jpg,POS,is the heart displaced,CLOSED,no,train
+synpic51774.jpg,POS,is the heart in the wrong position,CLOSED,no,train
+synpic16810.jpg,OTHER,how do you determine cardiomegaly,OPEN,if the heart diameter is greater than half the diameter of the thoracic cavity .,train
+synpic16810.jpg,OTHER,how do you determine if the heart is enlarged,OPEN,c-t ratio,train
+synpic38630.jpg,OTHER,the internal gas and enhancing rim suggests what type of lesion,OPEN,abcess,train
+synpic38630.jpg,OTHER,what type of hepatic lesion has internal gas and enhancing rim,OPEN,abcess,train
+synpic28378.jpg,OTHER,what does tram-track-ing indictate,OPEN,bronchiectasis,train
+synpic28378.jpg,OTHER,what is meant by tram-track,OPEN,thickening of bronchi,train
+synpic31248.jpg,SIZE,is there hyperinflation of the lungs,CLOSED,no,train
+synpic31248.jpg,SIZE,are the lungs increased in size,CLOSED,no,train
+synpic30215.jpg,PRES,is there an aortic aneurysm,CLOSED,no,train
+synpic30215.jpg,PRES,can an aortic aneurysm be appreciated,CLOSED,no,train
+synpic43648.jpg,OTHER,how can you tell if contrast has been utilized,OPEN,csf is brightly lit,train
+synpic43648.jpg,OTHER,what are the signs of contrast being used,OPEN,aorta enhancement,train
+synpic40096.jpg,PRES,is mass effect obvious,CLOSED,yes,train
+synpic40096.jpg,PRES,does there seem to be a mass effect,CLOSED,yes,train
+synpic38263.jpg,PRES,the dark space in the central portion of the image represents what structures,OPEN,lateral ventricles,train
+synpic38263.jpg,PRES,what do the dark spaces in the center show,OPEN,lateral ventricles,train
+synpic16810.jpg,PRES,is there a midline shift,CLOSED,no,train
+synpic16810.jpg,PRES,is the trachea shifted,CLOSED,no,train
+synpic51774.jpg,OTHER,what indicates a pleural effusion,OPEN,costophrenic angle blunting,train
+synpic51774.jpg,OTHER,what is a pleural effusion,OPEN,fluid in the pleural space,train
+synpic32136.jpg,OTHER,how can you confirm contrast was used,OPEN,aorta is bright,train
+synpic32136.jpg,OTHER,how do you know if contrast was used,OPEN,enhancement of vessels,train
+synpic25758.jpg,PRES,is the vertebra fractured,CLOSED,no,train
+synpic25758.jpg,PRES,is there a vertebral fracture,CLOSED,no,train
+synpic51774.jpg,POS,which way is the trachea deviating in this image,OPEN,left,train
+synpic51774.jpg,POS,is the trachea deviated to the right or left,CLOSED,left,train
+synpic38263.jpg,OTHER,do you suspect vascular process or a genetic process,CLOSED,genetic,train
+synpic38263.jpg,OTHER,is the etiology genetic or vascular,CLOSED,vascular,train
+synpic50848.jpg,OTHER,what shape would the lesion be if this were a subdural hematoma,OPEN,crescent,train
+synpic50848.jpg,OTHER,what shape is the lesion in a subdural hematoma,OPEN,concave,train
+synpic38630.jpg,OTHER,can this patient be managed with medical therapy alone,CLOSED,no,train
+synpic38630.jpg,OTHER,will medical therapy be enough,CLOSED,yes,train
+synpic46539.jpg,ABN,what is the pathology,OPEN,hydropneumothorax,train
+synpic46539.jpg,ABN,what is abnormal in this image,OPEN,hydropneumothorax,train
+synpic51383.jpg,POS,what vascular territory is the lesion,OPEN,right mca,train
+synpic51383.jpg,POS,in what vascular territory is the lesion located,OPEN,right mca,train
+synpic44995.jpg,ORGAN,is this a vascular lesion,CLOSED,yes,train
+synpic44995.jpg,ORGAN,does this lesion involve the vascular system,CLOSED,yes,train
+synpic22037.jpg,PRES,what is the foreign body,OPEN,a catheter,train
+synpic22037.jpg,PRES,please identify the foreign body .,OPEN,a catheter,train
+synpic32108.jpg,COLOR,is there wall enhancement of the gb,CLOSED,yes,train
+synpic32108.jpg,COLOR,is the gallbladder wall enhanced by contrast,CLOSED,yes,train
+synpic55464.jpg,SIZE,are the lymph nodes enlarged,CLOSED,yes,train
+synpic55464.jpg,SIZE,is there hilar lymphadenopathy,CLOSED,yes,train
+synpic51383.jpg,OTHER,what neuro deficits will are predicted by image location,OPEN,quadrantopia aphasia memory deficit etc .,train
+synpic51383.jpg,OTHER,what deficits are suggested by the location of the lesion,OPEN,motor weakness sensory deficits and left neglect,train
+synpic23989.jpg,PRES,is this a tension pneumothorax,CLOSED,no,train
+synpic23989.jpg,PRES,does this image show a tension pneumothorax,CLOSED,no,train
+synpic44995.jpg,OTHER,what is the most likely etiology,OPEN,viral/inflammatory,train
+synpic44995.jpg,OTHER,what is most likely causing these lesions,OPEN,cva,train
+synpic41325.jpg,POS,where is the pathology,OPEN,in the cortex and basal ganglia bilaterally,train
+synpic41325.jpg,POS,where is the pathology located,OPEN,in the cortex and basal ganglia bilaterally,train
+synpic51926.jpg,PRES,is there a pancreatic pseudocsyst,CLOSED,no,train
+synpic51926.jpg,PRES,is there a pseudocyst in the pancreas,CLOSED,no,train
+synpic23989.jpg,PRES,is there tracheal deviation,CLOSED,no,train
+synpic23989.jpg,PRES,is the trachea deviated,CLOSED,no,train
+synpic31259.jpg,ABN,what is the pathology,OPEN,left lobe mass 1 .5 x 1 .8 cm,train
+synpic31259.jpg,ABN,what is abnormal in this image,OPEN,left lobe mass 1 .5 x 1 .8 cm,train
+synpic59131.jpg,OTHER,how can you tell the mass is hemorrhagic and pushing the optic chiasm,OPEN,not sure,train
+synpic59131.jpg,OTHER,where is the mass,OPEN,pituitary fossa,train
+synpic19853.jpg,PRES,what is the hypodensity on the posteriolateral edge of the left kidney,OPEN,nephroblastomatosis,train
+synpic19853.jpg,PRES,what is seen in the posterolateral l kidney,OPEN,nephroblastomatosis,train
+synpic22156.jpg,OTHER,how can you tell that one side is small bowen and the other side is large bowel,OPEN,location of the contrast,train
+synpic22156.jpg,OTHER,how do you know that small bowel and colon are on different sides of midline,OPEN,haustra,train
+synpic19114.jpg,OTHER,would you expect pleural plaques on other pleural surfaces vs just the hemithoraces,CLOSED,not sure,train
+synpic19114.jpg,OTHER,do you expect the patient to have plaques on other pleura as well,CLOSED,maybe,train
+synpic19853.jpg,PRES,what are the white nodules on bilateral kidneys,OPEN,contrast,train
+synpic19853.jpg,PRES,what are the hyperintensities seen in the bilateral kidneys,OPEN,contrast,train
+synpic28180.jpg,OTHER,what symptoms would this patient present with,OPEN,ruq pain jaundiceweight loss,train
+synpic28180.jpg,OTHER,what did the patient likely complain of,OPEN,abdominal pain,train
+synpic19114.jpg,PRES,what are the densities in both mid-lung fields,OPEN,pleural plaques,train
+synpic19114.jpg,PRES,what do the densities in the lung fields represent,OPEN,pleural plaques,train
+synpic22156.jpg,OTHER,what are defining radiological features of large bowel,OPEN,air,train
+synpic22156.jpg,OTHER,how do you distinguish large bowel,OPEN,haustra,train
+synpic28180.jpg,OTHER,how can you tell if it�s the common bile duct vs the cystic duct,OPEN,trace the gallbladder emptying,train
+synpic28180.jpg,OTHER,what differentiates the common bile duct and cystic duct,OPEN,cystic duct is more tortuous,train
+synpic28180.jpg,OTHER,what are common causes of cystic and cbd obstruction,OPEN,tumors gallstones,train
+synpic28180.jpg,OTHER,what can cause these findings on imaging,OPEN,stones cancer infection anatomic variants,train
+synpic52732.jpg,PRES,is gray or white matter highlighted in this image,CLOSED,gray matter,train
+synpic52732.jpg,PRES,which is highlighted in this image white or gray matter,CLOSED,gray matter,train
+synpic17848.jpg,POS,what lung are the pulmonary nodules in,OPEN,bilateral lungs,train
+synpic17848.jpg,POS,where are the nodules located,OPEN,bilateral lungs,train
+synpic59131.jpg,OTHER,do the two findings have the same etiology,CLOSED,yes,train
+synpic59131.jpg,OTHER,is there a unified process,CLOSED,no,train
+synpic22156.jpg,OTHER,what are defining radiological features of the small bowel,OPEN,not sure,train
+synpic22156.jpg,OTHER,how do you identify small bowel,OPEN,plicae circulares,train
+synpic19114.jpg,ABN,are there any abnormalities with the shape of the aortic arch,CLOSED,no,train
+synpic19114.jpg,ABN,is the aortic arch shape abnormal,CLOSED,no,train
+synpic35191.jpg,OTHER,why does less enhancement mean less acute,OPEN,more acute means more inflammation-leading to enhancement,train
+synpic35191.jpg,OTHER,what makes a lesion less acute,OPEN,less enhancement,train
+synpic49862.jpg,OTHER,how do you know this is a t2 weighted image,OPEN,csf is white .,train
+synpic49862.jpg,OTHER,what tells you that the image is t2,OPEN,white versus grey matter brightness,train
+synpic17693.jpg,OTHER,what are the lesions indicative of,OPEN,adenopathy,train
+synpic17693.jpg,OTHER,what are the lesions consistent with,OPEN,infection,train
+synpic35191.jpg,OTHER,is this an infectious process,CLOSED ,maybe,train
+synpic35191.jpg,OTHER,does this represent infectious process,CLOSED ,yes,train
+synpic17693.jpg,POS,where are the lesions located,OPEN,paratracheal area,train
+synpic17693.jpg,POS,where are the lesions,OPEN,paratracheal area,train
+synpic19853.jpg,OTHER,how common is bilateral wilms,OPEN,not sure .,train
+synpic19853.jpg,OTHER,about how often do you see bilateral wilms tumor,OPEN,5,train
+synpic31394.jpg,ATTRIB,how would you describe the pathology seen in the above image,OPEN,rounded well-defined pulmonary nodules varying in size and pattern,train
+synpic31394.jpg,ABN,what is the pathology seen in this image,OPEN,pulmonary nodules,train
+synpic17145.jpg,ABN,what is the pathology seen above,OPEN,bilateral pleural effusion,train
+synpic17145.jpg,ABN,what abnormality is seen in this image,OPEN,bilateral pleural effusion,train
+synpic18896.jpg,SIZE,is the patient heart enlarged,CLOSED,no,train
+synpic18896.jpg,SIZE,does the heart look enlarged,CLOSED,no,train
+synpic23631.jpg,PRES,is there any bleeding in this patient brain,CLOSED,no,train
+synpic23631.jpg,PRES,is there bleeding present in this patient brain,CLOSED,no,train
+synpic59536.jpg,ABN,what brain structures would be affected by the lesion in the right frontal area of the brain,OPEN,basal ganglia caudate and putamen,train
+synpic59536.jpg,ABN,which brain structures could be affected by the lesion located in the right frontal brain area,OPEN,basal ganglia caudate and putamen,train
+synpic56422.jpg,POS,where do we see multiple infarcts in the above image,OPEN,cerebellum,train
+synpic56422.jpg,POS,location of the multiple infarcts,OPEN,cerebellum,train
+synpic27277.jpg,ORGAN,what organ system is shown in the above image,OPEN,cardiopulmonary,train
+synpic27277.jpg,ORGAN,the image shows what organ system,OPEN,cardiopulmonary,train
+synpic24248.jpg,PRES,does the patient have ascites,CLOSED,yes,train
+synpic24248.jpg,PRES,is there ascites present,CLOSED,yes,train
+synpic27277.jpg,OTHER,in what position was the patient in when this image was taken,OPEN,semi-upright position,train
+synpic27277.jpg,OTHER,what position is the patient in for this image,OPEN,semi-upright position,train
+synpic20375.jpg,OTHER,can gray-white differentiation be well assessed with this image,CLOSED,no,train
+synpic20375.jpg,OTHER,is there significant difference between gray and white matter here,CLOSED,yes,train
+synpic17675.jpg,PRES,what indicates there is no pleural effusion present,OPEN,sharp costophrenic angles,train
+synpic17675.jpg,PRES,what sign determines the absence of a pleural effusion,OPEN,sharp costophrenic angles,train
+synpic56116.jpg,PRES,is the occipital lobe visible in this image,CLOSED,no,train
+synpic56116.jpg,PRES,is the occipital lobe present,CLOSED,no,train
+synpic57237.jpg,PRES,is there infiltrate in the sinuses,CLOSED,no,train
+synpic57237.jpg,ABN,are the sinuses abnormal,CLOSED,no,train
+synpic45544.jpg,POS,what lobe is the infarct in,OPEN,right parietal,train
+synpic45544.jpg,POS,which lobe is infarcted,OPEN,right parietal,train
+synpic28277.jpg,PRES,what is the organ pictured superior to the aorta,OPEN,horsehoe kidney,train
+synpic28277.jpg,PRES,what is above the aorta in this image,OPEN,horsehoe kidney,train
+synpic56116.jpg,POS,where in the cortex are the lesions present,OPEN,diffuse,train
+synpic56116.jpg,POS,which cerebral cortex contains the lesion,OPEN,diffuse,train
+synpic47974.jpg,OTHER,why is there air seen in the bottom of the image,OPEN,posterior lung seen in the image section,train
+synpic47974.jpg,OTHER,why is free air present in the image,OPEN,pneumothorax,train
+synpic57237.jpg,PRES,is cerebral cortex present in this image,CLOSED,no,train
+synpic57237.jpg,PRES,can the cerebral cortex be visualized at this level,CLOSED,no,train
+synpic33331.jpg,POS,is the hyperinflation unilateral or bilateral,CLOSED,bilateral,train
+synpic33331.jpg,POS,is the lung hyperinflated on one or both sides,CLOSED,both sides,train
+synpic26413.jpg,POS,are the lines seen on the exterior or interior of the patient,CLOSED,exterior,train
+synpic26413.jpg,POS,are the lines in the image inside or outside of the patient,CLOSED,outside,train
+synpic26413.jpg,OTHER,what indicates there is a consolidation in the right lung,OPEN,blunting of the costophrenic angle loss of the right hemidiaphragm and right heart border,train
+synpic26413.jpg,OTHER,what is the observed sign of pulmonary consolidation on the right side,OPEN,blunting of the costophrenic angle loss of the right hemidiaphragm and right heart border,train
+synpic18250.jpg,ABN,name one abnormality in the radiograph .,OPEN,increased opacity in the left retrocardiac region,train
+synpic18250.jpg,ABN,what is one abnormality that can be seen in the image,OPEN,increased opacity in the left retrocardiac region,train
+synpic32081.jpg,ABN,what is the abnormality,OPEN,right paratracheal mass lesion,train
+synpic32081.jpg,ABN,what is wrong in this image,OPEN,right paratracheal mass lesion,train
+synpic51212.jpg,ABN,what abnormal findings are present in this image,OPEN,ring-enhancing lesion,train
+synpic51212.jpg,PRES,what is the lesion in this image,OPEN,ring-enhancing lesion,train
+synpic19232.jpg,PRES,are the lungs clear,CLOSED,no,train
+synpic19232.jpg,PRES,are there lungs free of consolidation,CLOSED,yes,train
+synpic23008.jpg,PRES,is there fat stranding,CLOSED,no,train
+synpic23008.jpg,PRSE,is fat stranding present,CLOSED,no,train
+synpic12210.jpg,SIZE,do the lungs appear hyperinflated,CLOSED,yes,train
+synpic12210.jpg,SIZE,is hyperinflation depicted,CLOSED,yes,train
+synpic28987.jpg,ABN,what is wrong with the aortic area,OPEN,it is enlarged with prominence of the aortic knob,train
+synpic28987.jpg,ABN,what pathology is shown in the aorta,OPEN,it is enlarged with prominence of the aortic knob,train
+synpic22794.jpg,ATTRIB,how would you describe the mass on the left kidney,OPEN,well-circumscribed,train
+synpic22794.jpg,PRES,what is the left kidney mass,OPEN,exophytic cyst,train
+synpic23648.jpg,ATTRIB,what is the appearance of the liver,OPEN,shrunken and nodular,train
+synpic23648.jpg,ATTRIB,how would you describe the liver,OPEN,shrunken and nodular,train
+synpic56344.jpg,OTHER,what does the hyperlucency indicate,OPEN,infarcts,train
+synpic56344.jpg,OTHER,what pathology does the hyperlucency represent,OPEN,embolus,train
+synpic23008.jpg,SIZE,is the bowel distended,CLOSED,no,train
+synpic23008.jpg,SIZE,is bowel distension present,CLOSED,no,train
+synpic42210.jpg,SIZE,is the cardiac silhouette enlarged,CLOSED,yes,train
+synpic42210.jpg,SIZE,is cardiomegaly present,CLOSED,yes,train
+synpic28718.jpg,PRES,is there fat stranding present,CLOSED,no,train
+synpic28718.jpg,PRES,is fat stranding depicted in this image,CLOSED,no,train
+synpic27142.jpg,POS,where are the hyperintensities located,OPEN,cortical ribbon of right occipital lobe with extension into right posterior temporal lobe,train
+synpic27142.jpg,POS,what is the location of the hyperintensitites,OPEN,cortical ribbon of right occipital lobe with extension into right posterior temporal lobe,train
+synpic32981.jpg,ATTRIB,is the mass in the liver regular or irregular in contour,CLOSED,irregular,train
+synpic32981.jpg,ATTRIB,what is the shape of the liver mass,OPEN,infiltrative,train
+synpic53228.jpg,COUNT,how many ribs are superimposed on the lung fields,OPEN,12,train
+synpic53228.jpg,COUNT,how many ribs are present in vertical order on this chest radiograph,OPEN,12,train
+synpic53816.jpg,PRES,is there a midline shift,CLOSED,no,train
+synpic53816.jpg,PRES,is there structural deviation from the midline,CLOSED,no,train
+synpic26764.jpg,POS,is the circular opacity located in the middle of this image found on top of the patient or within the patient,CLOSED,on top of the patient,train
+synpic26764.jpg,POS,is the opacity located in the middle of the image inside the patient or superficial to the patient skin,CLOSED,superficial to the patient skin,train
+synpic38531.jpg,PRES,is there decreased aeration at the apex,CLOSED,yes,train
+synpic38531.jpg,ATTRIB,is the apical aeration normal or decreased,CLOSED,normal,train
+synpic56841.jpg,MODALITY,is this a t1 weighted t2 weighted or flair image,CLOSED,flair,train
+synpic56841.jpg,MODALITY,is this image modality t1 t2 or flair,CLOSED,flair,train
+synpic26764.jpg,PLANE,is this a pa film,CLOSED,yes,train
+synpic26764.jpg,PLANE,is this film taken in a pa modality,CLOSED,yes,train
+synpic31232.jpg,PRES,what is the hypodensity located inside the vertebrae,OPEN,nucleus pulposus,train
+synpic31232.jpg,PRES,what is the hypo-dense area seen in the vertebrae,OPEN,nucleus pulposus,train

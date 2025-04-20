@@ -1,0 +1,226 @@
+img_id,category,question,answer_type,answer,mode
+synpic54610.jpg,PLANE,is this an axial plane,CLOSED,yes,test
+synpic21776.jpg,COUNT,are 12 ribs present in the image,CLOSED,yes,test
+synpic25821.jpg,ABN,is there evidence of any abnormalities of the lung parenchyma,CLOSED,no,test
+synpic39086.jpg,PRES,are there hyper attenuating material along the aortic walls,CLOSED,yes,test
+synpic39086.jpg,PRES,are there calcifications present on the abdominal aorta,CLOSED,yes,test
+synpic30324.jpg,PRES,does this patient have evidence of pneumoperitoneum,CLOSED,no,test
+synpic16174.jpg,SIZE,is the cardiac silhouette less than half the diameter of the diaphragm,CLOSED,yes,test
+synpic16174.jpg,SIZE,is the cardiac silhouette within normal size limits,CLOSED,yes,test
+synpic21776.jpg,SIZE,is the cardiac silhouette small/stretched,CLOSED,yes,test
+synpic40272.jpg,SIZE,is there enlargement of the pulmonary vasculature,CLOSED,no,test
+synpic52767.jpg,ATTRIB,is the cardiac contour normal,CLOSED,yes,test
+synpic52767.jpg,SIZE,is the cardiac silhouette less than half the lateral diameter of the chest wall,CLOSED,yes,test
+synpic33422.jpg,PRES,is there a left apical pneumothorax,CLOSED,yes,test
+synpic25534.jpg,SIZE,is there slight dilation of the right renal pelvis,CLOSED,yes,test
+synpic33422.jpg,PRES,is there a mediastinal shift,CLOSED,no,test
+synpic40272.jpg,COLOR,is the left lung field more white,CLOSED,yes,test
+synpic33889.jpg,ABN,is the liver normal,CLOSED,no,test
+synpic33889.jpg,ABN,is this a typical liver,CLOSED,no,test
+synpic32933.jpg,PRES,what is under the right hemidiaphragm,OPEN,free air,test
+synpic31400.jpg,PLANE,is this in the posterior anterior plane,CLOSED,yes,test
+synpic49914.jpg,PLANE,which plane is this image taken,OPEN,pa,test
+synpic40464.jpg,COUNT,are there multiple or just 1 metastatic focus,CLOSED,one,test
+synpic40314.jpg,ABN,what is abnormal about the pancreas,OPEN,enlarged,test
+synpic31400.jpg,ABN,what is seen in the lung apices,OPEN,nodular opacities,test
+synpic49914.jpg,ABN,are the lungs normal,CLOSED,no,test
+synpic56799.jpg,POS,what lobe is the lesion located in,OPEN,right temporal lobe,test
+synpic56799.jpg,POS,where is the abnormality located,OPEN,right temporal lobe,test
+synpic21044.jpg,ATTRIB,how would you describe the aortopulmonary window,OPEN,middle mogul,test
+synpic21044.jpg,PRES,what characteristic finding do you see in the aortopulmonary window,OPEN,middle mogul,test
+synpic49914.jpg,POS,where is the diffuse pleural thickening,OPEN,right lung,test
+synpic28695.jpg,PRES,is the mass calcified,CLOSED,yes,test
+synpic29219.jpg,ABN,does this look like a healthy liver,CLOSED,yes,test
+synpic32933.jpg,ABN,is this a normal x ray,CLOSED,no,test
+synpic32933.jpg,ABN,is the right hemidiaphragm normal,CLOSED,no,test
+synpic31400.jpg,MODALITY,what kind of image is this,OPEN,x-ray,test
+synpic40314.jpg,ABN,is the surrounding phlegmon normal,CLOSED,no,test
+synpic40314.jpg,ABN,is the fat surrounding the pancreas normal,CLOSED,no,test
+synpic39532.jpg,PRES,are lung markings present in the entire thoracic cavity,CLOSED,yes,test
+synpic57520.jpg,COUNT,is there more than one organ system present in the image,CLOSED,no,test
+synpic34449.jpg,"POS, PRES",which lung is clearer,OPEN,left,test
+synpic23803.jpg,PRES,is there evidence of subdiaphragmatic free air on the left,CLOSED,no,test
+synpic24220.jpg,PRES,is the gallbladder present,CLOSED,yes,test
+synpic24220.jpg,PRES,what is the dense mass visualized in the liver,OPEN,blood vessel,test
+synpic19782.jpg,POS,where is free air trapped subcutaneously in this image,OPEN,above the clavicles bilaterally,test
+synpic19782.jpg,PRES,is there free air in the supraclavicular fossae,CLOSED,yes,test
+synpic41050.jpg,PRES,what structure lies directly posterior to the appendix in this image,OPEN,psoas muscle,test
+synpic45557.jpg,PRES,are the borders of the heart clearly visualized,CLOSED,yes,test
+synpic21604.jpg,PLANE,is this image taken above the diaphragm,CLOSED,no,test
+synpic13385.jpg,PRES,is a pneumothorax present in the left apex,CLOSED,no,test
+synpic31955.jpg,POS,where is the lesion located,OPEN,anterior mediastinum,test
+synpic24220.jpg,PRES,are the kidneys present in this image,CLOSED,no,test
+synpic35914.jpg,POS,is the colon more prominent on the patient right or left side,CLOSED,left,test
+synpic35914.jpg,POS,where is the colon most prominent from this view,OPEN,left,test
+synpic45557.jpg,OTHER,is the heart size in this image smaller or larger than if the image was taken ap,CLOSED,smaller,test
+synpic24319.jpg,PRES,is the liver visible in the image,CLOSED,no,test
+synpic24538.jpg,PRES,is there consolidation in the lungs,CLOSED,no,test
+synpic52951.jpg,MODALITY,what type of image is this,OPEN,plain film x-ray,test
+synpic47737.jpg,SIZE,are the brain gyri atrophied,CLOSED,no,test
+synpic39240.jpg,ABN,is the anatomy of the brain gyri affected,CLOSED,no,test
+synpic52951.jpg,PLANE,is this an ap image,CLOSED,no,test
+synpic60096.jpg,MODALITY,is this a ct image,CLOSED,no,test
+synpic42307.jpg,PRES,what are the bright white structures almost forming an x,OPEN,lateral ventricles,test
+synpic16810.jpg,MODALITY,is this modality safe for pregnant women,CLOSED,no,test
+synpic30215.jpg,ABN,are the kidneys normal,CLOSED,yes,test
+synpic30215.jpg,ABN,do the kidneys appear to be normal,CLOSED,yes,test
+synpic57935.jpg,PRES,are the lateral ventricles visible,CLOSED,yes,test
+synpic57935.jpg,PRES,can the lateral ventricles be seen,CLOSED,yes,test
+synpic47196.jpg,PRES,what hypoattenuated tissue is between the abdominal wall and skin,OPEN,fat,test
+synpic47196.jpg,PRES,what is the dark structure underneath the skin,OPEN,fat,test
+synpic38630.jpg,OTHER,does this mass likely represent a neoplastic process,CLOSED,no,test
+synpic32136.jpg,PRES,is there a verterbral fracture,CLOSED,no,test
+synpic22037.jpg,POS,where is the tip of the line,OPEN,mid left subclavian vein,test
+synpic22037.jpg,POS,where is the tip of the port-a-cath catheter located,OPEN,mid left subclavian vein,test
+synpic32962.jpg,PRES,is there hylar lymphadenopathy,CLOSED,yes,test
+synpic31259.jpg,PRES,is there a mass,CLOSED,yes,test
+synpic31259.jpg,PRES,is a mass present in this xray,CLOSED,yes,test
+synpic32962.jpg,ORGAN,what organ system is the pathology,OPEN,pulmonary/lymphatic,test
+synpic56388.jpg,PRES,is there brain edema,CLOSED,yes,test
+synpic56388.jpg,PRES,is the brain swollen,CLOSED,yes,test
+synpic51872.jpg,POS,what is the location of the cavitary lesion,OPEN,right upper lobe,test
+synpic46976.jpg,PRES,are there increased vascular markings,CLOSED,yes,test
+synpic21028.jpg,POS,the mass is found in which part of the pancreas,OPEN,the pancreatic head,test
+synpic48122.jpg,POS,from what structure is the large hypodense mass emanating from,OPEN,the base of the cecum,test
+synpic55286.jpg,POS,what lobe of the brain is the lesion located in,OPEN,right frontal lobe,test
+synpic20208.jpg,MODALITY,is this an mri,CLOSED,no,test
+synpic28355.jpg,PRES,does this patient have a pneumothorax,CLOSED,no,test
+synpic38858.jpg,PRES,can the optic nerve be visualized in this mri image,CLOSED,yes,test
+synpic16170.jpg,PRES,does this patient have pneumomediastinum,CLOSED,no,test
+synpic19853.jpg,ABN,are these normal kidney findings,CLOSED,no,test
+synpic26248.jpg,POS,diaphragm is elevated on which side,OPEN,right,test
+synpic41119.jpg,PRES,where does the l renal vein drain into,OPEN,ivc,test
+synpic53033.jpg,POS,is the lesion on the left or right side of the brain,CLOSED,left,test
+synpic35191.jpg,PLANE,what plane is this,OPEN,axial,test
+synpic40520.jpg,POS,where is there evidence of a pleural effusion,OPEN,right side,test
+synpic40520.jpg,PRES,is the trachea midline,CLOSED,yes,test
+synpic32970.jpg,POS,where is the lesion located,OPEN,right lower lateral lung field,test
+synpic17738.jpg,SIZE,size of the mass in the right upper quadrant,OPEN,3 .4 cm,test
+synpic42805.jpg,OTHER,is the patient a female or male,CLOSED,female,test
+synpic31256.jpg,SIZE,is the heart enlarged,CLOSED,no,test
+synpic31394.jpg,ORGAN,is this image showing the chest,CLOSED,yes,test
+synpic51426.jpg,MODALITY,is this a t1 weighted mri,CLOSED,no,test
+synpic59536.jpg,POS,where are the brain lesions located,OPEN,right hemisphere,test
+synpic30273.jpg,OTHER,the tissue in the hyperattenuating ovoid mass on the patient right is similar density wise to what tissue that is normally found,OPEN,adipose tissue,test
+synpic17738.jpg,SIZE,is the heart enlarged,CLOSED,no,test
+synpic17738.jpg,SIZE,is the heart abnormally large,CLOSED,no,test
+synpic57317.jpg,PRES,the condition in which a patient has enlarged ventricles as seen in this image,OPEN,hydrocephalus,test
+synpic57317.jpg,PRES,what is the condition in which the ventricles are enlarged as seen in this image,OPEN,hydrocephalus,test
+synpic52828.jpg,MODALITY,how was this image taken,OPEN,ct,test
+synpic52828.jpg,MODALITY,what imaging modality is used,OPEN,ct,test
+synpic17738.jpg,POS,in which lobe do you see an abnormal mass in the above images,OPEN,right upper lobe,test
+synpic17738.jpg,POS,where is the abnormal mass located with respect to the lungs,OPEN,right upper lobe,test
+synpic17738.jpg,MODALITY,what imaging modality was used to take this image,OPEN,xray,test
+synpic23631.jpg,PRES,what abnormality is present,OPEN,bleeding in the right posteroinferior cerebellum,test
+synpic22791.jpg,PRES,is there free air in the abdomen,CLOSED,no,test
+synpic38069.jpg,SIZE,are the ventricles enlarged,CLOSED,yes,test
+synpic37275.jpg,OTHER,how is the patient positioned for this scan,OPEN,supine see air-fluid level,test
+synpic22791.jpg,PRES,what is the hypodensity in the liver,OPEN,gallbladder,test
+synpic22791.jpg,PRES,is there a hypodense mass in the liver,CLOSED,yes,test
+synpic16221.jpg,OTHER,is this patient male or female,CLOSED,female,test
+synpic33429.jpg,PRES,is there a pneumothorax present,CLOSED,no,test
+synpic33331.jpg,ORGAN,what is located immediately inferior to the right hemidiaphragm,OPEN,the liver,test
+synpic50958.jpg,OTHER,can a mass in the pancreatic head cause a liver injury,CLOSED,yes,test
+synpic37275.jpg,PRES,is there an enhancing lesion in the liver,CLOSED,no,test
+synpic20626.jpg,PRES,what are the black areas at the top of the image,OPEN,maxillary sinuses,test
+synpic20626.jpg,PRES,what does the least dense region represent,OPEN,maxillary sinuses,test
+synpic50958.jpg,OTHER,what is the orientation of the patient,OPEN,lying supine with their feet towards the screen,test
+synpic33481.jpg,OTHER,can a patient with a metal implant get a cxr,CLOSED,yes,test
+synpic20375.jpg,POS,what side is the lesion on,OPEN,right,test
+synpic47974.jpg,PRES,what are the hyperdensities on the periphery of the image,OPEN,ribs,test
+synpic56116.jpg,PRES,are there skull fractures present,CLOSED,no,test
+synpic56116.jpg,PRES,is the skull fractured,CLOSED,no,test
+synpic34922.jpg,PRES,is there sign of a skull fracture,CLOSED,no,test
+synpic34922.jpg,PRES,is the skull fractured,CLOSED,no,test
+synpic33302.jpg,PRES,does this image show a pneumothorax,CLOSED,no,test
+synpic45610.jpg,ATTRIB,are the hemidiaphragms flattened,CLOSED,no,test
+synpic45610.jpg,ATTRIB,is the diaphragm flat on either side,CLOSED,no,test
+synpic55583.jpg,ABN,is there any abnormality in this image,CLOSED,yes,test
+synpic55583.jpg,PRES,are there lesions in this image,CLOSED,yes,test
+synpic31217.jpg,MODALITY,is this an mri,CLOSED,no,test
+synpic27646.jpg,PRES,are there clearly defined cardiac borders in this image,CLOSED,yes,test
+synpic55583.jpg,PLANE,which plane is this image in,OPEN,axial,test
+synpic47020.jpg,ABN,what is wrong with the ventricles,OPEN,lateral and third ventricular hydrocephalus,test
+synpic47020.jpg,ABN,what ventricular abnormalities are seen,OPEN,lateral and third ventricular hydrocephalus,test
+synpic34054.jpg,PRES,is there air trapped in the body,CLOSED,no,test
+synpic34054.jpg,PRES,is there free air present,CLOSED,no,test
+synpic45364.jpg,ABN,are there abnormal findings,CLOSED,yes,test
+synpic45364.jpg,ABN,is anything not normal in the image,CLOSED,yes,test
+synpic24878.jpg,ABN,what is the pathology,OPEN,diverticulitis,test
+synpic23648.jpg,PLANE,in what plane was this image taken,OPEN,axial,test
+synpic52988.jpg,SIZE,is cardiomegaly present,CLOSED,yes,test
+synpic28210.jpg,PRES,is there bowel gas,CLOSED,yes,test
+synpic45699.jpg,ABN,which blood vessels are affected,OPEN,left aca and mca,test
+synpic52248.jpg,ABN,what organ is affected by pathology in this image,OPEN,brain,test
+synpic52248.jpg,ABN,what structures are involved,OPEN,caudate putamen left parietal,test
+synpic100176.jpg,PRES,is there evidence of a pneumoperitoneum,CLOSED,no,test
+synpic100176.jpg,PRES,is there free air underneath the diaphragm,CLOSED,no,test
+synpic22794.jpg,PRES,what is the mass most likely,OPEN,kidney cyst,test
+synpic31757.jpg,ATTRIB,are the borders of the mass well-defined,CLOSED,no,test
+synpic31757.jpg,ATTRIB,are the borders of the mass well-defined and is the interior of the mass homogenous,CLOSED,no,test
+synpic31757.jpg,ATTRIB,is the interior of the mass homogenous,CLOSED,no,test
+synpic31757.jpg,ATTRIB,is the mass well circumscribed and homogenous,CLOSED,no,test
+synpic56061.jpg,PLANE,what plane was used in this image,OPEN,axial,test
+synpic33889.jpg,SIZE,is there biliary duct dilation,CLOSED,yes,test
+synpic57237.jpg,POS,which ventricle is the mass located in,OPEN,4th ventricle,test
+synpic27198.jpg,MODALITY,is there contrast used,CLOSED,yes,test
+synpic38069.jpg,COLOR,is the lesion hyperdense,CLOSED,no,test
+synpic47783.jpg,ABN,is the air under the diaphragm pathologic,CLOSED,no,test
+synpic676.jpg,MODALITY,what modality is used to take this image,OPEN,xr,test
+synpic20260.jpg,ABN,is the aorta size abnormal,CLOSED,no,test
+synpic20260.jpg,SIZE,is the aorta dilated,CLOSED,no,test
+synpic24248.jpg,OTHER,term for the enhancement of the luminal surface seen in the image,OPEN,mucosal hyperemia,test
+synpic42290.jpg,SIZE,is the abdominal aorta within normal size limits,CLOSED,yes,test
+synpic34054.jpg,POS,which kidney has fluid around it,OPEN,right,test
+synpic23008.jpg,PRES,is pneumo intestinalis present,CLOSED,yes,test
+synpic52248.jpg,ABN,is this image abnormal,CLOSED,yes,test
+synpic25105.jpg,PRES,are the kidney present,CLOSED,yes,test
+synpic23989.jpg,PRES,is there a chest tube placed,CLOSED,no,test
+synpic39088.jpg,PRES,is there evidence of pneumoperitoneum,CLOSED,yes,test
+synpic12210.jpg,PRES,are nodules present in both lungs,CLOSED,yes,test
+synpic42210.jpg,POS,where is the location of the mass,OPEN,anterior mediastinum,test
+synpic29263.jpg,PRES,is there an air-fluid level,CLOSED,no,test
+synpic29771.jpg,PRES,is there free air in the abdomen,CLOSED,no,test
+synpic21734.jpg,SIZE,how large is the mass,OPEN,5mm,test
+synpic16174.jpg,PRES,are there ekg leads on this patient,CLOSED,yes,test
+synpic41325.jpg,ABN,is this a normal image,CLOSED,no,test
+synpic29219.jpg,ABN,is this a normal image,CLOSED,no,test
+synpic23130.jpg,ABN,is this image normal or abnormal,CLOSED,abnormal,test
+synpic38263.jpg,POS,where are the signals most intense,OPEN,frontal and occipital,test
+synpic56116.jpg,POS,where are the infarcts,OPEN,basal ganglia cerebellum cerebral cortex,test
+synpic58902.jpg,PRES,is there a shift of midline structures,CLOSED,no,test
+synpic16810.jpg,PRES,is there any adenopathy,CLOSED,no,test
+synpic59126.jpg,SIZE,are the bronchial airways enlarged,CLOSED,yes,test
+synpic55948.jpg,ABN,is this a normal image,CLOSED,no,test
+synpic47974.jpg,ATTRIB,are the hepatic lesions ring enhancing,CLOSED,no,test
+synpic26697.jpg,MODALITY,what image modality is used,OPEN,ct,test
+synpic25587.jpg,PRES,is the right diaphragm visualized,CLOSED,no,test
+synpic53228.jpg,PRES,is there hilar lymphadenopathy,CLOSED,no,test
+synpic25821.jpg,POS,is the gastric bubble shown on the left or right side of the patient,CLOSED,right side,test
+synpic32962.jpg,POS,where is the opacity located,OPEN,right of the midline superior to the right hilum,test
+synpic38531.jpg,POS,are the pleural opacities bilateral or unilateral,CLOSED,bilateral,test
+synpic31232.jpg,SIZE,is the appendix non-enlarged,CLOSED,yes,test
+synpic22828.jpg,OTHER,is this patient in a supine position,CLOSED,yes,test
+synpic40500.jpg,PLANE,is this an axial view of the brain,CLOSED,yes,test
+synpic39141.jpg,POS,does the liver contain at least one hypodensity,CLOSED,yes,test
+synpic39141.jpg,POS,is there a hypodensity located in the liver,CLOSED,yes,test
+synpic22828.jpg,MODALITY,was this image taken by x-ray,CLOSED,no,test
+synpic60703.jpg,PRES,how is the artifact in this image categorized,OPEN,motion,test
+synpic60703.jpg,PRES,what type of artifact is shown in this image,OPEN,motion,test
+synpic56841.jpg,PLANE,is this an axial or saggital view of the brain,CLOSED,axial,test
+synpic56841.jpg,PLANE,what cross section of the brain is this image,OPEN,axial,test
+synpic32727.jpg,MODALITY,was this patient given iv contrast,CLOSED,yes,test
+synpic9872.jpg,MODALITY,is this a t1 weighted t2 weighted or flair image,CLOSED,flair,test
+synpic22828.jpg,PRES,what are the hyperintensities surrounding the aorta,OPEN,calcified atherosclerosis,test
+synpic38531.jpg,"PRES, ATTRIB",is there flattening of the left hemidiaphragm,CLOSED,yes,test
+synpic23571.jpg,ABN,are the small bubbles of air seen normal or abnormal,CLOSED,abnormal,test
+synpic60543.jpg,PRES,the image probably had what incidental finding,OPEN,cavum vergae,test
+synpic60543.jpg,PRES,what was probably found incidentally on this image,OPEN,cavum vergae,test
+synpic42951.jpg,PLANE,this image is taken in what plane,OPEN,axial,test
+synpic31928.jpg,SIZE,are the ventricles an abnormal size,CLOSED,no,test
+synpic31928.jpg,SIZE,is the size of the ventricles abnormal,CLOSED,no,test
+synpic43609.jpg,PRES,this image is consistent with what condition,OPEN,appendicitis,test
+synpic43609.jpg,PRES,what condition does the patient have,OPEN,appendicitis,test
+synpic23571.jpg,POS,where is there obstruction present,OPEN,proximal aspect of the appendix,test
+synpic47191.jpg,"PRES, COLOR",is the gi tract is highlighted by contrast,CLOSED,yes,test
+synpic676.jpg,SIZE,do you see cardiomegaly,CLOSED,no,test

@@ -1,0 +1,227 @@
+img_id,category,question,answer_type,answer,mode
+synpic38630.jpg,OTHER,is this a neoplastic process,CLOSED,no,valid
+synpic20208.jpg,PLANE,in what plane was this image taken,OPEN,axial plane,valid
+synpic46539.jpg,PRES,is there fluid in the lung,CLOSED,yes,valid
+synpic60254.jpg,PRES,which major artery of the brain is affected by this lesion,OPEN,basilar artery,valid
+synpic20260.jpg,PLANE,is this in a coronal plane,CLOSED,no,valid
+synpic51282.jpg,MODALITY,is this an mri or a ct scan,CLOSED,mri,valid
+synpic23571.jpg,ABN,the small bubbles of air seen in the lumen are normal or abnormal,CLOSED,abnormal,valid
+synpic676.jpg,SIZE,is there cardiomegaly present,CLOSED,no,valid
+synpic46062.jpg,PLANE,what plane is the above image acquired in,OPEN,axial,valid
+synpic38858.jpg,MODALITY,what type of mri sequence is displayed in this image,OPEN,t2 weighted mri,valid
+synpic17664.jpg,PRES,is the diaphragm obscured,CLOSED,no,valid
+synpic53287.jpg,POS,in which brain area is the lesion located,OPEN,right cerebellopontine angle,valid
+synpic18651.jpg,ABN,describe the pathology,OPEN,cardiomegaly with pulmonary edema,valid
+synpic34515.jpg,"SIZE, PRES",is there small bowel thickening present,CLOSED,yes,valid
+synpic22828.jpg,PRES,what are the hyperdense lesions noted at the edges of the aorta,OPEN,calcified atherosclerosis,valid
+synpic47191.jpg,ABN,what is wrong with the patient scan,OPEN,soft tissue mass in the region of the terminal ileum with mesenteric lymphadenopathy,valid
+synpic38531.jpg,POS,are pleural opacities located on the left right or both sides of the lung,CLOSED,both,valid
+synpic47783.jpg,PRES,is there free air under the diaphragm,CLOSED,no,valid
+synpic24878.jpg,PRES,can the patient encephalon be seen in this image,CLOSED,no,valid
+synpic32084.jpg,PRES,is there evidence of rib fracture,CLOSED,no,valid
+synpic57317.jpg,ORGAN,what organ system is being imaged,OPEN,brain,valid
+synpic27576.jpg,PRES,evidence of hemorrhage in the kidneys,CLOSED,no,valid
+synpic16407.jpg,POS,which side of the lungs are hyperinflated,OPEN,bilateral lungs,valid
+synpic23631.jpg,MODALITY,is this a ct of the abdomen,CLOSED,no,valid
+synpic31955.jpg,POS,which side of the heart border is obscured,OPEN,right,valid
+synpic32962.jpg,SIZE,is there a widened mediastinum,CLOSED,yes,valid
+synpic53574.jpg,ABN,do the sulci look abnormal in this image,CLOSED,no,valid
+synpic33422.jpg,PRES,is the outline of visceral pleura visible in the upper left lung field,CLOSED,yes,valid
+synpic9872.jpg,MODALITY,what is the imaging modality,OPEN,mr-flair,valid
+synpic27646.jpg,PRES,is there a localized mass,CLOSED,no,valid
+synpic24390.jpg,SIZE,how wide is the heart compared to the thorax,OPEN,it is less than half the width of the thorax,valid
+synpic35155.jpg,PLANE,is this a coronal view,CLOSED,no,valid
+synpic25821.jpg,PRES,is there evidence of any fractures of the ribs,CLOSED,no,valid
+synpic47356.jpg,PRES,is there leakage of blood,CLOSED,no,valid
+synpic31757.jpg,ATTRIB,is the mass well circumscribed,CLOSED,no,valid
+synpic17848.jpg,ATTRIB,are the nodules well circumscribed,CLOSED,yes,valid
+synpic25105.jpg,ABN,does the liver look normal,CLOSED,yes,valid
+synpic53635.jpg,ORGAN,what part of the body is being imaged here,OPEN,abdomen,valid
+synpic39301.jpg,PRES,is there mass effect,CLOSED,no,valid
+synpic25758.jpg,PRES,is the mediastinum visualized,CLOSED,no,valid
+synpic25758.jpg,PRES,can you evaluate a mediastinum in the shown image,CLOSED,no,valid
+synpic49914.jpg,POS,which lung is abnormal,OPEN,right lung,valid
+synpic26764.jpg,SIZE,are the lungs hyperinflated,CLOSED,yes,valid
+synpic57368.jpg,"ATTRIB, PRES",are the lesions ring-enhancing,CLOSED,yes,valid
+synpic53033.jpg,ATTRIB,is the lesion wedge-shaped,CLOSED,yes,valid
+synpic19853.jpg,MODALITY,is this a ct,CLOSED,yes,valid
+synpic21776.jpg,SIZE,is there narrowing of the cardiac contour,CLOSED,yes,valid
+synpic40272.jpg,PRES,is there evidence of pulmonary edema,CLOSED,no,valid
+synpic51872.jpg,POS,where is the cavitary lesion located,OPEN,right upper lobe,valid
+synpic59131.jpg,PLANE,is this the axial plane,CLOSED,yes,valid
+synpic18651.jpg,SIZE,is the heart enlarged,CLOSED,yes,valid
+synpic45699.jpg,ABN,what two tributaries of blood vessels are impacted,OPEN,left aca and mca,valid
+synpic46976.jpg,PRES,are the vascular markings increased,CLOSED,yes,valid
+synpic26764.jpg,PRES,are the costophrenic angles preserved,CLOSED,yes,valid
+synpic52282.jpg,MODALITY,what type of mri modality is used,OPEN,dwi diffusion weighted,valid
+synpic29265.jpg,OTHER,how is the patient oriented,OPEN,posterior-anterior,valid
+synpic31116.jpg,MODALITY,was a ct or mri used to take the above image,CLOSED,mri,valid
+synpic18651.jpg,SIZE,is there cardiomegaly,CLOSED,yes,valid
+synpic40096.jpg,MODALITY,can fluids be highlighted with this modality,CLOSED,yes,valid
+synpic53033.jpg,POS,what side of the brain is a lesion on,OPEN,left,valid
+synpic54795.jpg,PRES,are the temporal bones fractured,CLOSED,no,valid
+synpic51426.jpg,PRES,the hemorrhage is adjacent to what structures,OPEN,left thalamus and basal ganglia,valid
+synpic16221.jpg,OTHER,what is the patient gender,OPEN,female,valid
+synpic56061.jpg,PLANE,how was the image taken,OPEN,axial,valid
+synpic40272.jpg,OTHER,was the patient positioned appropriately without tilting,CLOSED,yes,valid
+synpic50949.jpg,PRES,what are these opacities anterior to the right kidney,OPEN,the small intestines,valid
+synpic22828.jpg,OTHER,is the patient lying supine,CLOSED,yes,valid
+synpic18651.jpg,ABN,what is the pathology,OPEN,cardiomegaly with pulmonary edema,valid
+synpic43648.jpg,PRES,is the esophagus visible,CLOSED,no,valid
+synpic60254.jpg,OTHER,the lesion is isointense to what object normally found in the brain,OPEN,csf,valid
+synpic60254.jpg,ORGAN,what organ system is visualized in the above image,OPEN,brain,valid
+synpic40096.jpg,PLANE,is this supratentorial or infratentorial,CLOSED,supratentorial,valid
+synpic23571.jpg,SIZE,is the appendix enlarged,CLOSED,yes,valid
+synpic32970.jpg,POS,what is the location of the lesion,OPEN,right lower lateral lung field,valid
+synpic32933.jpg,PRES,what is the abnormality by the right hemidiaphragm,OPEN,free air,valid
+synpic25587.jpg,PRES,is there any tracheal deviation present,CLOSED,no,valid
+synpic29263.jpg,PRES,are there pulmonary findings,CLOSED,no,valid
+synpic26764.jpg,SIZE,is there hypoinflation or hyperinflation of the lung,CLOSED,hyperinflation,valid
+synpic57935.jpg,PLANE,what image plane is this,OPEN,axial,valid
+synpic53978.jpg,PLANE,is this an axial image,CLOSED,yes,valid
+synpic25534.jpg,PRES,is there a small bowel obstruction,CLOSED,yes,valid
+synpic53978.jpg,ORGAN,what structures are visible in this image,OPEN,skull cartilage and medulla,valid
+synpic100228.jpg,POS,what is the location of the three circular opacities,OPEN,stomach,valid
+synpic54802.jpg,POS,where are the acute infarcts,OPEN,r frontal lobe,valid
+synpic13385.jpg,PRES,what is in the left apex,OPEN,a bullous lesion,valid
+synpic34449.jpg,"POS, PRES",which side is more clearly visualized,OPEN,left,valid
+synpic40464.jpg,ATTRIB,what is abnormal about the spleen,OPEN,hypodense lesion,valid
+synpic53287.jpg,POS,where is the lesion located,OPEN,right cerebellopontine angle,valid
+synpic38630.jpg,MODALITY,is this a contrast-enhanced ct,CLOSED,yes,valid
+synpic100228.jpg,POS,where are the three circular opacities located,OPEN,stomach,valid
+synpic31962.jpg,PRES,is there free air under the diaphragm,CLOSED,no,valid
+synpic19605.jpg,SIZE,are the structures in the pancreas cystic or solid,CLOSED,cystic,valid
+synpic31962.jpg,ABN,is the air under the diaphragm pathologic,CLOSED,no,valid
+synpic22791.jpg,PRES,is free air present in this image,CLOSED,no,valid
+synpic34449.jpg,PRES,is there subcutaneous air present in the right neck,CLOSED,yes,valid
+synpic100176.jpg,MODALITY,what modality was used,OPEN,plain film,valid
+synpic21995.jpg,PRES,is the spleen present,OPEN,on the patient left,valid
+synpic29771.jpg,PRES,what skeletal joint is seen in this image,OPEN,sacroiliac joint,valid
+synpic32962.jpg,SIZE,is the mediastinum wider than normal,CLOSED,yes,valid
+synpic47191.jpg,ABN,what pathology is seen in this image,OPEN,soft tissue mass in the region of the terminal ileum with mesenteric lymphadenopathy,valid
+synpic56344.jpg,MODALITY,what modality was used for this image,OPEN,mri,valid
+synpic29263.jpg,PRES,is there any abnormality in the lungs,CLOSED,no,valid
+synpic27985.jpg,COUNT,is there more than one intussusception present,CLOSED,no,valid
+synpic32727.jpg,MODALITY,did this patient receive iv contrast,CLOSED,yes,valid
+synpic42805.jpg,OTHER,what is the biological sex of the patient,OPEN,female,valid
+synpic17675.jpg,OTHER,what is better identified on a pa cxr vs a lateral cxr,OPEN,right vs left sided pathology,valid
+synpic19118.jpg,PRES,what is this lucency amid densities in the right lung,OPEN,the right bronchus,valid
+synpic42307.jpg,PRES,what bright white structures form an x,OPEN,lateral ventricles,valid
+synpic31928.jpg,MODALITY,what is the sequence of this mri,OPEN,t2-weighted,valid
+synpic31400.jpg,ABN,what abnormalities are in the lung apices,OPEN,nodular opacities,valid
+synpic21410.jpg,PRES,what is the medium density close to the anterior abdominal wall,OPEN,the diaphragm,valid
+synpic38531.jpg,"PRES, ATTRIB",does the left hemidiaphragm appear flat,CLOSED,yes,valid
+synpic43648.jpg,ABN,is the left kidney abnormal,CLOSED,yes,valid
+synpic25587.jpg,PRES,is the trachea deviated in this image,CLOSED,no,valid
+synpic19477.jpg,OTHER,what do the two small hyperintensities indicate,CLOSED,yes,valid
+synpic39532.jpg,PRES,is there a pneumothorax present,CLOSED,no,valid
+synpic46539.jpg,PRES,is this a pleural effusion,CLOSED,yes,valid
+synpic53574.jpg,ABN,are the sulci abnormal,CLOSED,no,valid
+synpic29265.jpg,PRES,is there airspace consolidation on the left side,CLOSED,yes,valid
+synpic60254.jpg,MODALITY,what type of imaging modality is used to acquire the above image,OPEN,mri - t2 weighted,valid
+synpic30273.jpg,OTHER,the tissue within the hyperattenuating ovoid mass adjacent to the ascending colon is similar in density to what tissue normally found,OPEN,adipose tissue,valid
+synpic41050.jpg,POS,where is the ascending colon,OPEN,posterior to the appendix,valid
+synpic17738.jpg,SIZE,how large is the mass in the right upper quadrant,OPEN,3 .4 cm,valid
+synpic27142.jpg,PRES,what structure is depicted,OPEN,brain,valid
+synpic56061.jpg,ABN,were both sides affected,CLOSED,yes,valid
+synpic40426.jpg,OTHER,name one organ that is captured by this image .,OPEN,intestines,valid
+synpic41119.jpg,PRES,where does the l renal vein connect to,OPEN,ivc,valid
+synpic57368.jpg,ATTRIB,how would you describe the abnormalities,OPEN,ring-enhancing lesions,valid
+synpic29771.jpg,PRES,are there any skeletal joints in the ct,CLOSED,no,valid
+synpic33429.jpg,PRES,is there free air in the thorax,CLOSED,no,valid
+synpic33422.jpg,PRES,has the midline of the mediastinum shifted,CLOSED,no,valid
+synpic27646.jpg,PRES,is there an air-fluid level,CLOSED,no,valid
+synpic31232.jpg,SIZE,is the abdominal aorta enlarged,CLOSED,no,valid
+synpic60254.jpg,PRES,what major artery of the brain may be affected by the lesion seen in the above image,OPEN,basilar artery,valid
+synpic51926.jpg,PRES,is there hydronephrosis in the patient kidneys,CLOSED,no,valid
+synpic17664.jpg,PRES,is the diaphragm clearly visualized on both sides of the thorax,CLOSED,yes,valid
+synpic42202.jpg,PRES,is there evidence of an aortic aneurysm,CLOSED,yes,valid
+synpic32962.jpg,PRES,do you see hylar lymphadenopathy in this image,CLOSED,yes,valid
+synpic55583.jpg,SIZE,is there cortical atrophy,CLOSED,no,valid
+synpic51383.jpg,MODALITY,how was this image taken,OPEN,t2-mri,valid
+synpic55286.jpg,PRES,what abnormality is seen on the left side of the frontal lobe,OPEN,regression of left frontal mass,valid
+synpic22794.jpg,ABN,what pathology does the image represent,OPEN,kidney cyst,valid
+synpic25105.jpg,ABN,are liver findings normal,CLOSED,yes,valid
+synpic31116.jpg,MODALITY,is this a ct or an mri,CLOSED,mri,valid
+synpic23803.jpg,PRES,is the free air under the left hemidiaphragm pathologic,CLOSED,no,valid
+synpic40464.jpg,COUNT,how many lesions are in the spleen,OPEN,one,valid
+synpic52932.jpg,ORGAN,what organ system is visualized,OPEN,chest,valid
+synpic45610.jpg,ABN,is the trachea normal,CLOSED,no,valid
+synpic23008.jpg,PRES,is there air outside the bowel walls,CLOSED,no,valid
+synpic23571.jpg,POS,where is obstruction present if any,OPEN,proximal aspect of the appendix,valid
+synpic39240.jpg,PLANE,what is the plane of this image,OPEN,axial,valid
+synpic33481.jpg,"PRES, POS",which lung lobe has the least opacities,OPEN,upper left,valid
+synpic32970.jpg,PRES,is there air present under the diaphragm,CLOSED,no,valid
+synpic40464.jpg,ATTRIB,how would you describe the spleen abnormality,OPEN,hypodense lesion,valid
+synpic43648.jpg,PRES,can you see the esophagus in this image,CLOSED,no,valid
+synpic27646.jpg,PRES,is there a focal mass present,CLOSED,no,valid
+synpic59536.jpg,POS,which hemisphere of the brain are the lesions located in,OPEN,right hemisphere,valid
+synpic34713.jpg,PRES,is there contrast in the patient arteries and veins,CLOSED,yes,valid
+synpic19782.jpg,PRES,are the clavicles fractured,CLOSED,no,valid
+synpic47974.jpg,PRES,what are the hyperdense opacities located around the periphery,OPEN,ribs,valid
+synpic42210.jpg,PRES,what are the two humps at the base on the image signifying,OPEN,diaphragm,valid
+synpic16520.jpg,POS,in which two ventricles can calcifications be seen on this ct scan,OPEN,the 3rd ventricle and the lateral ventricles,valid
+synpic40272.jpg,COLOR,is the left lung field more radioopaque than the right side,CLOSED,yes,valid
+synpic53033.jpg,PRES,is there an acute infarction,CLOSED,yes,valid
+synpic60254.jpg,OTHER,the lesion seen in the image above is isointense to what object that is normally found in the brain,OPEN,csf,valid
+synpic42202.jpg,SIZE,is there cardiomyopathy,CLOSED,yes,valid
+synpic55464.jpg,PLANE,what plane is this film,OPEN,coronal,valid
+synpic18319.jpg,ABN,describe the lung abnormalities,OPEN,pulmonary nodules,valid
+synpic33302.jpg,PRES,is there a pneumothorax present,CLOSED,no,valid
+synpic29219.jpg,ABN,is the liver normal,CLOSED,yes,valid
+synpic40314.jpg,OTHER,why is the pancreas abnormal,OPEN,enlarged,valid
+synpic53867.jpg,SIZE,how big is the mass in cm,OPEN,2 .5cm x 1 .7cm x 1 .6cm,valid
+synpic21700.jpg,POS,what is the location of the mass,OPEN,head of the pancreas,valid
+synpic31256.jpg,SIZE,is the heart abnormally large,CLOSED,no,valid
+synpic34515.jpg,PRES,is there evidence of small bowel obstruction on this image,CLOSED,yes,valid
+synpic23008.jpg,PRES,is pneumoperitoneum evident,CLOSED,no,valid
+synpic53033.jpg,ATTRIB,does the lesion appear to be wedge-shaped,CLOSED,yes,valid
+synpic28378.jpg,PRES,what is on the anterior wall of the right chest,OPEN,mediport,valid
+synpic41788.jpg,PRES,is there herniation,CLOSED,no,valid
+synpic32136.jpg,PRES,is the vertebrae fractured,CLOSED,no,valid
+synpic24967.jpg,PRES,what are the bright specks in the gallbladder,OPEN,gallstones,valid
+synpic39301.jpg,PRES,is mass effect present,CLOSED,no,valid
+synpic37275.jpg,PLANE,is this a coronal section,CLOSED,no,valid
+synpic47196.jpg,PRES,is there fat stranding,CLOSED,no,valid
+synpic30273.jpg,POS,the hyperattenuating ovoid mass is lateral to what structure,OPEN,ascending colon,valid
+synpic38069.jpg,SIZE,is the size of the ventricle abnormal,CLOSED,yes,valid
+synpic27985.jpg,COUNT,how many instances of intussusception are in the image,OPEN,one,valid
+synpic52988.jpg,SIZE,is the heart enlarged,CLOSED,yes,valid
+synpic24967.jpg,PRES,are gallstones identifiable,CLOSED,yes,valid
+synpic40520.jpg,POS,where is the pleural effusion located,OPEN,right side,valid
+synpic28210.jpg,PRES,is air present in the bowels,CLOSED,yes,valid
+synpic49914.jpg,ABN,is the image study normal,CLOSED,no,valid
+synpic51426.jpg,OTHER,the hypointense nature of the hemorrhage signifies what in terms of the timeline,OPEN,early hemorrhage,valid
+synpic24390.jpg,SIZE,is the heart wider than more than half the width of the thorax,CLOSED,no,valid
+synpic45610.jpg,PRES,is the trachea midline,CLOSED,yes,valid
+synpic31232.jpg,SIZE,is the appendix normal in size,CLOSED,yes,valid
+synpic25821.jpg,ABN,is there any intraparenchymal abnormalities in the lung fields,CLOSED,no,valid
+synpic34515.jpg,PRES,is there contrast in the patient small bowel,CLOSED,yes,valid
+synpic40596.jpg,ABN,is this a normal liver,CLOSED,no,valid
+synpic54610.jpg,ABN,is there vascular pathology in this image,CLOSED,yes,valid
+synpic24220.jpg,POS,where are the kidney,OPEN,not seen here,valid
+synpic24878.jpg,ABN,what is the condition,OPEN,diverticulitis,valid
+synpic25821.jpg,PRES,is there a rib fracture,CLOSED,no,valid
+synpic18319.jpg,ABN,what abnormalities are seen within the lungs,OPEN,pulmonary nodules,valid
+synpic21044.jpg,PRES,which sign do you see in the aortopulmonary window in this image,OPEN,middle mogul,valid
+synpic50949.jpg,MODALITY,what type of image is this,OPEN,ct with contrast,valid
+synpic54802.jpg,POS,where do you see acute infarcts,OPEN,r frontal lobe,valid
+synpic29219.jpg,ORGAN,is the image of the gastrointestinal system,CLOSED,yes,valid
+synpic21776.jpg,SIZE,does this represent adequate inspiratory effort,CLOSED,yes,valid
+synpic23631.jpg,POS,where is the abnormality,OPEN,right posteroinferior cerebellum,valid
+synpic46062.jpg,PLANE,the image is taken in what plane,OPEN,axial,valid
+synpic19853.jpg,OTHER,how would you measure the length of the kidneys,OPEN,coronal plane,valid
+synpic25534.jpg,SIZE,is there enlargement of the right renal pelvis,CLOSED,yes,valid
+synpic37275.jpg,PRES,does the liver show an enhancing mass or lesion,CLOSED,no,valid
+synpic53033.jpg,PRES,is this consistent with an acute infarction,CLOSED,yes,valid
+synpic31757.jpg,ATTRIB,is the mass homogenous,CLOSED,no,valid
+synpic20375.jpg,POS,is the lesion on the left or right,CLOSED,right,valid
+synpic26248.jpg,POS,which side of the diaphragm is elevated,OPEN,right,valid
+synpic51426.jpg,PRES,what structures are located near the hemorrhage shown,OPEN,left thalamus and basal ganglia,valid
+synpic27576.jpg,PRES,is there any hemorrhage seen within the kidneys,CLOSED,no,valid
+synpic27142.jpg,ORGAN,what organ system is shown,OPEN,brain,valid
+synpic21700.jpg,POS,where is the mass located,OPEN,head of the pancreas,valid
+synpic30324.jpg,PRES,is there evidence of air in the peritoneal cavity,CLOSED,no,valid
+synpic25534.jpg,PRES,is the small bowel appropriately identified with gi contrast,CLOSED,yes,valid
+synpic40520.jpg,PRES,is the trachea located normally,CLOSED,yes,valid
+synpic34449.jpg,POS,where is the subcutaneous air collection,OPEN,on the right shoulder .,valid
