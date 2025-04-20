@@ -134,14 +134,11 @@ This will open a web interface where you can:
 
 ## Pre-trained Model
 
-You can download our pre-trained model from [link to your model] and place it in the `checkpoints` directory.
+You can download our pre-trained model from https://huggingface.co/arushiaro/medical_vqa_arushi and place it in the `checkpoints` directory.
 
-## Acknowledgments
+
 
 This project uses the following pre-trained models:
 - [flaviagiammarino/pubmed-clip-vit-base-patch32](https://huggingface.co/flaviagiammarino/pubmed-clip-vit-base-patch32) for image encoding
 - [cemilcelik/distilgpt2_pubmed](https://huggingface.co/cemilcelik/distilgpt2_pubmed) for language modeling
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
